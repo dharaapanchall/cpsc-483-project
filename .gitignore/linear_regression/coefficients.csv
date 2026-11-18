@@ -1,0 +1,24 @@
+feature,linear_regression,ridge
+actor_is_debut,-2.4981,-1.4459
+actor_prior_appearances,-1.6426,-0.7773
+actor_prior_same_char_count,-0.3457,-0.3192
+is_tv_series,-0.4848,-0.2875
+universe_Pre-MCU,-0.216,-0.217
+actor_prior_best_billing,-0.6094,-0.2157
+actor_prior_lead_count,0.0636,-0.1515
+actor_years_since_last,-0.3103,-0.0706
+universe_MCU,-0.1063,-0.0549
+is_animated,-0.0,0.0
+universe_Fox / X-Men,0.0735,0.0961
+universe_Sony / Spider-Man,0.2489,0.1758
+year,0.2071,0.1913
+is_voice_role,0.227,0.3119
+actor_years_since_first,0.7141,0.3248
+actor_prior_mcu_appearances,0.6965,0.4035
+char_prior_appearances,0.4774,0.4229
+actor_prior_mean_billing,1.239,0.4565
+char_seen_before,0.6488,0.5765
+actor_last_billing,0.7026,0.8241
+is_uncredited,5.3271,1.7176
+char_prior_best_billing,1.9014,1.7726
+actor_reprising_role,2.3441,1.944

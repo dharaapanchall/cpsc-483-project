@@ -1,0 +1,4 @@
+model,MAE,RMSE,R2,within_3_spots,tier_accuracy
+Baseline (mean),3.759,4.327,-0.005,0.397,0.343
+Linear Regression,3.365,4.063,0.114,0.498,0.495
+Ridge (alpha tuned by CV),3.353,4.042,0.123,0.512,0.519

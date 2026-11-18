@@ -1,0 +1,1441 @@
+title,year,actor_name,character,actor_prior_appearances,actor_prior_mcu_appearances,actor_prior_lead_count,actor_prior_best_billing,actor_prior_mean_billing,actor_last_billing,actor_years_since_first,actor_years_since_last,char_prior_appearances,char_prior_best_billing,actor_prior_same_char_count,actor_is_debut,char_seen_before,actor_reprising_role,is_voice_role,is_uncredited,is_tv_series,is_animated,universe,billing_position,billing_tier
+Captain America,1944,Dick Purcell,Captain America / Grant Gardner,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,1,0
+Captain America,1944,Lorna Gray,Gail Richards,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Captain America,1944,Lionel Atwill,Cyrus Maldor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Captain America,1944,Charles Trowbridge,Police Commissioner Dryden,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Captain America,1944,Russell Hicks,Mayor Randolph,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Captain America,1944,George J. Lewis,Bart Matson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Captain America,1944,John Davidson,Gruber,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Captain America,1944,Frank Reicher,Lyman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Captain America,1944,Al Ferguson,Detective,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Captain America,1944,Howard Hickman,Lyman’s Attorney,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Captain America,1944,Tom London,Mack,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Captain America,1944,Edward Van Sloan,Gregory,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Captain America,1944,James Carlisle,J.V. Wilson (uncredited),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,1,0,0,Pre-MCU,13,2
+The Amazing Spider-Man,1977,Nicholas Hammond,Peter Parker / Spider-Man,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,1,0
+The Amazing Spider-Man,1977,David White,J. Jonah Jameson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,2,0
+The Amazing Spider-Man,1977,Michael Pataki,Captain Barbera,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,3,0
+The Amazing Spider-Man,1977,Hilly Hicks,Robbie Robertson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,4,1
+The Amazing Spider-Man,1977,Lisa Eilbacher,Judy Tyler,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,5,1
+The Amazing Spider-Man,1977,Dick Balduzzi,Delivery Man,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,6,1
+The Amazing Spider-Man,1977,Jeff Donnell,Aunt May Parker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,7,1
+The Amazing Spider-Man,1977,Bob Hastings,Monahan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,8,1
+The Amazing Spider-Man,1977,Barry Cutler,Purse Snatcher,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,9,2
+The Amazing Spider-Man,1977,Thayer David,Edward Byron,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,10,2
+The Amazing Spider-Man,1977,Ivor Francis,Prof. Noah Tyler,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,11,2
+The Amazing Spider-Man,1977,Norman Rice,Henchman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,12,2
+The Amazing Spider-Man,1977,Len Lesser,Henchman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,13,2
+The Amazing Spider-Man,1977,Carmelita Pope,Group Member,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,14,2
+The Amazing Spider-Man,1977,George Lane Cooper,Group Member,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,Sony / Spider-Man,15,2
+Dr. Strange,1978,Peter Hooten,Dr. Stephen Strange,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,1,0
+Dr. Strange,1978,Clyde Kusatsu,Wong,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Dr. Strange,1978,Jessica Walter,Morgan LeFay,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Dr. Strange,1978,Anne-Marie Martin,Clea Lake,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Dr. Strange,1978,Philip Sterling,"Dr Frank Taylor, Chief of Psychiatry",0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Dr. Strange,1978,John Mills,Thomas Lindmer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Dr. Strange,1978,June Barrett,Sarah,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Dr. Strange,1978,Sarah Rush,Nurse,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Dr. Strange,1978,Diana Webster,Head Nurse,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Dr. Strange,1978,Bob Delegall,Intern,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Dr. Strange,1978,Larry Anderson,Magician,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Dr. Strange,1978,Blake Marion,Department Chief,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Dr. Strange,1978,Lady Rowlands,Mrs. Sullivan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Dr. Strange,1978,Ines Pedroza,Announcer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Dr. Strange,1978,Michael Clark,Taxi Driver,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+The Incredible Hulk,1978,Bill Bixby,Dr. David Bruce Banner,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,1,0
+The Incredible Hulk,1978,Jack Colvin,Jack McGee,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+The Incredible Hulk,1978,Lou Ferrigno,The Incredible Hulk,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+The Incredible Hulk,1978,Mariette Hartley,Dr. Caroline Fields,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+The Incredible Hulk,1978,Brian Cutler,Brad,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+The Incredible Hulk,1978,Diane Markoff,The Girl,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+The Incredible Hulk,1978,Duncan Gamble,Mark,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+The Incredible Hulk,1978,Meeno Peluce,The Boy,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+The Incredible Hulk,1978,Rosalind Chao,Receptionist,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+The Incredible Hulk,1978,Russ Grieve,Conservative Man,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+The Incredible Hulk,1978,Nat Jones,1st Messenger,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+The Incredible Hulk,1978,Russell Takaki,2nd Messenger,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+The Incredible Hulk,1978,Ted Cassidy,Narrator / Hulk (voice) (uncredited),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,1,0,0,Pre-MCU,13,2
+Spider-Man Strikes Back,1978,Nicholas Hammond,Peter Parker / Spider-Man,1,0,1,1,1.0,1,1,1,1,1,1,0,1,1,0,0,0,0,Pre-MCU,1,0
+Spider-Man Strikes Back,1978,Robert F. Simon,J. Jonah Jameson,0,0,0,16,16.0,16,0,0,1,2,0,1,1,0,0,0,0,0,Pre-MCU,2,0
+Spider-Man Strikes Back,1978,Michael Pataki,Captain Barbera,1,0,1,3,3.0,3,1,1,1,3,1,0,1,1,0,0,0,0,Pre-MCU,3,0
+Spider-Man Strikes Back,1978,JoAnna Cameron,Gale Hoffman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Spider-Man Strikes Back,1978,Robert Alda,Mr. White,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Spider-Man Strikes Back,1978,Chip Fields,Rita Conway,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Spider-Man Strikes Back,1978,Randy Powell,Craig,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Spider-Man Strikes Back,1978,Lawrence P. Casey,Angel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Spider-Man Strikes Back,1978,Simon Scott,Dr. Baylor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Spider-Man Strikes Back,1978,Sidney Clute,Inspector DeCarlo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Spider-Man Strikes Back,1978,Anne Bloom,Carla Wilson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Spider-Man Strikes Back,1978,Steven Anderson,Ted,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Spider-Man Strikes Back,1978,Herbie Braha,LeBeau,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Spider-Man Strikes Back,1978,Emil Farkas,Benson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Spider-Man Strikes Back,1978,Leigh Kavanaugh,Linda,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Captain America,1979,Reb Brown,Captain America / Steve Rogers,0,0,0,16,16.0,16,0,0,1,1,0,1,1,0,0,0,0,0,Pre-MCU,1,0
+Captain America,1979,Len Birman,Dr. Simon Mills,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Captain America,1979,Heather Menzies,Dr. Wendy Day,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Captain America,1979,Robin Mattson,Tina Hayden,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Captain America,1979,Joseph Ruskin,Rudy Sandrini,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Captain America,1979,Lance LeGault,Harley,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Captain America,1979,Frank Marth,Charles Barber,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Captain America,1979,Steve Forrest,Lou Brackett,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Captain America,1979,Harry Johnson,Jerry,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Captain America,1979,James Ingersoll,Lester Wiant,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Captain America,1979,Jim B. Smith,F.B.I. Assistant,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Captain America,1979,Jason Wingreen,Surgeon,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Captain America,1979,June Dayton,Secretary,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Captain America,1979,Diana Webster,Nurse,1,0,0,9,9.0,9,1,1,0,16,0,0,0,0,0,0,0,0,Pre-MCU,14,2
+Captain America,1979,Dan Barton,Jeff Haden,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Captain America II: Death Too Soon,1979,Reb Brown,Captain America / Steve Rogers,0,0,0,16,16.0,16,0,0,1,1,0,1,1,0,0,0,0,0,Pre-MCU,1,0
+Captain America II: Death Too Soon,1979,Connie Sellecca,Dr. Wendy Day,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Captain America II: Death Too Soon,1979,Len Birman,Dr. Simon Mills,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Captain America II: Death Too Soon,1979,Christopher Lee,Miguel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Captain America II: Death Too Soon,1979,Katherine Justice,Helen Moore,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Captain America II: Death Too Soon,1979,Christopher Cary,Prof. Ian Ilson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Captain America II: Death Too Soon,1979,William Lucking,Stader,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Captain America II: Death Too Soon,1979,Stanley Kamel,Kramer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Captain America II: Death Too Soon,1979,Ken Swofford,Everett Bliss,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Captain America II: Death Too Soon,1979,Lana Wood,Yolanda,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Captain America II: Death Too Soon,1979,Arthur Rosenberg,Doctor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Captain America II: Death Too Soon,1979,William Mims,Dr. J. Brenner,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Captain America II: Death Too Soon,1979,Alex Hyde-White,Young Man,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Captain America II: Death Too Soon,1979,Lachelle Chamberlain,Young Girl,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Captain America II: Death Too Soon,1979,Susan French,Mrs. Shaw,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+The Incredible Hulk Returns,1988,Bill Bixby,Dr. David Bruce Banner,1,0,1,1,1.0,1,10,10,1,1,1,0,1,1,0,0,0,0,Pre-MCU,1,0
+The Incredible Hulk Returns,1988,Lou Ferrigno,The Hulk,1,0,1,3,3.0,3,10,10,1,13,0,0,1,0,0,0,0,0,Pre-MCU,2,0
+The Incredible Hulk Returns,1988,Jack Colvin,Jack McGee,1,0,1,2,2.0,2,10,10,1,2,1,0,1,1,0,0,0,0,Pre-MCU,3,0
+The Incredible Hulk Returns,1988,Lee Purcell,Maggie Shaw,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+The Incredible Hulk Returns,1988,Charles Napier,Mike Fouche,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+The Incredible Hulk Returns,1988,John Gabriel,Joshua Lambert,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+The Incredible Hulk Returns,1988,Jay Baker,Zack Lambert,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+The Incredible Hulk Returns,1988,Tim Thomerson,Jack LeBeau,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+The Incredible Hulk Returns,1988,Eric Allan Kramer,Thor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+The Incredible Hulk Returns,1988,Steve Levitt,Donald Blake,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+The Incredible Hulk Returns,1988,William Riley,Sgt. Lindsey,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+The Incredible Hulk Returns,1988,Tom Finnegan,Capt. Brills,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+The Incredible Hulk Returns,1988,Donald Willis,Elwood,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+The Incredible Hulk Returns,1988,Carl Ciarfalio,Barner,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+The Incredible Hulk Returns,1988,Bobby McLaughlin,Roarke,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+The Punisher,1989,Dolph Lundgren,Frank Castle,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,1,0
+The Punisher,1989,Louis Gossett Jr.,Jake Berkowitz,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+The Punisher,1989,Jeroen Krabbé,Gianni Franco,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+The Punisher,1989,Kim Miyori,Lady Tanaka,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+The Punisher,1989,Bryan Marshall,Dino Moretti,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+The Punisher,1989,Nancy Everhard,Sam Leary,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+The Punisher,1989,Barry Otto,Shake,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+The Punisher,1989,Brian Rooney,Tommy Franco,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+The Punisher,1989,Zoshka Mizak,Tanaka's Daughter,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+The Punisher,1989,Kenji Yamaki,Sato,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+The Punisher,1989,Hirofumi Kanayama,Tomio,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+The Punisher,1989,Larry McCormick,TV Newsreader,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+The Punisher,1989,Todd Boyce,Tarrone,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+The Punisher,1989,Lani John Tupu,Laccone,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+The Punisher,1989,Gianfranco Negroponte,Musso,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+The Trial of the Incredible Hulk,1989,Bill Bixby,David Banner,2,0,2,1,1.0,1,11,1,0,16,0,0,0,0,0,0,0,0,Pre-MCU,1,0
+The Trial of the Incredible Hulk,1989,Lou Ferrigno,The Hulk,2,0,2,2,2.5,2,11,1,2,2,1,0,1,1,0,0,0,0,Pre-MCU,2,0
+The Trial of the Incredible Hulk,1989,Marta DuBois,Ellie Mendez,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+The Trial of the Incredible Hulk,1989,Nancy Everhard,Christa Klein,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+The Trial of the Incredible Hulk,1989,Nicholas Hormann,Edgar,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+The Trial of the Incredible Hulk,1989,Richard Cummings Jr.,Al Pettiman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+The Trial of the Incredible Hulk,1989,Joseph Mascolo,Albert G. Tendelli,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+The Trial of the Incredible Hulk,1989,John Rhys-Davies,Wilson Fisk,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+The Trial of the Incredible Hulk,1989,Rex Smith,Mat Murdock / Daredevil,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+The Trial of the Incredible Hulk,1989,Linda Darlow,Fake Nurse,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+The Trial of the Incredible Hulk,1989,John Novak,Denny,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+The Trial of the Incredible Hulk,1989,Dwight Koss,John,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+The Trial of the Incredible Hulk,1989,Meredith Bain Woodward,Farm Supervisor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+The Trial of the Incredible Hulk,1989,Mark Acheson,Turk,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+The Trial of the Incredible Hulk,1989,Richard Newman,Apartment Owner,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Captain America,1990,Matt Salinger,Steve Rogers / Captain America,0,0,0,16,16.0,16,0,0,3,1,0,1,1,0,0,0,0,0,Pre-MCU,1,0
+Captain America,1990,Ronny Cox,Tom Kimball,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Captain America,1990,Ned Beatty,Sam Kolawetz,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Captain America,1990,Darren McGavin,General Fleming,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Captain America,1990,Michael Nouri,Lt. Colonel Louis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Captain America,1990,Scott Paulin,The Red Skull / Army Doctor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Captain America,1990,Kim Gillingham,Bernice Stewart / Sharon,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Captain America,1990,Melinda Dillon,Mrs. Rogers,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Captain America,1990,Bill Mumy,Young General Fleming,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Captain America,1990,Francesca Neri,Valentina de Santis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Captain America,1990,Carla Cassola,Dr. Maria Vaselli,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Captain America,1990,Massimilio Massimi,Tadzio de Santis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Captain America,1990,Wayde Preston,Jack,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Captain America,1990,Norbert Weisser,Alaskan Surveyor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Captain America,1990,Garette Ratliff Henson,Young Tom Kimball,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+The Death of the Incredible Hulk,1990,Bill Bixby,David Banner,3,0,3,1,1.0,1,12,1,1,1,1,0,1,1,0,0,0,0,Pre-MCU,1,0
+The Death of the Incredible Hulk,1990,Lou Ferrigno,The Hulk,3,0,3,2,2.3333333333333335,2,12,1,3,2,2,0,1,1,0,0,0,0,Pre-MCU,2,0
+The Death of the Incredible Hulk,1990,Elizabeth Gracen,Jasmin,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+The Death of the Incredible Hulk,1990,Philip Sterling,Dr. Ronald Pratt,1,0,0,5,5.0,5,12,12,0,16,0,0,0,0,0,0,0,0,Pre-MCU,4,1
+The Death of the Incredible Hulk,1990,Barbara Tarbuck,Amy Pratt,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+The Death of the Incredible Hulk,1990,Anna Katarina,Bella / Voshenko,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+The Death of the Incredible Hulk,1990,John Novak,Zed,1,0,0,11,11.0,11,1,1,0,16,0,0,0,0,0,0,0,0,Pre-MCU,7,1
+The Death of the Incredible Hulk,1990,Andreas Katsulas,Kasha,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+The Death of the Incredible Hulk,1990,Chilton Crane,Betty,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+The Death of the Incredible Hulk,1990,Carla Ferrigno,Bank Teller,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+The Death of the Incredible Hulk,1990,Duncan Fraser,Tom,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+The Death of the Incredible Hulk,1990,Dwight McFee,Brenn,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+The Death of the Incredible Hulk,1990,Lindsay Bourne,Crane,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+The Death of the Incredible Hulk,1990,Mina E. Mina,Pauley,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+The Death of the Incredible Hulk,1990,Marlane O'Brien,Luanne Cole,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Fantastic Four,1994,Alex Hyde-White,Dr. Reed Richards,1,0,0,13,13.0,13,15,15,0,16,0,0,0,0,0,0,0,0,Pre-MCU,1,0
+Fantastic Four,1994,Jay Underwood,Johnny Storm,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Fantastic Four,1994,Rebecca Staab,Susan Storm,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Fantastic Four,1994,Michael Bailey Smith,Ben Grimm,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Fantastic Four,1994,Ian Trigger,Jeweler,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Fantastic Four,1994,Joseph Culp,Dr. Doom / Victor Von Doom,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Fantastic Four,1994,George Gaynes,Professor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Fantastic Four,1994,Kat Green,Alicia Masters,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Fantastic Four,1994,Carl Ciarfalio,Thing,1,0,0,14,14.0,14,6,6,0,16,0,0,0,0,0,0,0,0,Pre-MCU,9,2
+Fantastic Four,1994,Chuck Butto,Weasel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Fantastic Four,1994,Annie Gagen,Mrs. Storm,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Fantastic Four,1994,Howard Shangraw,Kragstadt,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Fantastic Four,1994,David Keith Miller,Trigorin,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Fantastic Four,1994,Robert Alan Beuth,Dr. Hauptman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Fantastic Four,1994,Patrick Richwood,Messenger,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Generation X,1996,Matt Frewer,Russel Tresh,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,1,0
+Generation X,1996,Finola Hughes,Emma Frost,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Generation X,1996,Jeremy Ratchford,Sean Cassidy,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Generation X,1996,Heather McComb,Jubilation Lee / Jubilee,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Generation X,1996,Agustin Rodriguez,Angelo Espinosa / Skin,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Generation X,1996,Randall Slavin,Kurt Pastorius,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Generation X,1996,Bumper Robinson,Mondo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Generation X,1996,Suzanne Davis,Arlee Hicks,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Generation X,1996,Amarilis,Monet St. Croix / M,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Generation X,1996,Kevin McNulty,Ralston,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Generation X,1996,Lalainia Lindbjerg,Kayla,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Generation X,1996,Garry Chalk,Detective Gaines,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Generation X,1996,Lynda Boyd,Alicia Lee,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Generation X,1996,Joely Collins,Jeannie,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Generation X,1996,Wally Dalton,Pruitt,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Nick Fury: Agent of S.H.I.E.L.D.,1998,David Hasselhoff,Colonel Nick Fury,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,1,0
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Lisa Rinna,Countessa Valentina 'Val' de Allegro Fontaine,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Sandra Hess,Andrea Von Strucker / Viper,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Neil Roberts,Alexander Goodwin Pierce,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Garry Chalk,Timothy Dugan,1,0,0,12,12.0,12,2,2,0,16,0,0,0,0,0,0,0,0,Pre-MCU,5,1
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Tracy Waterhouse,Kate Neville,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Tom McBeath,Director General Jack Pincer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Ron Canada,Gabriel Jones,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Bill Croft,Garotte,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Roger Cross,Shield Agent #1,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Peter Haworth,Dr. Arnim Zola,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Scott Heindl,Werner Von Strucker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Adrian G. Griffiths,Quartermain,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Campbell Lane,Baron Von Strucker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Mina E. Mina,Cairo,1,0,0,14,14.0,14,8,8,0,16,0,0,0,0,0,0,0,0,Pre-MCU,15,2
+Blade,1998,Wesley Snipes,Blade,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,1,0
+Blade,1998,Stephen Dorff,Deacon Frost,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Blade,1998,Kris Kristofferson,Whistler,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Blade,1998,N'Bushe Wright,Karen,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Blade,1998,Donal Logue,Quinn,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Blade,1998,Udo Kier,Dragonetti,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Blade,1998,Arly Jover,Mercury,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Blade,1998,Traci Lords,Racquel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Blade,1998,Kevin Patrick Walls,Krieger,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Blade,1998,Tim Guinee,Curtis Webb,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Blade,1998,Sanaa Lathan,Vanessa,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Blade,1998,Eric Edwards,Pearl,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Blade,1998,Donna Wong,Nurse,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Blade,1998,Carmen Thomas,Senior Resident,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Blade,1998,Shannon Lee,Resident,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Spider-Man,2002,Tobey Maguire,Spider-Man / Peter Parker,0,0,0,16,16.0,16,0,0,2,1,0,1,1,0,0,0,0,0,Sony / Spider-Man,1,0
+Spider-Man,2002,Willem Dafoe,Green Goblin / Norman Osborn,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,2,0
+Spider-Man,2002,Kirsten Dunst,Mary Jane Watson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,3,0
+Spider-Man,2002,James Franco,Harry Osborn,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,4,1
+Spider-Man,2002,Cliff Robertson,Ben Parker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,5,1
+Spider-Man,2002,Rosemary Harris,May Parker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,6,1
+Spider-Man,2002,J.K. Simmons,J. Jonah Jameson,0,0,0,16,16.0,16,0,0,2,2,0,1,1,0,0,0,0,0,Sony / Spider-Man,7,1
+Spider-Man,2002,Joe Manganiello,Flash Thompson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,8,1
+Spider-Man,2002,Gerry Becker,Maximilian Fargas,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,9,2
+Spider-Man,2002,Bill Nunn,Joseph 'Robbie' Robertson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,10,2
+Spider-Man,2002,Jack Betts,Henry Balkan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,11,2
+Spider-Man,2002,Stanley Anderson,General Slocum,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,12,2
+Spider-Man,2002,Ron Perkins,Dr. Mendel Stromm,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,13,2
+Spider-Man,2002,Michael Papajohn,Carjacker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,14,2
+Spider-Man,2002,K.K. Dodds,Simkins,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,15,2
+Blade II,2002,Wesley Snipes,Blade,1,0,1,1,1.0,1,4,4,1,1,1,0,1,1,0,0,0,0,Pre-MCU,1,0
+Blade II,2002,Kris Kristofferson,Whistler,1,0,1,3,3.0,3,4,4,1,3,1,0,1,1,0,0,0,0,Pre-MCU,2,0
+Blade II,2002,Ron Perlman,Reinhardt,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Blade II,2002,Leonor Varela,Nyssa,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Blade II,2002,Norman Reedus,Scud,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Blade II,2002,Thomas Kretschmann,Damaskinos,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Blade II,2002,Luke Goss,Nomak,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Blade II,2002,Matt Schulze,Chupa,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Blade II,2002,Danny John-Jules,Asad,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Blade II,2002,Donnie Yen,Snowman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Blade II,2002,Karel Roden,Kounen,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Blade II,2002,Marit Velle Kile,Verlaine,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Blade II,2002,Tony Curran,Priest,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Blade II,2002,Daz Crawford,Lighthammer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Blade II,2002,Santiago Segura,Rush,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Hulk,2003,Eric Bana,Bruce Banner,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,1,0
+Hulk,2003,Jennifer Connelly,Betty Ross,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Hulk,2003,Sam Elliott,Ross,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Hulk,2003,Josh Lucas,Talbot,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Hulk,2003,Nick Nolte,Father,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Hulk,2003,Paul Kersey,Young David Banner,0,0,0,16,16.0,16,0,0,2,1,0,1,1,0,0,0,0,0,Pre-MCU,6,1
+Hulk,2003,Todd Tesen,Young Ross,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Hulk,2003,Cara Buono,Edith Banner,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Hulk,2003,Kevin Rankin,Harper,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Hulk,2003,Celia Weston,Mrs. Krenzler,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Hulk,2003,Mike Erwin,Teenage Bruce Banner,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Hulk,2003,Lou Ferrigno,Security Guard,4,0,4,2,2.25,2,25,13,0,16,0,0,0,0,0,0,0,0,Pre-MCU,12,2
+Hulk,2003,Stan Lee,Security Guard,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Hulk,2003,Regi Davis,Security Guard,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Hulk,2003,Craig Damon,Security Guard,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Daredevil,2003,Ben Affleck,Matt Murdock / Daredevil,0,0,0,16,16.0,16,0,0,1,9,0,1,1,0,0,0,0,0,Pre-MCU,1,0
+Daredevil,2003,Jennifer Garner,Elektra Natchios,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Daredevil,2003,Colin Farrell,Bullseye,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Daredevil,2003,Michael Clarke Duncan,Wilson Fisk / The Kingpin,0,0,0,16,16.0,16,0,0,1,8,0,1,1,0,0,0,0,0,Pre-MCU,4,1
+Daredevil,2003,Jon Favreau,"Franklin ""Foggy"" Nelson",0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Daredevil,2003,Scott Terra,Young Matt,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Daredevil,2003,Ellen Pompeo,Karen Page,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Daredevil,2003,Joe Pantoliano,Ben Urich,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Daredevil,2003,Leland Orser,Wesley Owen Welch,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Daredevil,2003,Lennie Loftin,Nick Manolis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Daredevil,2003,Erick Avari,Nikolas Natchios,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Daredevil,2003,Derrick O'Connor,Father Everett,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Daredevil,2003,Paul Ben-Victor,Jose Quesada,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Daredevil,2003,David Keith,Jack Murdock,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Daredevil,2003,Frankie J. Allison,Abusive Father,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Spider-Man 2,2004,Tobey Maguire,Spider-Man / Peter Parker,1,0,1,1,1.0,1,2,2,3,1,1,0,1,1,0,0,0,0,Sony / Spider-Man,1,0
+Spider-Man 2,2004,Kirsten Dunst,Mary Jane Watson,1,0,1,3,3.0,3,2,2,1,3,1,0,1,1,0,0,0,0,Sony / Spider-Man,2,0
+Spider-Man 2,2004,James Franco,Harry Osborn,1,0,0,4,4.0,4,2,2,1,4,1,0,1,1,0,0,0,0,Sony / Spider-Man,3,0
+Spider-Man 2,2004,Alfred Molina,Doc Ock / Otto Octavius,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,4,1
+Spider-Man 2,2004,Rosemary Harris,May Parker,1,0,0,6,6.0,6,2,2,1,6,1,0,1,1,0,0,0,0,Sony / Spider-Man,5,1
+Spider-Man 2,2004,J.K. Simmons,J. Jonah Jameson,1,0,0,7,7.0,7,2,2,3,2,1,0,1,1,0,0,0,0,Sony / Spider-Man,6,1
+Spider-Man 2,2004,Donna Murphy,Rosalie Octavius,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,7,1
+Spider-Man 2,2004,Daniel Gillies,John Jameson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,8,1
+Spider-Man 2,2004,Dylan Baker,Dr. Curt Connors,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,9,2
+Spider-Man 2,2004,Bill Nunn,Joseph 'Robbie' Robertson,1,0,0,10,10.0,10,2,2,1,10,1,0,1,1,0,0,0,0,Sony / Spider-Man,10,2
+Spider-Man 2,2004,Vanessa Ferlito,Louise,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,11,2
+Spider-Man 2,2004,Aasif Mandvi,Mr. Aziz,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,12,2
+Spider-Man 2,2004,Willem Dafoe,Green Goblin / Norman Osborn,1,0,1,2,2.0,2,2,2,1,2,1,0,1,1,0,0,0,0,Sony / Spider-Man,13,2
+Spider-Man 2,2004,Cliff Robertson,Ben Parker,1,0,0,5,5.0,5,2,2,1,5,1,0,1,1,0,0,0,0,Sony / Spider-Man,14,2
+Spider-Man 2,2004,Ted Raimi,Hoffman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,15,2
+The Punisher,2004,Thomas Jane,Frank Castle / The Punisher,0,0,0,16,16.0,16,0,0,1,1,0,1,1,0,0,0,0,0,Pre-MCU,1,0
+The Punisher,2004,John Travolta,Howard Saint,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+The Punisher,2004,Will Patton,Quentin Glass,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+The Punisher,2004,Roy Scheider,"Frank Castle, Sr.",0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+The Punisher,2004,Laura Harring,Livia Saint,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+The Punisher,2004,Ben Foster,Specker Dave,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+The Punisher,2004,Samantha Mathis,Maria  Castle,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+The Punisher,2004,James Carpinello,Bobby Saint / John Saint,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+The Punisher,2004,A. Russell Andrews,Jimmy Weeks,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+The Punisher,2004,Eddie Jemison,Mickey Duka,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+The Punisher,2004,John Pinette,Bumpo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+The Punisher,2004,Rebecca Romijn,Joan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+The Punisher,2004,Mark Collie,Harry Heck,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+The Punisher,2004,Marcus Johns,Will Castle,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+The Punisher,2004,Omar Avila,Joe Toro,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Fantastic Four,2005,Ioan Gruffudd,Reed Richards / Mr. Fantastic,0,0,0,16,16.0,16,0,0,1,1,0,1,1,0,0,0,0,0,Pre-MCU,1,0
+Fantastic Four,2005,Jessica Alba,Sue Storm / Invisible Woman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Fantastic Four,2005,Chris Evans,Johnny Storm / Human Torch,0,0,0,16,16.0,16,0,0,1,2,0,1,1,0,0,0,0,0,Pre-MCU,3,0
+Fantastic Four,2005,Michael Chiklis,Ben Grimm / The Thing,0,0,0,16,16.0,16,0,0,1,4,0,1,1,0,0,0,0,0,Pre-MCU,4,1
+Fantastic Four,2005,Julian McMahon,Victor von Doom / Doctor Doom,0,0,0,16,16.0,16,0,0,1,6,0,1,1,0,0,0,0,0,Pre-MCU,5,1
+Fantastic Four,2005,Hamish Linklater,Leonard,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Fantastic Four,2005,Kerry Washington,Alicia Masters,0,0,0,16,16.0,16,0,0,1,8,0,1,1,0,0,0,0,0,Pre-MCU,7,1
+Fantastic Four,2005,Laurie Holden,Debbie McIlvane,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Fantastic Four,2005,David Parker,Ernie,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Fantastic Four,2005,Kevin McNulty,Jimmy O'Hoolihan,1,0,0,10,10.0,10,9,9,0,16,0,0,0,0,0,0,0,0,Pre-MCU,10,2
+Fantastic Four,2005,Maria Menounos,Sexy Nurse,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Fantastic Four,2005,Michael Kopsa,Ned Cecil,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Fantastic Four,2005,Andrew Airlie,Compound Doctor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Fantastic Four,2005,Pascale Hutton,Nightclub Girlfriend,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Fantastic Four,2005,G. Michael Gray,Nightclub Boyfriend,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Elektra,2005,Jennifer Garner,Elektra Natchios / Elektra,1,0,1,2,2.0,2,2,2,1,2,1,0,1,1,0,0,0,0,Pre-MCU,1,0
+Elektra,2005,Goran Višnjić,Mark Miller,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Elektra,2005,Will Yun Lee,Kirigi,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Elektra,2005,Cary-Hiroyuki Tagawa,Roshi,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Elektra,2005,Terence Stamp,Stick,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Elektra,2005,Natassia Malthe,Typhoid Mary / Typhoid,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Elektra,2005,Kirsten Zien,Abby Miller,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Elektra,2005,Colin Cunningham,McCabe,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Elektra,2005,Chris Ackerman,Tattoo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Elektra,2005,Bob Sapp,Stone,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Elektra,2005,Mark Houghton,Bauer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Elektra,2005,Hiro Kanagawa,Meizumi,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Elektra,2005,Laura Ward,Young Elektra,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Elektra,2005,Ian Tracey,Pool Shark,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Elektra,2005,Kevan Ohtsji,Roshi Servant,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Man-Thing,2005,Matthew Le Nevez,Kyle,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,1,0
+Man-Thing,2005,Rachael Taylor,Teri,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Man-Thing,2005,Jack Thompson,Schist,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,3,0
+Man-Thing,2005,Rawiri Paratene,Pete Horn,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Man-Thing,2005,Alex O'Loughlin,Fraser,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Man-Thing,2005,Steve Bastoni,Rene,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Man-Thing,2005,Robert Mammone,Mike Ploog,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Man-Thing,2005,Patrick Thompson,Jake,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Man-Thing,2005,William Zappa,Gerber,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Man-Thing,2005,John Batchelor,Wayne Thibadeaux,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Man-Thing,2005,Ian Bliss,Rodney Thibadeaux,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Man-Thing,2005,Brett Leonard,Val Mayerick,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Man-Thing,2005,Imogen Bailey,Sarah,0,0,0,16,16.0,16,0,0,1,7,0,1,1,0,0,0,0,0,Pre-MCU,13,2
+Man-Thing,2005,James Coyne,Billy James,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Man-Thing,2005,Cheryl Craig,Michele,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+X-Men: The Last Stand,2006,Hugh Jackman,Logan / Wolverine,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,1,0
+X-Men: The Last Stand,2006,Halle Berry,Ororo Munroe / Storm,0,0,0,16,16.0,16,0,0,1,11,0,1,1,0,0,0,0,0,Fox / X-Men,2,0
+X-Men: The Last Stand,2006,Ian McKellen,Erik Lehnsherr / Magneto,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,3,0
+X-Men: The Last Stand,2006,Patrick Stewart,Professor Charles Xavier,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,4,1
+X-Men: The Last Stand,2006,Famke Janssen,Jean Grey / Phoenix,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,5,1
+X-Men: The Last Stand,2006,Anna Paquin,Marie / Rogue,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,6,1
+X-Men: The Last Stand,2006,Kelsey Grammer,Dr. Henry 'Hank' McCoy / Beast,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,7,1
+X-Men: The Last Stand,2006,James Marsden,Scott Summers / Cyclops,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,8,1
+X-Men: The Last Stand,2006,Rebecca Romijn,Raven Darkholme / Mystique,1,0,0,12,12.0,12,2,2,0,16,0,0,0,0,0,0,0,0,Fox / X-Men,9,2
+X-Men: The Last Stand,2006,Shawn Ashmore,Bobby Drake / Iceman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,10,2
+X-Men: The Last Stand,2006,Aaron Stanford,John Allerdyce / Pyro,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,11,2
+X-Men: The Last Stand,2006,Vinnie Jones,Cain Marko / Juggernaut,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,12,2
+X-Men: The Last Stand,2006,Elliot Page,Kitty Pryde,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,13,2
+X-Men: The Last Stand,2006,Daniel Cudmore,Peter Rasputin / Colossus,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,14,2
+X-Men: The Last Stand,2006,Ben Foster,Warren Worthington III / Angel,1,0,0,6,6.0,6,2,2,1,8,0,0,1,0,0,0,0,0,Fox / X-Men,15,2
+Spider-Man 3,2007,Tobey Maguire,Spider-Man / Peter Parker,2,0,2,1,1.0,1,5,3,4,1,2,0,1,1,0,0,0,0,Sony / Spider-Man,1,0
+Spider-Man 3,2007,Kirsten Dunst,Mary Jane Watson,2,0,2,2,2.5,2,5,3,2,2,2,0,1,1,0,0,0,0,Sony / Spider-Man,2,0
+Spider-Man 3,2007,James Franco,New Goblin / Harry Osborn,2,0,1,3,3.5,3,5,3,2,3,2,0,1,1,0,0,0,0,Sony / Spider-Man,3,0
+Spider-Man 3,2007,Thomas Haden Church,Sandman / Flint Marko,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,4,1
+Spider-Man 3,2007,Topher Grace,Venom / Eddie Brock,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,5,1
+Spider-Man 3,2007,Bryce Dallas Howard,Gwen Stacy,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,6,1
+Spider-Man 3,2007,Rosemary Harris,May Parker,2,0,0,5,5.5,5,5,3,2,5,2,0,1,1,0,0,0,0,Sony / Spider-Man,7,1
+Spider-Man 3,2007,J.K. Simmons,J. Jonah Jameson,2,0,0,6,6.5,6,5,3,4,2,2,0,1,1,0,0,0,0,Sony / Spider-Man,8,1
+Spider-Man 3,2007,James Cromwell,Captain Stacy,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,9,2
+Spider-Man 3,2007,Dylan Baker,Dr. Curt Connors,1,0,0,9,9.0,9,3,3,1,9,1,0,1,1,0,0,0,0,Sony / Spider-Man,10,2
+Spider-Man 3,2007,Theresa Russell,Emma Marko,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,11,2
+Spider-Man 3,2007,Bill Nunn,Joseph 'Robbie' Robertson,2,0,0,10,10.0,10,5,3,2,10,2,0,1,1,0,0,0,0,Sony / Spider-Man,12,2
+Spider-Man 3,2007,Bruce Campbell,Maître D',0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,13,2
+Spider-Man 3,2007,Elizabeth Banks,Miss Brant,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,14,2
+Spider-Man 3,2007,Ted Raimi,Hoffman,1,0,0,15,15.0,15,3,3,1,15,1,0,1,1,0,0,0,0,Sony / Spider-Man,15,2
+Ghost Rider,2007,Nicolas Cage,Johnny Blaze / Ghost Rider,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,1,0
+Ghost Rider,2007,Eva Mendes,Roxanne Simpson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,2,0
+Ghost Rider,2007,Sam Elliott,Carter Slade / Phantom Rider,1,0,1,3,3.0,3,4,4,0,16,0,0,0,0,0,0,0,0,Pre-MCU,3,0
+Ghost Rider,2007,Wes Bentley,Blackheart / Black King,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,4,1
+Ghost Rider,2007,Peter Fonda,Mephistopheles / Mephisto,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,5,1
+Ghost Rider,2007,Matt Long,Young Johnny Blaze,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,6,1
+Ghost Rider,2007,Brett Cullen,Barton Blaze,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Ghost Rider,2007,Raquel Alessi,Young Roxanne Simpson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,8,1
+Ghost Rider,2007,Donal Logue,Mack,1,0,0,5,5.0,5,9,9,1,11,0,0,1,0,0,0,0,0,Pre-MCU,9,2
+Ghost Rider,2007,Tony Ghosthawk,Team Blaze,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Ghost Rider,2007,Hugh Sexton,Team Blaze,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,11,2
+Ghost Rider,2007,Marcus Jones,Team Blaze,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Ghost Rider,2007,Lawrence Cameron Steele,X Games Announcer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Ghost Rider,2007,Eddie Baroo,Motorcycle Gang Member,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,14,2
+Ghost Rider,2007,Jessica Napier,Broken Spoke Waitress,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+Fantastic Four: Rise of the Silver Surfer,2007,Ioan Gruffudd,Reed Richards / Mr. Fantastic,1,0,1,1,1.0,1,2,2,2,1,1,0,1,1,0,0,0,0,Pre-MCU,1,0
+Fantastic Four: Rise of the Silver Surfer,2007,Jessica Alba,Sue Richards / Invisible Woman,1,0,1,2,2.0,2,2,2,0,16,0,0,0,0,0,0,0,0,Pre-MCU,2,0
+Fantastic Four: Rise of the Silver Surfer,2007,Chris Evans,Johnny Storm / Human Torch,1,0,1,3,3.0,3,2,2,2,2,1,0,1,1,0,0,0,0,Pre-MCU,3,0
+Fantastic Four: Rise of the Silver Surfer,2007,Michael Chiklis,Ben Grimm / The Thing,1,0,0,4,4.0,4,2,2,2,4,1,0,1,1,0,0,0,0,Pre-MCU,4,1
+Fantastic Four: Rise of the Silver Surfer,2007,Julian McMahon,Victor von Doom / Doctor Doom,1,0,0,5,5.0,5,2,2,2,5,1,0,1,1,0,0,0,0,Pre-MCU,5,1
+Fantastic Four: Rise of the Silver Surfer,2007,Laurence Fishburne,Norrin Radd / Silver Surfer (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Pre-MCU,6,1
+Fantastic Four: Rise of the Silver Surfer,2007,Doug Jones,Norrin Radd / Silver Surfer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,7,1
+Fantastic Four: Rise of the Silver Surfer,2007,Kerry Washington,Alicia Masters,1,0,0,7,7.0,7,2,2,2,7,1,0,1,1,0,0,0,0,Pre-MCU,8,1
+Fantastic Four: Rise of the Silver Surfer,2007,Andre Braugher,General Hager,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,9,2
+Fantastic Four: Rise of the Silver Surfer,2007,Beau Garrett,Frankie Raye,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,10,2
+Fantastic Four: Rise of the Silver Surfer,2007,Brian Posehn,Priest,0,0,0,16,16.0,16,0,0,1,13,0,1,1,0,0,0,0,0,Pre-MCU,11,2
+Fantastic Four: Rise of the Silver Surfer,2007,Zach Grenier,James Sherman / Rafke,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,12,2
+Fantastic Four: Rise of the Silver Surfer,2007,Kenneth Welsh,Dr. Jeff Wagner,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,13,2
+Fantastic Four: Rise of the Silver Surfer,2007,Kevin McNulty,Baxter Building Doorman,2,0,0,10,10.0,10,11,2,0,16,0,0,0,0,0,0,0,0,Pre-MCU,14,2
+Fantastic Four: Rise of the Silver Surfer,2007,Andy Stahl,Tailor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Pre-MCU,15,2
+The Incredible Hulk,2008,Edward Norton,Bruce Banner,0,0,0,16,16.0,16,0,0,1,1,0,1,1,0,0,0,0,0,MCU,1,0
+The Incredible Hulk,2008,Liv Tyler,Betty Ross,0,0,0,16,16.0,16,0,0,1,2,0,1,1,0,0,0,0,0,MCU,2,0
+The Incredible Hulk,2008,Tim Roth,Emil Blonsky,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+The Incredible Hulk,2008,William Hurt,General 'Thunderbolt' Ross,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+The Incredible Hulk,2008,Tim Blake Nelson,Samuel Sterns,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+The Incredible Hulk,2008,Ty Burrell,Leonard,0,0,0,16,16.0,16,0,0,1,6,0,1,1,0,0,0,0,0,MCU,6,1
+The Incredible Hulk,2008,Christina Cabot,Major Kathleen Sparr,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+The Incredible Hulk,2008,Peter Mensah,General Joe Greller,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+The Incredible Hulk,2008,Lou Ferrigno,Voice of The Incredible Hulk / Security Guard,5,0,4,2,4.2,12,30,5,0,16,0,0,0,0,0,0,0,0,MCU,9,2
+The Incredible Hulk,2008,Paul Soles,Stanley,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+The Incredible Hulk,2008,Débora Nascimento,Martina,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+The Incredible Hulk,2008,Greg Bryk,Commando,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+The Incredible Hulk,2008,Chris Owens,Commando,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+The Incredible Hulk,2008,Al Vrkljan,Commando,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+The Incredible Hulk,2008,Adrian Hein,Commando,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Iron Man,2008,Robert Downey Jr.,Tony Stark,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,1,0
+Iron Man,2008,Terrence Howard,Rhodey,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Iron Man,2008,Jeff Bridges,Obadiah Stane,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Iron Man,2008,Gwyneth Paltrow,Pepper Potts,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Iron Man,2008,Leslie Bibb,Christine Everhart,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Iron Man,2008,Shaun Toub,Yinsen,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Iron Man,2008,Faran Tahir,Raza,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Iron Man,2008,Clark Gregg,Agent Coulson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Iron Man,2008,Bill Smitrovich,General Gabriel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Iron Man,2008,Sayed Badreya,Abu Bakaar,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Iron Man,2008,Paul Bettany,Jarvis (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,11,2
+Iron Man,2008,Jon Favreau,Hogan,1,0,0,5,5.0,5,5,5,0,16,0,0,0,0,0,0,0,0,MCU,12,2
+Iron Man,2008,Peter Billingsley,William Ginter Riva,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Iron Man,2008,Tim Guinee,Major Allen,1,0,0,10,10.0,10,10,10,0,16,0,0,0,0,0,0,0,0,MCU,14,2
+Iron Man,2008,Will Lyman,Award Ceremony Narrator (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,15,2
+Punisher: War Zone,2008,Ray Stevenson,Frank Castle / The Punisher,0,0,0,16,16.0,16,0,0,2,1,0,1,1,0,0,0,0,0,MCU,1,0
+Punisher: War Zone,2008,Dominic West,"Billy ""The Beaut"" Russoti / Jigsaw",0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Punisher: War Zone,2008,Julie Benz,Angela Donatelli,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Punisher: War Zone,2008,Colin Salmon,Paul Budiansky,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Punisher: War Zone,2008,Doug Hutchison,"James Russoti / ""Loony Bin Jim"" / ""LBJ""",0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Punisher: War Zone,2008,Dash Mihok,Martin Soap,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Punisher: War Zone,2008,Wayne Knight,Linus Lieberman / Micro,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Punisher: War Zone,2008,Stephanie Janusauskas,Grace Donatelli,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Punisher: War Zone,2008,Mark Camacho,"Carmine ""Pittsy"" Gazzera",0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Punisher: War Zone,2008,Keram Malicki-Sánchez,"""Ink"" Gazzera",0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Punisher: War Zone,2008,Romano Orzari,Nicky Donatelli,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Punisher: War Zone,2008,Carlos Gonzalez-Vio,Carlos,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Punisher: War Zone,2008,T.J. Storm,Maginty,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Punisher: War Zone,2008,David Vadim,Cristu Bulat,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Punisher: War Zone,2008,Aubert Pallascio,Tiberiu,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+X-Men Origins: Wolverine,2009,Hugh Jackman,Logan / Wolverine,1,0,1,1,1.0,1,3,3,1,1,1,0,1,1,0,0,0,0,Fox / X-Men,1,0
+X-Men Origins: Wolverine,2009,Liev Schreiber,Victor Creed,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,2,0
+X-Men Origins: Wolverine,2009,Danny Huston,Stryker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,3,0
+X-Men Origins: Wolverine,2009,Lynn Collins,Kayla Silverfox,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,4,1
+X-Men Origins: Wolverine,2009,Kevin Durand,Fred Dukes,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,5,1
+X-Men Origins: Wolverine,2009,Dominic Monaghan,Bradley,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,6,1
+X-Men Origins: Wolverine,2009,Taylor Kitsch,Remy LeBeau,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,7,1
+X-Men Origins: Wolverine,2009,Daniel Henney,Agent Zero,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,8,1
+X-Men Origins: Wolverine,2009,Ryan Reynolds,Wade Wilson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,9,2
+X-Men Origins: Wolverine,2009,will.i.am,John Wraith,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,10,2
+X-Men Origins: Wolverine,2009,Tim Pocock,Scott Summers,0,0,0,16,16.0,16,0,0,1,8,0,1,1,0,0,0,0,0,Fox / X-Men,11,2
+X-Men Origins: Wolverine,2009,Julia Blake,Heather Hudson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,12,2
+X-Men Origins: Wolverine,2009,Max Cullen,Travis Hudson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,13,2
+X-Men Origins: Wolverine,2009,Troye Sivan,James,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,14,2
+X-Men Origins: Wolverine,2009,Michael-James Olsen,Young Victor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,15,2
+Iron Man 2,2010,Robert Downey Jr.,Tony Stark,1,1,1,1,1.0,1,2,2,1,1,1,0,1,1,0,0,0,0,MCU,1,0
+Iron Man 2,2010,Gwyneth Paltrow,Pepper Potts,1,1,0,4,4.0,4,2,2,1,4,1,0,1,1,0,0,0,0,MCU,2,0
+Iron Man 2,2010,Don Cheadle,Lt. Col. James 'Rhodey' Rhodes,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Iron Man 2,2010,Scarlett Johansson,Natalie Rushman / Natasha Romanoff,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Iron Man 2,2010,Sam Rockwell,Justin Hammer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Iron Man 2,2010,Mickey Rourke,Ivan Vanko,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Iron Man 2,2010,Samuel L. Jackson,Nick Fury,0,0,0,16,16.0,16,0,0,1,1,0,1,1,0,0,0,0,0,MCU,7,1
+Iron Man 2,2010,Clark Gregg,Agent Coulson,1,1,0,8,8.0,8,2,2,0,16,0,0,0,0,0,0,0,0,MCU,8,1
+Iron Man 2,2010,John Slattery,Howard Stark,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Iron Man 2,2010,Garry Shandling,Senator Stern,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Iron Man 2,2010,Paul Bettany,Jarvis (voice),1,1,0,11,11.0,11,2,2,1,11,1,0,1,1,1,0,0,0,MCU,11,2
+Iron Man 2,2010,Kate Mara,U.S. Marshal,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Iron Man 2,2010,Leslie Bibb,Christine Everhart,1,1,0,5,5.0,5,2,2,1,5,1,0,1,1,0,0,0,0,MCU,13,2
+Iron Man 2,2010,Jon Favreau,Happy Hogan,2,1,0,5,8.5,12,7,2,0,16,0,0,0,0,0,0,0,0,MCU,14,2
+Iron Man 2,2010,Christiane Amanpour,Christiane Amanpour,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Captain America: The First Avenger,2011,Chris Evans,Captain America / Steve Rogers,2,0,2,3,3.0,3,6,4,4,1,0,0,1,0,0,0,0,0,MCU,1,0
+Captain America: The First Avenger,2011,Hayley Atwell,Peggy Carter,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Captain America: The First Avenger,2011,Sebastian Stan,James Buchanan 'Bucky' Barnes,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Captain America: The First Avenger,2011,Tommy Lee Jones,Colonel Chester Phillips,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Captain America: The First Avenger,2011,Hugo Weaving,Johann Schmidt / Red Skull,0,0,0,16,16.0,16,0,0,1,6,0,1,1,0,0,0,0,0,MCU,5,1
+Captain America: The First Avenger,2011,Dominic Cooper,Howard Stark,0,0,0,16,16.0,16,0,0,1,9,0,1,1,0,0,0,0,0,MCU,6,1
+Captain America: The First Avenger,2011,Richard Armitage,Heinz Kruger,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Captain America: The First Avenger,2011,Stanley Tucci,Dr. Abraham Erskine,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Captain America: The First Avenger,2011,Samuel L. Jackson,Nick Fury,1,1,0,7,7.0,7,1,1,2,1,1,0,1,1,0,0,0,0,MCU,9,2
+Captain America: The First Avenger,2011,Toby Jones,Dr. Arnim Zola,0,0,0,16,16.0,16,0,0,1,11,0,1,1,0,0,0,0,0,MCU,10,2
+Captain America: The First Avenger,2011,Neal McDonough,Timothy 'Dum Dum' Dugan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Captain America: The First Avenger,2011,Derek Luke,Gabe Jones,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Captain America: The First Avenger,2011,Kenneth Choi,Jim Morita,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Captain America: The First Avenger,2011,JJ Feild,James Montgomery Falsworth,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Captain America: The First Avenger,2011,Bruno Ricci,Jacques Dernier,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Thor,2011,Chris Hemsworth,Thor,0,0,0,16,16.0,16,0,0,1,9,0,1,1,0,0,0,0,0,MCU,1,0
+Thor,2011,Natalie Portman,Jane Foster,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Thor,2011,Tom Hiddleston,Loki,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Thor,2011,Anthony Hopkins,Odin,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Thor,2011,Stellan Skarsgård,Erik Selvig,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Thor,2011,Kat Dennings,Darcy Lewis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Thor,2011,Clark Gregg,Agent Coulson,2,2,0,8,8.0,8,3,1,0,16,0,0,0,0,0,0,0,0,MCU,7,1
+Thor,2011,Colm Feore,King Laufey,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Thor,2011,Idris Elba,Heimdall,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Thor,2011,Ray Stevenson,Volstagg,1,1,1,1,1.0,1,3,3,0,16,0,0,0,0,0,0,0,0,MCU,10,2
+Thor,2011,Tadanobu Asano,Hogun,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Thor,2011,Josh Dallas,Fandral,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Thor,2011,Jaimie Alexander,Sif,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Thor,2011,Rene Russo,Frigga,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Thor,2011,Adriana Barraza,Isabela Alvarez,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+X-Men: First Class,2011,James McAvoy,Charles Xavier,0,0,0,16,16.0,16,0,0,1,4,0,1,1,0,0,0,0,0,Fox / X-Men,1,0
+X-Men: First Class,2011,Michael Fassbender,Erik Lehnsherr,0,0,0,16,16.0,16,0,0,1,3,0,1,1,0,0,0,0,0,Fox / X-Men,2,0
+X-Men: First Class,2011,Jennifer Lawrence,Raven / Mystique,0,0,0,16,16.0,16,0,0,1,9,0,1,1,0,0,0,0,0,Fox / X-Men,3,0
+X-Men: First Class,2011,Rose Byrne,Moira MacTaggert,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,4,1
+X-Men: First Class,2011,Kevin Bacon,Sebastian Shaw,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,5,1
+X-Men: First Class,2011,January Jones,Emma Frost,0,0,0,16,16.0,16,0,0,1,2,0,1,1,0,0,0,0,0,Fox / X-Men,6,1
+X-Men: First Class,2011,Nicholas Hoult,Hank / Beast,0,0,0,16,16.0,16,0,0,1,7,0,1,1,0,0,0,0,0,Fox / X-Men,7,1
+X-Men: First Class,2011,Lucas Till,Alex Summers / Havok,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,8,1
+X-Men: First Class,2011,Zoë Kravitz,Angel Salvadore,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,9,2
+X-Men: First Class,2011,Caleb Landry Jones,Cassidy / Banshee,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,10,2
+X-Men: First Class,2011,Oliver Platt,Man in Black Suit,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,11,2
+X-Men: First Class,2011,Jason Flemyng,Azazel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,12,2
+X-Men: First Class,2011,Edi Gathegi,Darwin / Armando Muñoz,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,13,2
+X-Men: First Class,2011,Matt Craven,CIA Director McCone,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,14,2
+X-Men: First Class,2011,Álex González,Janos Quested / Riptide,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,15,2
+The Amazing Spider-Man,2012,Andrew Garfield,Spider-Man / Peter Parker,0,0,0,16,16.0,16,0,0,5,1,0,1,1,0,0,0,0,0,Sony / Spider-Man,1,0
+The Amazing Spider-Man,2012,Emma Stone,Gwen Stacy,0,0,0,16,16.0,16,0,0,1,6,0,1,1,0,0,0,0,0,Sony / Spider-Man,2,0
+The Amazing Spider-Man,2012,Rhys Ifans,The Lizard / Dr. Curt Connors,0,0,0,16,16.0,16,0,0,2,9,0,1,1,0,0,0,0,0,Sony / Spider-Man,3,0
+The Amazing Spider-Man,2012,Denis Leary,Captain Stacy,0,0,0,16,16.0,16,0,0,1,9,0,1,1,0,0,0,0,0,Sony / Spider-Man,4,1
+The Amazing Spider-Man,2012,Martin Sheen,Uncle Ben,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,5,1
+The Amazing Spider-Man,2012,Sally Field,Aunt May,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,6,1
+The Amazing Spider-Man,2012,Irrfan Khan,Rajit Ratha,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,7,1
+The Amazing Spider-Man,2012,Campbell Scott,Richard Parker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,8,1
+The Amazing Spider-Man,2012,Embeth Davidtz,Mary Parker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,9,2
+The Amazing Spider-Man,2012,Chris Zylka,Flash Thompson,0,0,0,16,16.0,16,0,0,1,8,0,1,1,0,0,0,0,0,Sony / Spider-Man,10,2
+The Amazing Spider-Man,2012,Max Charles,Peter Parker (Age 4),0,0,0,16,16.0,16,0,0,5,1,0,1,1,0,0,0,0,0,Sony / Spider-Man,11,2
+The Amazing Spider-Man,2012,C. Thomas Howell,Jack's Father,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,12,2
+The Amazing Spider-Man,2012,Jake Keiffer,Jack,0,0,0,16,16.0,16,0,0,1,13,0,1,1,0,0,0,0,0,Sony / Spider-Man,13,2
+The Amazing Spider-Man,2012,Kari Coleman,Helen Stacy,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,14,2
+The Amazing Spider-Man,2012,Michael Barra,Store Clerk,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,15,2
+The Avengers,2012,Robert Downey Jr.,Tony Stark / Iron Man,2,2,2,1,1.0,1,4,2,2,1,2,0,1,1,0,0,0,0,MCU,1,0
+The Avengers,2012,Chris Evans,Steve Rogers / Captain America,3,1,3,1,2.3333333333333335,1,7,1,5,1,1,0,1,1,0,0,0,0,MCU,2,0
+The Avengers,2012,Mark Ruffalo,Bruce Banner / The Hulk,0,0,0,16,16.0,16,0,0,6,1,0,1,1,0,0,0,0,0,MCU,3,0
+The Avengers,2012,Chris Hemsworth,Thor,1,1,1,1,1.0,1,1,1,2,1,1,0,1,1,0,0,0,0,MCU,4,1
+The Avengers,2012,Scarlett Johansson,Natasha Romanoff / Black Widow,1,1,0,4,4.0,4,2,2,1,4,1,0,1,1,0,0,0,0,MCU,5,1
+The Avengers,2012,Jeremy Renner,Clint Barton / Hawkeye,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+The Avengers,2012,Tom Hiddleston,Loki,1,1,1,3,3.0,3,1,1,1,3,1,0,1,1,0,0,0,0,MCU,7,1
+The Avengers,2012,Clark Gregg,Agent Phil Coulson,3,3,0,7,7.666666666666667,7,4,1,0,16,0,0,0,0,0,0,0,0,MCU,8,1
+The Avengers,2012,Cobie Smulders,Agent Maria Hill,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+The Avengers,2012,Stellan Skarsgård,Selvig,1,1,0,5,5.0,5,1,1,0,16,0,0,0,0,0,0,0,0,MCU,10,2
+The Avengers,2012,Samuel L. Jackson,Nick Fury,2,2,0,7,8.0,9,2,1,3,1,2,0,1,1,0,0,0,0,MCU,11,2
+The Avengers,2012,Gwyneth Paltrow,Pepper Potts,2,2,1,2,3.0,2,4,2,2,2,2,0,1,1,0,0,0,0,MCU,12,2
+The Avengers,2012,Paul Bettany,Jarvis (voice),2,2,0,11,11.0,11,4,2,2,11,2,0,1,1,1,0,0,0,MCU,13,2
+The Avengers,2012,Alexis Denisof,The Other,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+The Avengers,2012,Tina Benko,NASA Scientist,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Ghost Rider: Spirit of Vengeance,2012,Nicolas Cage,Johnny Blaze / Ghost Rider,1,0,1,1,1.0,1,5,5,1,1,1,0,1,1,0,0,0,0,MCU,1,0
+Ghost Rider: Spirit of Vengeance,2012,Fergus Riordan,Danny,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Ghost Rider: Spirit of Vengeance,2012,Violante Placido,Nadya,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Ghost Rider: Spirit of Vengeance,2012,Ciarán Hinds,Roarke,0,0,0,16,16.0,16,0,0,1,15,0,1,1,0,0,0,0,0,MCU,4,1
+Ghost Rider: Spirit of Vengeance,2012,Johnny Whitworth,Ray Carrigan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Ghost Rider: Spirit of Vengeance,2012,Idris Elba,Moreau,1,1,0,9,9.0,9,1,1,0,16,0,0,0,0,0,0,0,0,MCU,6,1
+Ghost Rider: Spirit of Vengeance,2012,Spencer Wilding,Grannik,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Ghost Rider: Spirit of Vengeance,2012,Sorin Tofan,Kurdish,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Ghost Rider: Spirit of Vengeance,2012,Jacek Koman,Terrokov,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Ghost Rider: Spirit of Vengeance,2012,Anthony Stewart Head,Benedict,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Ghost Rider: Spirit of Vengeance,2012,Cristian Iacob,Vasil,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Ghost Rider: Spirit of Vengeance,2012,Christopher Lambert,Methodius,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Ghost Rider: Spirit of Vengeance,2012,Jai Stefan,Krakchev,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Ghost Rider: Spirit of Vengeance,2012,Vincent Regan,Toma Nikasevic,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Ghost Rider: Spirit of Vengeance,2012,Ionut Cristian Lefter,Young Johnny Blaze,0,0,0,16,16.0,16,0,0,1,1,0,1,1,0,0,0,0,0,MCU,15,2
+Iron Man 3,2013,Robert Downey Jr.,Tony Stark,3,3,3,1,1.0,1,5,1,3,1,3,0,1,1,0,0,0,0,MCU,1,0
+Iron Man 3,2013,Gwyneth Paltrow,Pepper Potts,3,3,1,2,6.0,12,5,1,3,2,3,0,1,1,0,0,0,0,MCU,2,0
+Iron Man 3,2013,Don Cheadle,Colonel James Rhodes,1,1,1,3,3.0,3,3,3,0,16,0,0,0,0,0,0,0,0,MCU,3,0
+Iron Man 3,2013,Guy Pearce,Aldrich Killian,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Iron Man 3,2013,Rebecca Hall,Maya Hansen,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Iron Man 3,2013,Jon Favreau,Happy Hogan,3,2,0,5,10.333333333333334,14,10,3,1,14,1,0,1,1,0,0,0,0,MCU,6,1
+Iron Man 3,2013,Ben Kingsley,Trevor Slattery,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Iron Man 3,2013,James Badge Dale,Savin,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Iron Man 3,2013,Stephanie Szostak,Brandt,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Iron Man 3,2013,Paul Bettany,Jarvis (voice),3,3,0,11,11.666666666666666,13,5,1,3,11,3,0,1,1,1,0,0,0,MCU,10,2
+Iron Man 3,2013,William Sadler,President Ellis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Iron Man 3,2013,Dale Dickey,Mrs. Davis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Iron Man 3,2013,Ty Simpkins,Harley Keener,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Iron Man 3,2013,Miguel Ferrer,Vice President Rodriguez,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Iron Man 3,2013,Wang Xueqi,Doctor Wu,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+The Wolverine,2013,Hugh Jackman,Logan / Wolverine,2,0,2,1,1.0,1,7,4,2,1,2,0,1,1,0,0,0,0,Fox / X-Men,1,0
+The Wolverine,2013,Hiroyuki Sanada,Shingen Harada / Lord Shingen,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,2,0
+The Wolverine,2013,Tao Okamoto,Mariko Yashida / Scarlet Samurai,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,3,0
+The Wolverine,2013,Rila Fukushima,Yukio / Pinkie Pie,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,4,1
+The Wolverine,2013,Famke Janssen,Jean Grey / Phoenix,1,0,0,5,5.0,5,7,7,1,5,1,0,1,1,0,0,0,0,Fox / X-Men,5,1
+The Wolverine,2013,Will Yun Lee,Harada,1,0,1,3,3.0,3,8,8,0,16,0,0,0,0,0,0,0,0,Fox / X-Men,6,1
+The Wolverine,2013,Svetlana Khodchenkova,Madame Hydra / Viper,0,0,0,16,16.0,16,0,0,1,3,0,1,1,0,0,0,0,0,Fox / X-Men,7,1
+The Wolverine,2013,Hal Yamanouchi,Ichiro Yashida / Silver Samurai,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,8,1
+The Wolverine,2013,Brian Tee,Noburo Mori,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,9,2
+The Wolverine,2013,Ken Yamamura,Young Yashida,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,10,2
+The Wolverine,2013,Nobutaka Aoyagi,Security,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,11,2
+The Wolverine,2013,Seiji Funamoto,Servant,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,12,2
+The Wolverine,2013,Shinji Ikefuji,Pock-Face,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,13,2
+The Wolverine,2013,Qyoko Kudo,Aya,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,14,2
+The Wolverine,2013,Nobuaki Kakuda,Buddhist Priest,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,15,2
+Thor: The Dark World,2013,Chris Hemsworth,Thor,2,2,1,1,2.5,4,2,1,3,1,2,0,1,1,0,0,0,0,MCU,1,0
+Thor: The Dark World,2013,Natalie Portman,Jane Foster,1,1,1,2,2.0,2,2,2,1,2,1,0,1,1,0,0,0,0,MCU,2,0
+Thor: The Dark World,2013,Tom Hiddleston,Loki,2,2,1,3,5.0,7,2,1,2,3,2,0,1,1,0,0,0,0,MCU,3,0
+Thor: The Dark World,2013,Christopher Eccleston,Malekith,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Thor: The Dark World,2013,Anthony Hopkins,Odin,1,1,0,4,4.0,4,2,2,1,4,1,0,1,1,0,0,0,0,MCU,5,1
+Thor: The Dark World,2013,Jaimie Alexander,Sif,1,1,0,13,13.0,13,2,2,1,13,1,0,1,1,0,0,0,0,MCU,6,1
+Thor: The Dark World,2013,Zachary Levi,Fandral,0,0,0,16,16.0,16,0,0,1,12,0,1,1,0,0,0,0,0,MCU,7,1
+Thor: The Dark World,2013,Ray Stevenson,Volstagg,2,2,1,1,5.5,10,5,2,1,10,1,0,1,1,0,0,0,0,MCU,8,1
+Thor: The Dark World,2013,Tadanobu Asano,Hogun,1,1,0,11,11.0,11,2,2,1,11,1,0,1,1,0,0,0,0,MCU,9,2
+Thor: The Dark World,2013,Idris Elba,Heimdall,2,2,0,6,7.5,6,2,1,1,9,1,0,1,1,0,0,0,0,MCU,10,2
+Thor: The Dark World,2013,Rene Russo,Frigga,1,1,0,14,14.0,14,2,2,1,14,1,0,1,1,0,0,0,0,MCU,11,2
+Thor: The Dark World,2013,Adewale Akinnuoye-Agbaje,Algrim / Kurse,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Thor: The Dark World,2013,Kat Dennings,Darcy Lewis,1,1,0,6,6.0,6,2,2,1,6,1,0,1,1,0,0,0,0,MCU,13,2
+Thor: The Dark World,2013,Stellan Skarsgård,Erik Selvig,2,2,0,5,7.5,10,2,1,1,5,1,0,1,1,0,0,0,0,MCU,14,2
+Thor: The Dark World,2013,Alice Krige,Eir,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Captain America: The Winter Soldier,2014,Chris Evans,Steve Rogers / Captain America,4,2,4,1,2.25,2,9,2,6,1,2,0,1,1,0,0,0,0,MCU,1,0
+Captain America: The Winter Soldier,2014,Samuel L. Jackson,Nick Fury,3,3,0,7,9.0,11,4,2,4,1,3,0,1,1,0,0,0,0,MCU,2,0
+Captain America: The Winter Soldier,2014,Scarlett Johansson,Natasha Romanoff / Black Widow,2,2,0,4,4.5,5,4,2,2,4,2,0,1,1,0,0,0,0,MCU,3,0
+Captain America: The Winter Soldier,2014,Robert Redford,Alexander Pierce,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Captain America: The Winter Soldier,2014,Sebastian Stan,Bucky Barnes / Winter Soldier,1,1,1,3,3.0,3,3,3,0,16,0,0,0,0,0,0,0,0,MCU,5,1
+Captain America: The Winter Soldier,2014,Anthony Mackie,Sam Wilson / Falcon,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Captain America: The Winter Soldier,2014,Cobie Smulders,Maria Hill,1,1,0,9,9.0,9,2,2,0,16,0,0,0,0,0,0,0,0,MCU,7,1
+Captain America: The Winter Soldier,2014,Frank Grillo,Brock Rumlow,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Captain America: The Winter Soldier,2014,Maximiliano Hernández,Jasper Sitwell,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Captain America: The Winter Soldier,2014,Emily VanCamp,Kate / Agent 13,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Captain America: The Winter Soldier,2014,Hayley Atwell,Peggy Carter,1,1,1,2,2.0,2,3,3,1,2,1,0,1,1,0,0,0,0,MCU,11,2
+Captain America: The Winter Soldier,2014,Toby Jones,Dr. Arnim Zola,1,1,0,10,10.0,10,3,3,2,10,1,0,1,1,0,0,0,0,MCU,12,2
+Captain America: The Winter Soldier,2014,Stan Lee,Smithsonian Guard,1,0,0,13,13.0,13,11,11,0,16,0,0,0,0,0,0,0,0,MCU,13,2
+Captain America: The Winter Soldier,2014,Callan Mulvey,Jack Rollins,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Captain America: The Winter Soldier,2014,Jenny Agutter,Councilwoman Hawley,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+The Amazing Spider-Man 2,2014,Andrew Garfield,Spider-Man / Peter Parker,1,0,1,1,1.0,1,2,2,6,1,1,0,1,1,0,0,0,0,Sony / Spider-Man,1,0
+The Amazing Spider-Man 2,2014,Emma Stone,Gwen Stacy,1,0,1,2,2.0,2,2,2,2,2,1,0,1,1,0,0,0,0,Sony / Spider-Man,2,0
+The Amazing Spider-Man 2,2014,Jamie Foxx,Electro / Max Dillon,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,3,0
+The Amazing Spider-Man 2,2014,Dane DeHaan,Green Goblin / Harry Osborn,0,0,0,16,16.0,16,0,0,3,2,0,1,1,0,0,0,0,0,Sony / Spider-Man,4,1
+The Amazing Spider-Man 2,2014,Colm Feore,Donald Menken,1,1,0,8,8.0,8,3,3,0,16,0,0,0,0,0,0,0,0,Sony / Spider-Man,5,1
+The Amazing Spider-Man 2,2014,Felicity Jones,Felicia,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,6,1
+The Amazing Spider-Man 2,2014,Paul Giamatti,Aleksei Sytsevich,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,7,1
+The Amazing Spider-Man 2,2014,Sally Field,Aunt May,1,0,0,6,6.0,6,2,2,1,6,1,0,1,1,0,0,0,0,Sony / Spider-Man,8,1
+The Amazing Spider-Man 2,2014,Embeth Davidtz,Mary Parker,1,0,0,9,9.0,9,2,2,1,9,1,0,1,1,0,0,0,0,Sony / Spider-Man,9,2
+The Amazing Spider-Man 2,2014,Campbell Scott,Richard Parker,1,0,0,8,8.0,8,2,2,1,8,1,0,1,1,0,0,0,0,Sony / Spider-Man,10,2
+The Amazing Spider-Man 2,2014,Marton Csokas,Dr. Ashley Kafka,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,11,2
+The Amazing Spider-Man 2,2014,Louis Cancelmi,Man in Black Suit,0,0,0,16,16.0,16,0,0,1,11,0,1,1,0,0,0,0,0,Sony / Spider-Man,12,2
+The Amazing Spider-Man 2,2014,Max Charles,Young Peter Parker,1,0,0,11,11.0,11,2,2,6,1,1,0,1,1,0,0,0,0,Sony / Spider-Man,13,2
+The Amazing Spider-Man 2,2014,B.J. Novak,Allistar Smythe,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,14,2
+The Amazing Spider-Man 2,2014,Sarah Gadon,Kari,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,15,2
+Guardians of the Galaxy,2014,Chris Pratt,Peter Quill,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,1,0
+Guardians of the Galaxy,2014,Zoe Saldaña,Gamora,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Guardians of the Galaxy,2014,Dave Bautista,Drax,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Guardians of the Galaxy,2014,Vin Diesel,Groot (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,4,1
+Guardians of the Galaxy,2014,Bradley Cooper,Rocket (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,5,1
+Guardians of the Galaxy,2014,Lee Pace,Ronan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Guardians of the Galaxy,2014,Michael Rooker,Yondu Udonta,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Guardians of the Galaxy,2014,Karen Gillan,Nebula,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Guardians of the Galaxy,2014,Djimon Hounsou,Korath,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Guardians of the Galaxy,2014,John C. Reilly,Corpsman Dey,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Guardians of the Galaxy,2014,Glenn Close,Nova Prime,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Guardians of the Galaxy,2014,Benicio del Toro,The Collector,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Guardians of the Galaxy,2014,Laura Haddock,Meredith Quill,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Guardians of the Galaxy,2014,Sean Gunn,Kraglin / On Set Rocket,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Guardians of the Galaxy,2014,Peter Serafinowicz,Denarian Saal,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+X-Men: Days of Future Past,2014,Hugh Jackman,Logan / Wolverine,3,0,3,1,1.0,1,8,1,3,1,3,0,1,1,0,0,0,0,Fox / X-Men,1,0
+X-Men: Days of Future Past,2014,James McAvoy,Charles Xavier,1,0,1,1,1.0,1,3,3,2,1,1,0,1,1,0,0,0,0,Fox / X-Men,2,0
+X-Men: Days of Future Past,2014,Michael Fassbender,Erik Lehnsherr,1,0,1,2,2.0,2,3,3,2,2,1,0,1,1,0,0,0,0,Fox / X-Men,3,0
+X-Men: Days of Future Past,2014,Patrick Stewart,Professor X,1,0,0,4,4.0,4,8,8,0,16,0,0,0,0,0,0,0,0,Fox / X-Men,4,1
+X-Men: Days of Future Past,2014,Ian McKellen,Magneto,1,0,1,3,3.0,3,8,8,1,3,1,0,1,1,0,0,0,0,Fox / X-Men,5,1
+X-Men: Days of Future Past,2014,Jennifer Lawrence,Raven / Mystique,1,0,1,3,3.0,3,3,3,2,3,1,0,1,1,0,0,0,0,Fox / X-Men,6,1
+X-Men: Days of Future Past,2014,Halle Berry,Storm,1,0,1,2,2.0,2,8,8,2,2,1,0,1,1,0,0,0,0,Fox / X-Men,7,1
+X-Men: Days of Future Past,2014,Nicholas Hoult,Hank / Beast,1,0,0,7,7.0,7,3,3,2,7,1,0,1,1,0,0,0,0,Fox / X-Men,8,1
+X-Men: Days of Future Past,2014,Anna Paquin,Rogue,1,0,0,6,6.0,6,8,8,1,6,1,0,1,1,0,0,0,0,Fox / X-Men,9,2
+X-Men: Days of Future Past,2014,Elliot Page,Kitty Pryde,1,0,0,13,13.0,13,8,8,1,13,1,0,1,1,0,0,0,0,Fox / X-Men,10,2
+X-Men: Days of Future Past,2014,Peter Dinklage,Dr. Bolivar Trask,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,11,2
+X-Men: Days of Future Past,2014,Shawn Ashmore,Bobby / Iceman,1,0,0,10,10.0,10,8,8,1,10,1,0,1,1,0,0,0,0,Fox / X-Men,12,2
+X-Men: Days of Future Past,2014,Omar Sy,Bishop,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,13,2
+X-Men: Days of Future Past,2014,Evan Peters,Peter / Quicksilver,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,14,2
+X-Men: Days of Future Past,2014,Josh Helman,William Stryker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,15,2
+Avengers: Age of Ultron,2015,Robert Downey Jr.,Tony Stark / Iron Man,4,4,4,1,1.0,1,7,2,4,1,4,0,1,1,0,0,0,0,MCU,1,0
+Avengers: Age of Ultron,2015,Chris Hemsworth,Thor,3,3,2,1,2.0,1,4,2,4,1,3,0,1,1,0,0,0,0,MCU,2,0
+Avengers: Age of Ultron,2015,Mark Ruffalo,Bruce Banner / Hulk,1,1,1,3,3.0,3,3,3,7,1,1,0,1,1,0,0,0,0,MCU,3,0
+Avengers: Age of Ultron,2015,Chris Evans,Steve Rogers / Captain America,5,3,5,1,2.0,1,10,1,7,1,3,0,1,1,0,0,0,0,MCU,4,1
+Avengers: Age of Ultron,2015,Scarlett Johansson,Natasha Romanoff / Black Widow,3,3,1,3,4.0,3,5,1,3,3,3,0,1,1,0,0,0,0,MCU,5,1
+Avengers: Age of Ultron,2015,Jeremy Renner,Clint Barton / Hawkeye,1,1,0,6,6.0,6,3,3,1,6,1,0,1,1,0,0,0,0,MCU,6,1
+Avengers: Age of Ultron,2015,James Spader,Ultron (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,7,1
+Avengers: Age of Ultron,2015,Samuel L. Jackson,Nick Fury,4,4,1,2,7.25,2,5,1,5,1,4,0,1,1,0,0,0,0,MCU,8,1
+Avengers: Age of Ultron,2015,Don Cheadle,James Rhodes / War Machine,2,2,2,3,3.0,3,5,2,1,3,1,0,1,1,0,0,0,0,MCU,9,2
+Avengers: Age of Ultron,2015,Aaron Taylor-Johnson,Pietro Maximoff / Quicksilver,0,0,0,16,16.0,16,0,0,1,14,0,1,1,0,0,0,0,0,MCU,10,2
+Avengers: Age of Ultron,2015,Elizabeth Olsen,Wanda Maximoff / Scarlet Witch,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Avengers: Age of Ultron,2015,Paul Bettany,Jarvis / Vision,4,4,0,10,11.25,10,7,2,4,10,4,0,1,1,0,0,0,0,MCU,12,2
+Avengers: Age of Ultron,2015,Cobie Smulders,Maria Hill,2,2,0,7,8.0,7,3,1,1,7,1,0,1,1,0,0,0,0,MCU,13,2
+Avengers: Age of Ultron,2015,Anthony Mackie,Sam Wilson / The Falcon,1,1,0,6,6.0,6,1,1,1,6,1,0,1,1,0,0,0,0,MCU,14,2
+Avengers: Age of Ultron,2015,Hayley Atwell,Peggy Carter,2,2,1,2,6.5,11,4,1,2,2,2,0,1,1,0,0,0,0,MCU,15,2
+Ant-Man,2015,Paul Rudd,Scott Lang / Ant-Man,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,1,0
+Ant-Man,2015,Michael Douglas,Dr. Hank Pym,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Ant-Man,2015,Evangeline Lilly,Hope van Dyne,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Ant-Man,2015,Corey Stoll,Darren Cross / Yellowjacket,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Ant-Man,2015,Bobby Cannavale,Paxton,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Ant-Man,2015,Anthony Mackie,Sam Wilson / Falcon,1,1,0,6,6.0,6,1,1,1,6,1,0,1,1,0,0,0,0,MCU,6,1
+Ant-Man,2015,Judy Greer,Maggie Lang,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Ant-Man,2015,Abby Ryder Fortson,Cassie Lang,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Ant-Man,2015,Michael Peña,Luis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Ant-Man,2015,David Dastmalchian,Kurt,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Ant-Man,2015,T.I.,Dave,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Ant-Man,2015,Wood Harris,Gale,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Ant-Man,2015,Hayley Atwell,Peggy Carter,2,2,1,2,6.5,11,4,1,2,2,2,0,1,1,0,0,0,0,MCU,13,2
+Ant-Man,2015,John Slattery,Howard Stark,1,1,0,9,9.0,9,5,5,2,6,1,0,1,1,0,0,0,0,MCU,14,2
+Ant-Man,2015,Martin Donovan,Mitchell Carson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Fantastic Four,2015,Miles Teller,Reed Richards,0,0,0,16,16.0,16,0,0,3,1,0,1,1,0,0,0,0,0,MCU,1,0
+Fantastic Four,2015,Michael B. Jordan,Johnny Storm,0,0,0,16,16.0,16,0,0,3,2,0,1,1,0,0,0,0,0,MCU,2,0
+Fantastic Four,2015,Kate Mara,Sue Storm,1,1,0,12,12.0,12,5,5,1,2,0,0,1,0,0,0,0,0,MCU,3,0
+Fantastic Four,2015,Jamie Bell,Ben Grimm / The Thing,0,0,0,16,16.0,16,0,0,3,4,0,1,1,0,0,0,0,0,MCU,4,1
+Fantastic Four,2015,Toby Kebbell,Victor von Doom / Dr. Doom,0,0,0,16,16.0,16,0,0,3,5,0,1,1,0,0,0,0,0,MCU,5,1
+Fantastic Four,2015,Reg E. Cathey,Dr. Franklin Storm,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Fantastic Four,2015,Tim Blake Nelson,Dr. Allen,1,1,0,5,5.0,5,7,7,0,16,0,0,0,0,0,0,0,0,MCU,7,1
+Fantastic Four,2015,Tim Heidecker,Mr. Richards,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Fantastic Four,2015,Joshua Montes,Quarterback Speech School Kid,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Fantastic Four,2015,Dan Castellaneta,Mr. Kenny,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Fantastic Four,2015,Owen Judge,Young Reed,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Fantastic Four,2015,Kylen Davis,Teasing School Kid,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Fantastic Four,2015,Evan Hannemann,Young Ben,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Fantastic Four,2015,Chet Hanks,Jimmy Grimm,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Fantastic Four,2015,Mary-Pat Green,Mrs. Grimm,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+X-Men: Apocalypse,2016,James McAvoy,Professor Charles Xavier,2,0,2,1,1.5,2,5,2,3,1,2,0,1,1,0,0,0,0,Fox / X-Men,1,0
+X-Men: Apocalypse,2016,Michael Fassbender,Erik Lehnsherr / Magneto,2,0,2,2,2.5,3,5,2,3,2,2,0,1,1,0,0,0,0,Fox / X-Men,2,0
+X-Men: Apocalypse,2016,Jennifer Lawrence,Raven / Mystique,2,0,1,3,4.5,6,5,2,3,3,2,0,1,1,0,0,0,0,Fox / X-Men,3,0
+X-Men: Apocalypse,2016,Nicholas Hoult,Hank McCoy / Beast,2,0,0,7,7.5,8,5,2,3,7,2,0,1,1,0,0,0,0,Fox / X-Men,4,1
+X-Men: Apocalypse,2016,Oscar Isaac,En Sabah Nur / Apocalypse,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,5,1
+X-Men: Apocalypse,2016,Rose Byrne,Moira MacTaggert,1,0,0,4,4.0,4,5,5,1,4,1,0,1,1,0,0,0,0,Fox / X-Men,6,1
+X-Men: Apocalypse,2016,Evan Peters,Peter Maximoff / Quicksilver,1,0,0,14,14.0,14,2,2,2,10,1,0,1,1,0,0,0,0,Fox / X-Men,7,1
+X-Men: Apocalypse,2016,Josh Helman,Col. William Stryker,1,0,0,15,15.0,15,2,2,1,15,1,0,1,1,0,0,0,0,Fox / X-Men,8,1
+X-Men: Apocalypse,2016,Sophie Turner,Jean Grey,0,0,0,16,16.0,16,0,0,2,5,0,1,1,0,0,0,0,0,Fox / X-Men,9,2
+X-Men: Apocalypse,2016,Tye Sheridan,Scott Summers / Cyclops,0,0,0,16,16.0,16,0,0,2,8,0,1,1,0,0,0,0,0,Fox / X-Men,10,2
+X-Men: Apocalypse,2016,Lucas Till,Alex Summers / Havok,1,0,0,8,8.0,8,5,5,1,8,1,0,1,1,0,0,0,0,Fox / X-Men,11,2
+X-Men: Apocalypse,2016,Kodi Smit-McPhee,Kurt Wagner / Nightcrawler,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,12,2
+X-Men: Apocalypse,2016,Ben Hardy,Angel,0,0,0,16,16.0,16,0,0,2,8,0,1,1,0,0,0,0,0,Fox / X-Men,13,2
+X-Men: Apocalypse,2016,Alexandra Shipp,Ororo Munroe / Storm,0,0,0,16,16.0,16,0,0,3,2,0,1,1,0,0,0,0,0,Fox / X-Men,14,2
+X-Men: Apocalypse,2016,Lana Condor,Jubilee,0,0,0,16,16.0,16,0,0,1,4,0,1,1,0,0,0,0,0,Fox / X-Men,15,2
+Captain America: Civil War,2016,Chris Evans,Steve Rogers / Captain America,6,4,5,1,2.3333333333333335,4,11,1,8,1,4,0,1,1,0,0,0,0,MCU,1,0
+Captain America: Civil War,2016,Robert Downey Jr.,Tony Stark / Iron Man,5,5,5,1,1.0,1,8,1,5,1,5,0,1,1,0,0,0,0,MCU,2,0
+Captain America: Civil War,2016,Scarlett Johansson,Natasha Romanoff / Black Widow,4,4,1,3,4.25,5,6,1,4,3,4,0,1,1,0,0,0,0,MCU,3,0
+Captain America: Civil War,2016,Sebastian Stan,Bucky Barnes / Winter Soldier,2,2,1,3,4.0,5,5,2,1,5,1,0,1,1,0,0,0,0,MCU,4,1
+Captain America: Civil War,2016,Anthony Mackie,Sam Wilson / Falcon,3,3,0,6,8.666666666666666,6,2,1,3,6,3,0,1,1,0,0,0,0,MCU,5,1
+Captain America: Civil War,2016,Don Cheadle,Lieutenant James Rhodes / War Machine,3,3,2,3,5.0,9,6,1,1,9,1,0,1,1,0,0,0,0,MCU,6,1
+Captain America: Civil War,2016,Jeremy Renner,Clint Barton / Hawkeye,2,2,0,6,6.0,6,4,1,2,6,2,0,1,1,0,0,0,0,MCU,7,1
+Captain America: Civil War,2016,Chadwick Boseman,T'Challa / Black Panther,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Captain America: Civil War,2016,Paul Bettany,Vision,5,5,0,10,11.4,12,8,1,1,12,1,0,1,1,0,0,0,0,MCU,9,2
+Captain America: Civil War,2016,Elizabeth Olsen,Wanda Maximoff / Scarlet Witch,1,1,0,11,11.0,11,1,1,1,11,1,0,1,1,0,0,0,0,MCU,10,2
+Captain America: Civil War,2016,Paul Rudd,Scott Lang / Ant-Man,1,1,1,1,1.0,1,1,1,1,1,1,0,1,1,0,0,0,0,MCU,11,2
+Captain America: Civil War,2016,Emily VanCamp,Sharon Carter,1,1,0,10,10.0,10,2,2,0,16,0,0,0,0,0,0,0,0,MCU,12,2
+Captain America: Civil War,2016,Tom Holland,Peter Parker / Spider-Man,0,0,0,16,16.0,16,0,0,7,1,0,1,1,0,0,0,0,0,MCU,13,2
+Captain America: Civil War,2016,Daniel Brühl,Zemo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Captain America: Civil War,2016,Frank Grillo,Brock Rumlow / Crossbones,1,1,0,8,8.0,8,2,2,1,8,1,0,1,1,0,0,0,0,MCU,15,2
+Doctor Strange,2016,Benedict Cumberbatch,Dr. Stephen Strange,0,0,0,16,16.0,16,0,0,1,1,0,1,1,0,0,0,0,0,MCU,1,0
+Doctor Strange,2016,Chiwetel Ejiofor,Mordo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Doctor Strange,2016,Rachel McAdams,Dr. Christine Palmer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Doctor Strange,2016,Benedict Wong,Wong,0,0,0,16,16.0,16,0,0,1,2,0,1,1,0,0,0,0,0,MCU,4,1
+Doctor Strange,2016,Mads Mikkelsen,Kaecilius,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Doctor Strange,2016,Tilda Swinton,The Ancient One,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Doctor Strange,2016,Michael Stuhlbarg,Dr. Nicodemus West,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Doctor Strange,2016,Benjamin Bratt,Jonathan Pangborn,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Doctor Strange,2016,Scott Adkins,Lucian / Strong Zealot,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Doctor Strange,2016,Zara Phythian,Brunette Zealot,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Doctor Strange,2016,Alaa Safi,Tall Zealot,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Doctor Strange,2016,Katrina Durden,Blonde Zealot,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Doctor Strange,2016,Topo Wresniwiro,Hamir,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Doctor Strange,2016,Umit Ulgen,Sol Rama,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Doctor Strange,2016,Linda Louise Duan,Tina Minoru,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Deadpool,2016,Ryan Reynolds,Wade Wilson / Deadpool,1,0,0,9,9.0,9,7,7,1,9,1,0,1,1,0,0,0,0,Fox / X-Men,1,0
+Deadpool,2016,Morena Baccarin,Vanessa,0,0,0,16,16.0,16,0,0,1,11,0,1,1,0,0,0,0,0,Fox / X-Men,2,0
+Deadpool,2016,Ed Skrein,Ajax,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,3,0
+Deadpool,2016,T.J. Miller,Weasel,0,0,0,16,16.0,16,0,0,1,10,0,1,1,0,0,0,0,0,Fox / X-Men,4,1
+Deadpool,2016,Gina Carano,Angel Dust,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,5,1
+Deadpool,2016,Leslie Uggams,Blind Al,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,6,1
+Deadpool,2016,Brianna Hildebrand,Negasonic Teenage Warhead,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,7,1
+Deadpool,2016,Stefan Kapičić,Colossus (voice),0,0,0,16,16.0,16,0,0,1,14,0,1,1,0,1,0,0,0,Fox / X-Men,8,1
+Deadpool,2016,Karan Soni,Dopinder,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,9,2
+Deadpool,2016,Randal Reeder,Buck,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,10,2
+Deadpool,2016,Michael Benyaer,Warlord,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,11,2
+Deadpool,2016,Style Dayne,Jeremy (Pizza Guy),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,12,2
+Deadpool,2016,Kyle Cassie,Gavin Merchant,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,13,2
+Deadpool,2016,Taylor Hickson,Meghan Orlovsky,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,14,2
+Deadpool,2016,Ayzee,Teen Girl #1,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,15,2
+Logan,2017,Hugh Jackman,Logan / X-24,4,0,4,1,1.0,1,11,3,4,1,4,0,1,1,0,0,0,0,Fox / X-Men,1,0
+Logan,2017,Dafne Keen,Laura,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,2,0
+Logan,2017,Patrick Stewart,Charles,2,0,0,4,4.0,4,11,3,0,16,0,0,0,0,0,0,0,0,Fox / X-Men,3,0
+Logan,2017,Elizabeth Rodriguez,Gabriela,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,4,1
+Logan,2017,Boyd Holbrook,Pierce,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,5,1
+Logan,2017,Stephen Merchant,Caliban,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,6,1
+Logan,2017,Richard E. Grant,Dr. Rice,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,7,1
+Logan,2017,Stephen Dunlevy,Macon,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,8,1
+Logan,2017,Eriq La Salle,Will Munson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,9,2
+Logan,2017,Elise Neal,Kathryn Munson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,10,2
+Logan,2017,Quincy Fouse,Nate Munson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,11,2
+Logan,2017,Al Coronel,Federale Commander,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,12,2
+Logan,2017,Frank Gallegos,Federale Lieutenant,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,13,2
+Logan,2017,Anthony Escobar,Federale,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,14,2
+Logan,2017,Reynaldo Gallegos,Rey,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,15,2
+Guardians of the Galaxy Vol. 2,2017,Chris Pratt,Peter Quill / Star-Lord,1,1,1,1,1.0,1,3,3,1,1,1,0,1,1,0,0,0,0,MCU,1,0
+Guardians of the Galaxy Vol. 2,2017,Zoe Saldaña,Gamora,1,1,1,2,2.0,2,3,3,1,2,1,0,1,1,0,0,0,0,MCU,2,0
+Guardians of the Galaxy Vol. 2,2017,Dave Bautista,Drax,1,1,1,3,3.0,3,3,3,1,3,1,0,1,1,0,0,0,0,MCU,3,0
+Guardians of the Galaxy Vol. 2,2017,Vin Diesel,Baby Groot (voice),1,1,0,4,4.0,4,3,3,0,16,0,0,0,0,1,0,0,0,MCU,4,1
+Guardians of the Galaxy Vol. 2,2017,Bradley Cooper,Rocket (voice),1,1,0,5,5.0,5,3,3,1,5,1,0,1,1,1,0,0,0,MCU,5,1
+Guardians of the Galaxy Vol. 2,2017,Kurt Russell,Ego,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Guardians of the Galaxy Vol. 2,2017,Michael Rooker,Yondu,1,1,0,7,7.0,7,3,3,0,16,0,0,0,0,0,0,0,0,MCU,7,1
+Guardians of the Galaxy Vol. 2,2017,Karen Gillan,Nebula,1,1,0,8,8.0,8,3,3,1,8,1,0,1,1,0,0,0,0,MCU,8,1
+Guardians of the Galaxy Vol. 2,2017,Pom Klementieff,Mantis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Guardians of the Galaxy Vol. 2,2017,Sylvester Stallone,Stakar Ogord,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Guardians of the Galaxy Vol. 2,2017,Elizabeth Debicki,Ayesha,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Guardians of the Galaxy Vol. 2,2017,Chris Sullivan,Taserface,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Guardians of the Galaxy Vol. 2,2017,Sean Gunn,Kraglin / On-Set Rocket,1,1,0,14,14.0,14,3,3,1,14,1,0,1,1,0,0,0,0,MCU,13,2
+Guardians of the Galaxy Vol. 2,2017,Tommy Flanagan,Tullk,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Guardians of the Galaxy Vol. 2,2017,Laura Haddock,Meredith Quill,1,1,0,13,13.0,13,3,3,1,13,1,0,1,1,0,0,0,0,MCU,15,2
+Thor: Ragnarok,2017,Chris Hemsworth,Thor,4,4,3,1,2.0,2,6,2,5,1,4,0,1,1,0,0,0,0,MCU,1,0
+Thor: Ragnarok,2017,Mark Ruffalo,Bruce Banner / Hulk,2,2,2,3,3.0,3,5,2,8,1,2,0,1,1,0,0,0,0,MCU,2,0
+Thor: Ragnarok,2017,Tom Hiddleston,Loki,3,3,2,3,4.333333333333333,3,6,4,3,3,3,0,1,1,0,0,0,0,MCU,3,0
+Thor: Ragnarok,2017,Cate Blanchett,Hela,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Thor: Ragnarok,2017,Idris Elba,Heimdall,3,3,0,6,8.333333333333334,10,6,4,2,9,2,0,1,1,0,0,0,0,MCU,5,1
+Thor: Ragnarok,2017,Jeff Goldblum,Grandmaster,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Thor: Ragnarok,2017,Tessa Thompson,Valkyrie,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Thor: Ragnarok,2017,Karl Urban,Skurge,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Thor: Ragnarok,2017,Anthony Hopkins,Odin,2,2,0,4,4.5,5,6,4,2,4,2,0,1,1,0,0,0,0,MCU,9,2
+Thor: Ragnarok,2017,Benedict Cumberbatch,Doctor Strange,1,1,1,1,1.0,1,1,1,0,16,0,0,0,0,0,0,0,0,MCU,10,2
+Thor: Ragnarok,2017,Taika Waititi,Korg (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,11,2
+Thor: Ragnarok,2017,Rachel House,Topaz,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Thor: Ragnarok,2017,Clancy Brown,Surtur (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,13,2
+Thor: Ragnarok,2017,Tadanobu Asano,Hogun,2,2,0,9,10.0,9,6,4,2,9,2,0,1,1,0,0,0,0,MCU,14,2
+Thor: Ragnarok,2017,Ray Stevenson,Volstagg,3,3,1,1,6.333333333333333,8,9,4,2,8,2,0,1,1,0,0,0,0,MCU,15,2
+Spider-Man: Homecoming,2017,Tom Holland,Peter Parker / Spider-Man,1,1,0,13,13.0,13,1,1,8,1,1,0,1,1,0,0,0,0,MCU,1,0
+Spider-Man: Homecoming,2017,Michael Keaton,Adrian Toomes / Vulture,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Spider-Man: Homecoming,2017,Robert Downey Jr.,Tony Stark / Iron Man,6,6,6,1,1.1666666666666667,2,9,1,6,1,6,0,1,1,0,0,0,0,MCU,3,0
+Spider-Man: Homecoming,2017,Marisa Tomei,May Parker,0,0,0,16,16.0,16,0,0,3,5,0,1,1,0,0,0,0,0,MCU,4,1
+Spider-Man: Homecoming,2017,Jon Favreau,Happy Hogan,4,3,0,5,9.25,6,14,4,2,6,2,0,1,1,0,0,0,0,MCU,5,1
+Spider-Man: Homecoming,2017,Gwyneth Paltrow,Pepper Potts,4,4,2,2,5.0,2,9,4,4,2,4,0,1,1,0,0,0,0,MCU,6,1
+Spider-Man: Homecoming,2017,Zendaya,Michelle,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Spider-Man: Homecoming,2017,Donald Glover,Aaron Davis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Spider-Man: Homecoming,2017,Jacob Batalon,Ned,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Spider-Man: Homecoming,2017,Laura Harrier,Liz,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Spider-Man: Homecoming,2017,Tony Revolori,Flash,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Spider-Man: Homecoming,2017,Bokeem Woodbine,Herman Schultz / Shocker #2,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Spider-Man: Homecoming,2017,Tyne Daly,Anne Marie Hoag,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Spider-Man: Homecoming,2017,Abraham Attah,Abraham,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Spider-Man: Homecoming,2017,Hannibal Buress,Coach Wilson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Inhumans,2017,Anson Mount,Black Bolt,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,1,0
+Inhumans,2017,Serinda Swan,Medusa,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Inhumans,2017,Iwan Rheon,Maximus,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Inhumans,2017,Ken Leung,Karnak,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Inhumans,2017,Eme Ikwuakor,Gorgon,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Inhumans,2017,Isabelle Cornish,Crystal,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Inhumans,2017,Sonya Balmores,Auran,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Inhumans,2017,Ellen Woglom,Louise,0,0,0,16,16.0,16,0,0,1,11,0,1,1,0,0,0,0,0,MCU,8,1
+Inhumans,2017,Mike Moh,Triton,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Inhumans,2017,Marco Rodríguez,Kitang,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Inhumans,2017,Michael Buie,King Agon,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Inhumans,2017,Tanya Clarke,Queen Rynda,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Inhumans,2017,Lofton Shaw,Young Black Bolt,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Inhumans,2017,Nicola Peltz,New Inhuman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Inhumans,2017,Tom Wright,George Ashland,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Black Panther,2018,Chadwick Boseman,T'Challa / Black Panther,1,1,0,8,8.0,8,2,2,1,8,1,0,1,1,0,0,0,0,MCU,1,0
+Black Panther,2018,Michael B. Jordan,Erik Killmonger,1,1,1,2,2.0,2,3,3,0,16,0,0,0,0,0,0,0,0,MCU,2,0
+Black Panther,2018,Lupita Nyong'o,Nakia,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Black Panther,2018,Danai Gurira,Okoye,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Black Panther,2018,Martin Freeman,Everett K. Ross,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Black Panther,2018,Daniel Kaluuya,W'Kabi,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Black Panther,2018,Letitia Wright,Shuri,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Black Panther,2018,Winston Duke,M'Baku,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Black Panther,2018,Sterling K. Brown,N'Jobu,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Black Panther,2018,Angela Bassett,Ramonda,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Black Panther,2018,Forest Whitaker,Zuri,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Black Panther,2018,Andy Serkis,Ulysses Klaue,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Black Panther,2018,Florence Kasumba,Ayo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Black Panther,2018,John Kani,T'Chaka,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Black Panther,2018,David S. Lee,Limbani,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Avengers: Infinity War,2018,Robert Downey Jr.,Tony Stark / Iron Man,7,7,7,1,1.4285714285714286,3,10,1,7,1,7,0,1,1,0,0,0,0,MCU,1,0
+Avengers: Infinity War,2018,Chris Evans,Steve Rogers / Captain America,7,5,6,1,2.142857142857143,1,13,2,9,1,5,0,1,1,0,0,0,0,MCU,2,0
+Avengers: Infinity War,2018,Chris Hemsworth,Thor,5,5,4,1,1.8,1,7,1,6,1,5,0,1,1,0,0,0,0,MCU,3,0
+Avengers: Infinity War,2018,Josh Brolin,Thanos,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Avengers: Infinity War,2018,Mark Ruffalo,Bruce Banner / Hulk,3,3,3,2,2.6666666666666665,2,6,1,9,1,3,0,1,1,0,0,0,0,MCU,5,1
+Avengers: Infinity War,2018,Scarlett Johansson,Natasha Romanoff / Black Widow,5,5,2,3,4.0,3,8,2,5,3,5,0,1,1,0,0,0,0,MCU,6,1
+Avengers: Infinity War,2018,Don Cheadle,James Rhodes / War Machine,4,4,2,3,5.25,6,8,2,3,3,3,0,1,1,0,0,0,0,MCU,7,1
+Avengers: Infinity War,2018,Benedict Cumberbatch,Doctor Strange,2,2,1,1,5.5,10,2,1,1,10,1,0,1,1,0,0,0,0,MCU,8,1
+Avengers: Infinity War,2018,Tom Holland,Peter Parker / Spider-Man,2,2,1,1,7.0,1,2,1,9,1,2,0,1,1,0,0,0,0,MCU,9,2
+Avengers: Infinity War,2018,Chadwick Boseman,T'Challa / Black Panther,1,1,0,8,8.0,8,2,2,1,8,1,0,1,1,0,0,0,0,MCU,10,2
+Avengers: Infinity War,2018,Zoe Saldaña,Gamora,2,2,2,2,2.0,2,4,1,2,2,2,0,1,1,0,0,0,0,MCU,11,2
+Avengers: Infinity War,2018,Karen Gillan,Nebula,2,2,0,8,8.0,8,4,1,2,8,2,0,1,1,0,0,0,0,MCU,12,2
+Avengers: Infinity War,2018,Tom Hiddleston,Loki,4,4,3,3,4.0,3,7,1,4,3,4,0,1,1,0,0,0,0,MCU,13,2
+Avengers: Infinity War,2018,Paul Bettany,Vision,6,6,0,9,11.0,9,10,2,2,9,2,0,1,1,0,0,0,0,MCU,14,2
+Avengers: Infinity War,2018,Elizabeth Olsen,Wanda Maximoff / Scarlet Witch,2,2,0,10,10.5,10,3,2,2,10,2,0,1,1,0,0,0,0,MCU,15,2
+Spider-Man: Into the Spider-Verse,2018,Shameik Moore,Miles Morales (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,1,0
+Spider-Man: Into the Spider-Verse,2018,Jake Johnson,Peter B. Parker (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,2,0
+Spider-Man: Into the Spider-Verse,2018,Hailee Steinfeld,Gwen Stacy (voice),0,0,0,16,16.0,16,0,0,3,2,0,1,1,0,1,0,0,0,Sony / Spider-Man,3,0
+Spider-Man: Into the Spider-Verse,2018,Mahershala Ali,Uncle Aaron (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,4,1
+Spider-Man: Into the Spider-Verse,2018,Brian Tyree Henry,Jefferson Davis (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,5,1
+Spider-Man: Into the Spider-Verse,2018,Lily Tomlin,Aunt May (voice),0,0,0,16,16.0,16,0,0,2,6,0,1,1,0,1,0,0,0,Sony / Spider-Man,6,1
+Spider-Man: Into the Spider-Verse,2018,Luna Lauren Vélez,Rio Morales (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,7,1
+Spider-Man: Into the Spider-Verse,2018,Zoë Kravitz,Mary Jane (voice),1,0,0,9,9.0,9,7,7,0,16,0,0,0,0,1,0,0,0,Sony / Spider-Man,8,1
+Spider-Man: Into the Spider-Verse,2018,John Mulaney,Spider-Ham (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,9,2
+Spider-Man: Into the Spider-Verse,2018,Kimiko Glenn,Peni Parker (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,10,2
+Spider-Man: Into the Spider-Verse,2018,Nicolas Cage,Spider-Man Noir (voice),2,1,2,1,1.0,1,11,6,0,16,0,0,0,0,1,0,0,0,Sony / Spider-Man,11,2
+Spider-Man: Into the Spider-Verse,2018,Kathryn Hahn,Doc Ock (voice),0,0,0,16,16.0,16,0,0,1,4,0,1,1,0,1,0,0,0,Sony / Spider-Man,12,2
+Spider-Man: Into the Spider-Verse,2018,Liev Schreiber,Wilson Fisk (voice),1,0,1,2,2.0,2,9,9,2,4,0,0,1,0,1,0,0,0,Sony / Spider-Man,13,2
+Spider-Man: Into the Spider-Verse,2018,Chris Pine,Peter Parker (voice),0,0,0,16,16.0,16,0,0,9,1,0,1,1,0,1,0,0,0,Sony / Spider-Man,14,2
+Spider-Man: Into the Spider-Verse,2018,Natalie Morales,Miss Calleros (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,15,2
+Venom,2018,Tom Hardy,Eddie Brock / Venom,0,0,0,16,16.0,16,0,0,1,5,0,1,1,0,0,0,0,0,Sony / Spider-Man,1,0
+Venom,2018,Michelle Williams,Anne Weying,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,2,0
+Venom,2018,Riz Ahmed,Carlton Drake / Riot,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,3,0
+Venom,2018,Scott Haze,Security Chief Roland Treece,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,4,1
+Venom,2018,Reid Scott,Dr. Dan Lewis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,5,1
+Venom,2018,Jenny Slate,Dr. Dora Skirth,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,6,1
+Venom,2018,Melora Walters,Homeless Woman Maria,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,7,1
+Venom,2018,Woody Harrelson,Cletus Kasady / Carnage,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,8,1
+Venom,2018,Peggy Lu,Mrs. Chen,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,9,2
+Venom,2018,Malcolm C. Murray,Lewis Donate,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,10,2
+Venom,2018,Sope Aluko,Dr. Collins,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,11,2
+Venom,2018,Wayne Péré,Dr. Emerson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,12,2
+Venom,2018,Michelle Lee,Malaysia EMT / Riot Host,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,13,2
+Venom,2018,Kurt Yue,Mission Control Translator,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,14,2
+Venom,2018,Chris O'Hara,Astronaut J. J. Jameson III,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,15,2
+Ant-Man and the Wasp,2018,Paul Rudd,Scott Lang / Ant-Man,2,2,1,1,6.0,11,3,2,2,1,2,0,1,1,0,0,0,0,MCU,1,0
+Ant-Man and the Wasp,2018,Evangeline Lilly,Hope Van Dyne / Wasp,1,1,1,3,3.0,3,3,3,1,3,1,0,1,1,0,0,0,0,MCU,2,0
+Ant-Man and the Wasp,2018,Michael Douglas,Dr. Hank Pym,1,1,1,2,2.0,2,3,3,1,2,1,0,1,1,0,0,0,0,MCU,3,0
+Ant-Man and the Wasp,2018,Hannah John-Kamen,Ava / Ghost,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Ant-Man and the Wasp,2018,Randall Park,Jimmy Woo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Ant-Man and the Wasp,2018,Michelle Pfeiffer,Janet Van Dyne / Wasp,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Ant-Man and the Wasp,2018,Laurence Fishburne,Dr. Bill Foster,1,0,0,6,6.0,6,11,11,0,16,0,0,0,0,0,0,0,0,MCU,7,1
+Ant-Man and the Wasp,2018,Michael Peña,Luis,1,1,0,9,9.0,9,3,3,1,9,1,0,1,1,0,0,0,0,MCU,8,1
+Ant-Man and the Wasp,2018,Walton Goggins,Sonny Burch,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Ant-Man and the Wasp,2018,Bobby Cannavale,Paxton,1,1,0,5,5.0,5,3,3,1,5,1,0,1,1,0,0,0,0,MCU,10,2
+Ant-Man and the Wasp,2018,Judy Greer,Maggie,1,1,0,7,7.0,7,3,3,0,16,0,0,0,0,0,0,0,0,MCU,11,2
+Ant-Man and the Wasp,2018,T.I.,Dave,1,1,0,11,11.0,11,3,3,1,11,1,0,1,1,0,0,0,0,MCU,12,2
+Ant-Man and the Wasp,2018,David Dastmalchian,Kurt,1,1,0,10,10.0,10,3,3,1,10,1,0,1,1,0,0,0,0,MCU,13,2
+Ant-Man and the Wasp,2018,Abby Ryder Fortson,Cassie,1,1,0,8,8.0,8,3,3,0,16,0,0,0,0,0,0,0,0,MCU,14,2
+Ant-Man and the Wasp,2018,Divian Ladwa,Uzman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Deadpool 2,2018,Ryan Reynolds,Wade Wilson / Deadpool / Juggernaut (voice),2,0,1,1,5.0,1,9,2,3,1,2,0,1,1,1,0,0,0,Fox / X-Men,1,0
+Deadpool 2,2018,Josh Brolin,Cable,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,2,0
+Deadpool 2,2018,Morena Baccarin,Vanessa,1,0,1,2,2.0,2,2,2,2,2,1,0,1,1,0,0,0,0,Fox / X-Men,3,0
+Deadpool 2,2018,Julian Dennison,Firefist,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,4,1
+Deadpool 2,2018,Zazie Beetz,Domino,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,5,1
+Deadpool 2,2018,T.J. Miller,Weasel,1,0,0,4,4.0,4,2,2,2,4,1,0,1,1,0,0,0,0,Fox / X-Men,6,1
+Deadpool 2,2018,Leslie Uggams,Blind Al,1,0,0,6,6.0,6,2,2,1,6,1,0,1,1,0,0,0,0,Fox / X-Men,7,1
+Deadpool 2,2018,Karan Soni,Dopinder,1,0,0,9,9.0,9,2,2,1,9,1,0,1,1,0,0,0,0,Fox / X-Men,8,1
+Deadpool 2,2018,Brianna Hildebrand,Negasonic Teenage Warhead,1,0,0,7,7.0,7,2,2,1,7,1,0,1,1,0,0,0,0,Fox / X-Men,9,2
+Deadpool 2,2018,Jack Kesy,Black Tom,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,10,2
+Deadpool 2,2018,Eddie Marsan,Headmaster,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,11,2
+Deadpool 2,2018,Shioli Kutsuna,Yukio,0,0,0,16,16.0,16,0,0,1,4,0,1,1,0,0,0,0,0,Fox / X-Men,12,2
+Deadpool 2,2018,Stefan Kapičić,Colossus (voice),1,0,0,8,8.0,8,2,2,2,8,1,0,1,1,1,0,0,0,Fox / X-Men,13,2
+Deadpool 2,2018,Randal Reeder,Buck,1,0,0,10,10.0,10,2,2,1,10,1,0,1,1,0,0,0,0,Fox / X-Men,14,2
+Deadpool 2,2018,Nikolai Witschl,Head Orderly Frye,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,15,2
+Avengers: Endgame,2019,Robert Downey Jr.,Tony Stark / Iron Man,8,8,8,1,1.375,1,11,1,8,1,8,0,1,1,0,0,0,0,MCU,1,0
+Avengers: Endgame,2019,Chris Evans,Steve Rogers / Captain America,8,6,7,1,2.125,2,14,1,10,1,6,0,1,1,0,0,0,0,MCU,2,0
+Avengers: Endgame,2019,Mark Ruffalo,Bruce Banner / Hulk,4,4,3,2,3.25,5,7,1,10,1,4,0,1,1,0,0,0,0,MCU,3,0
+Avengers: Endgame,2019,Chris Hemsworth,Thor,6,6,5,1,2.0,3,8,1,7,1,6,0,1,1,0,0,0,0,MCU,4,1
+Avengers: Endgame,2019,Scarlett Johansson,Natasha Romanoff / Black Widow,6,6,2,3,4.333333333333333,6,9,1,6,3,6,0,1,1,0,0,0,0,MCU,5,1
+Avengers: Endgame,2019,Jeremy Renner,Clint Barton / Hawkeye,3,3,0,6,6.333333333333333,7,7,3,3,6,3,0,1,1,0,0,0,0,MCU,6,1
+Avengers: Endgame,2019,Josh Brolin,Thanos,2,1,1,2,3.0,2,1,1,1,4,1,0,1,1,0,0,0,0,MCU,7,1
+Avengers: Endgame,2019,Don Cheadle,James Rhodes / War Machine,5,5,2,3,5.6,7,9,1,4,3,4,0,1,1,0,0,0,0,MCU,8,1
+Avengers: Endgame,2019,Paul Rudd,Scott Lang / Ant-Man,3,3,2,1,4.333333333333333,1,4,1,3,1,3,0,1,1,0,0,0,0,MCU,9,2
+Avengers: Endgame,2019,Benedict Cumberbatch,Doctor Strange,3,3,1,1,6.333333333333333,8,3,1,2,8,2,0,1,1,0,0,0,0,MCU,10,2
+Avengers: Endgame,2019,Chadwick Boseman,T'Challa / Black Panther,3,3,1,1,6.333333333333333,10,3,1,3,1,3,0,1,1,0,0,0,0,MCU,11,2
+Avengers: Endgame,2019,Brie Larson,Carol Danvers / Captain Marvel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Avengers: Endgame,2019,Tom Holland,Peter Parker / Spider-Man,3,3,1,1,7.666666666666667,9,3,1,11,1,3,0,1,1,0,0,0,0,MCU,13,2
+Avengers: Endgame,2019,Karen Gillan,Nebula,3,3,0,8,9.333333333333334,12,5,1,3,8,3,0,1,1,0,0,0,0,MCU,14,2
+Avengers: Endgame,2019,Zoe Saldaña,Gamora,3,3,2,2,5.0,11,5,1,3,2,3,0,1,1,0,0,0,0,MCU,15,2
+Captain Marvel,2019,Brie Larson,Carol Danvers / Vers / Captain Marvel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,1,0
+Captain Marvel,2019,Samuel L. Jackson,Nick Fury,5,5,1,2,7.4,8,9,4,6,1,5,0,1,1,0,0,0,0,MCU,2,0
+Captain Marvel,2019,Ben Mendelsohn,Talos / Keller,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Captain Marvel,2019,Jude Law,Yon-Rogg,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Captain Marvel,2019,Annette Bening,Supreme Intelligence / Dr. Wendy Lawson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Captain Marvel,2019,Djimon Hounsou,Korath,1,1,0,9,9.0,9,5,5,1,9,1,0,1,1,0,0,0,0,MCU,6,1
+Captain Marvel,2019,Lee Pace,Ronan,1,1,0,6,6.0,6,5,5,1,6,1,0,1,1,0,0,0,0,MCU,7,1
+Captain Marvel,2019,Lashana Lynch,Maria Rambeau,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Captain Marvel,2019,Gemma Chan,Minn-Erva,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Captain Marvel,2019,Clark Gregg,Agent Coulson,4,4,0,7,7.75,8,11,7,0,16,0,0,0,0,0,0,0,0,MCU,10,2
+Captain Marvel,2019,Rune Temte,Bron-Charr,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Captain Marvel,2019,Algenis Perez Soto,Att-Lass,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Captain Marvel,2019,Mckenna Grace,Young Carol (13 Years Old),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Captain Marvel,2019,Akira Akbar,Monica Rambeau (11 Years Old),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Captain Marvel,2019,Matthew Maher,Norex,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Dark Phoenix,2019,Sophie Turner,Jean Grey / Dark Phoenix,1,0,0,9,9.0,9,3,3,3,5,1,0,1,1,0,0,0,0,Fox / X-Men,1,0
+Dark Phoenix,2019,James McAvoy,Charles Xavier / Professor X,3,0,3,1,1.3333333333333333,1,8,3,4,1,3,0,1,1,0,0,0,0,Fox / X-Men,2,0
+Dark Phoenix,2019,Nicholas Hoult,Hank McCoy / Beast,3,0,0,4,6.333333333333333,4,8,3,4,4,3,0,1,1,0,0,0,0,Fox / X-Men,3,0
+Dark Phoenix,2019,Tye Sheridan,Scott Summers / Cyclops,1,0,0,10,10.0,10,3,3,3,8,1,0,1,1,0,0,0,0,Fox / X-Men,4,1
+Dark Phoenix,2019,Michael Fassbender,Erik Lensherr / Magneto,3,0,3,2,2.3333333333333335,2,8,3,3,2,1,0,1,1,0,0,0,0,Fox / X-Men,5,1
+Dark Phoenix,2019,Alexandra Shipp,Ororo Munroe / Storm,1,0,0,14,14.0,14,3,3,4,2,1,0,1,1,0,0,0,0,Fox / X-Men,6,1
+Dark Phoenix,2019,Evan Peters,Peter Maximoff / Quicksilver,2,0,0,7,10.5,7,5,3,3,7,2,0,1,1,0,0,0,0,Fox / X-Men,7,1
+Dark Phoenix,2019,Jessica Chastain,Vuk,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,8,1
+Dark Phoenix,2019,Kodi Smit-McPhee,Kurt Wagner / Nightcrawler,1,0,0,12,12.0,12,3,3,1,12,1,0,1,1,0,0,0,0,Fox / X-Men,9,2
+Dark Phoenix,2019,Jennifer Lawrence,Raven Darkholme / Mystique,3,0,2,3,4.0,3,8,3,4,3,3,0,1,1,0,0,0,0,Fox / X-Men,10,2
+Dark Phoenix,2019,Scott Shepherd,Dr. John Grey,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,11,2
+Dark Phoenix,2019,Ato Essandoh,Jones,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,12,2
+Dark Phoenix,2019,Brian d'Arcy James,President of the United States,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,13,2
+Dark Phoenix,2019,Halston Sage,Alison Blaire / Dazzler,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,14,2
+Dark Phoenix,2019,Lamar Johnson,Ben Hammil / Match,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,15,2
+Spider-Man: Far From Home,2019,Tom Holland,Peter Parker / Spider-Man,3,3,1,1,7.666666666666667,9,3,1,11,1,3,0,1,1,0,0,0,0,MCU,1,0
+Spider-Man: Far From Home,2019,Jake Gyllenhaal,Quentin Beck / Mysterio,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Spider-Man: Far From Home,2019,Samuel L. Jackson,Nick Fury,5,5,1,2,7.4,8,9,4,6,1,5,0,1,1,0,0,0,0,MCU,3,0
+Spider-Man: Far From Home,2019,Marisa Tomei,May Parker,1,1,0,4,4.0,4,2,2,4,4,1,0,1,1,0,0,0,0,MCU,4,1
+Spider-Man: Far From Home,2019,Jon Favreau,Happy Hogan,5,4,0,5,8.4,5,16,2,3,5,3,0,1,1,0,0,0,0,MCU,5,1
+Spider-Man: Far From Home,2019,Zendaya,MJ,1,1,0,7,7.0,7,2,2,0,16,0,0,0,0,0,0,0,0,MCU,6,1
+Spider-Man: Far From Home,2019,Jacob Batalon,Ned Leeds,1,1,0,9,9.0,9,2,2,0,16,0,0,0,0,0,0,0,0,MCU,7,1
+Spider-Man: Far From Home,2019,Tony Revolori,Flash Thompson,1,1,0,11,11.0,11,2,2,2,8,0,0,1,0,0,0,0,0,MCU,8,1
+Spider-Man: Far From Home,2019,Angourie Rice,Betty Brant,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Spider-Man: Far From Home,2019,Remy Hii,Brad Davis,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Spider-Man: Far From Home,2019,Martin Starr,Mr. Harrington,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Spider-Man: Far From Home,2019,JB Smoove,Mr. Dell,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Spider-Man: Far From Home,2019,Jorge Lendeborg Jr.,Jason Ionello,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Spider-Man: Far From Home,2019,Cobie Smulders,Maria Hill,3,3,0,7,9.666666666666666,13,7,4,2,7,2,0,1,1,0,0,0,0,MCU,14,2
+Spider-Man: Far From Home,2019,Numan Acar,Dimitri,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+The New Mutants,2020,Blu Hunt,Dani Moonstar,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,1,0
+The New Mutants,2020,Charlie Heaton,Samuel Guthrie,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,2,0
+The New Mutants,2020,Maisie Williams,Rahne Sinclair,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,3,0
+The New Mutants,2020,Henry Zaga,Roberto da Costa,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,4,1
+The New Mutants,2020,Anya Taylor-Joy,Illyana Rasputin,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,5,1
+The New Mutants,2020,Alice Braga,Dr. Reyes,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,6,1
+The New Mutants,2020,Adam Beach,Dani's Father,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,7,1
+The New Mutants,2020,Happy Anderson,Reverend Craig,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,8,1
+The New Mutants,2020,Dustin Ceithamer,Smiling Man,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,9,2
+The New Mutants,2020,Marilyn Manson,Smiling Man (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Fox / X-Men,10,2
+The New Mutants,2020,Thomas Kee,Sam's Father,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,11,2
+The New Mutants,2020,Colbi Gannett,Young Illyana,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,12,2
+The New Mutants,2020,Jacinto Vega SpiritWolf,Frozen Cheyenne,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Fox / X-Men,13,2
+The New Mutants,2020,Mickey Gilmore,Coal Miner (uncredited),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,1,0,0,Fox / X-Men,14,2
+The New Mutants,2020,Jeffrey Corazzini,Coal Miner (uncredited),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,1,0,0,Fox / X-Men,15,2
+WandaVision,2021,Elizabeth Olsen,Wanda Maximoff / Scarlet Witch,3,3,0,10,12.0,15,6,3,3,10,3,0,1,1,0,0,0,0,MCU,1,0
+WandaVision,2021,Paul Bettany,Vision / The Vision,7,7,0,9,11.428571428571429,14,13,3,3,9,3,0,1,1,0,0,0,0,MCU,2,0
+WandaVision,2021,Kathryn Hahn,Agnes / Agatha Harkness,1,0,0,12,12.0,12,3,3,0,16,0,0,0,0,0,0,0,0,MCU,3,0
+WandaVision,2021,Teyonah Parris,Monica Rambeau / Geraldine,0,0,0,16,16.0,16,0,0,1,14,0,1,1,0,0,0,0,0,MCU,4,1
+WandaVision,2021,Randall Park,Jimmy Woo,1,1,0,5,5.0,5,3,3,1,5,1,0,1,1,0,0,0,0,MCU,5,1
+WandaVision,2021,Kat Dennings,Darcy Lewis / The Escape Artist,2,2,0,6,9.5,13,10,8,2,6,2,0,1,1,0,0,0,0,MCU,6,1
+Hawkeye,2021,Jeremy Renner,Clint Barton / Hawkeye,4,4,0,6,6.25,6,9,2,4,6,4,0,1,1,0,0,0,0,MCU,1,0
+Hawkeye,2021,Hailee Steinfeld,Kate Bishop,1,0,1,3,3.0,3,3,3,0,16,0,0,0,0,0,0,0,0,MCU,2,0
+Hawkeye,2021,Tony Dalton,Jack Duquesne,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Hawkeye,2021,Alaqua Cox,Maya Lopez,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Hawkeye,2021,Fra Fee,Kazimierz 'Kazi' Kazimierczak,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Hawkeye,2021,Aleks Paunovic,Ivan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Hawkeye,2021,Piotr Adamczyk,Tomas,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Hawkeye,2021,Vera Farmiga,Eleanor Bishop,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+The Falcon and the Winter Soldier,2021,Anthony Mackie,Sam Wilson / Falcon,4,4,0,5,7.75,5,7,5,4,5,4,0,1,1,0,0,0,0,MCU,1,0
+The Falcon and the Winter Soldier,2021,Sebastian Stan,Bucky Barnes / Winter Soldier,3,3,1,3,4.0,4,10,5,2,4,2,0,1,1,0,0,0,0,MCU,2,0
+The Falcon and the Winter Soldier,2021,Wyatt Russell,John Walker,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+The Falcon and the Winter Soldier,2021,Erin Kellyman,Karli Morgenthau,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+The Falcon and the Winter Soldier,2021,Daniel Brühl,Baron Zemo,1,1,0,14,14.0,14,5,5,0,16,0,0,0,0,0,0,0,0,MCU,5,1
+The Falcon and the Winter Soldier,2021,Emily VanCamp,Sharon Carter,2,2,0,10,11.0,12,7,5,1,12,1,0,1,1,0,0,0,0,MCU,6,1
+The Falcon and the Winter Soldier,2021,Danny Ramirez,Joaquin Torres,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+The Falcon and the Winter Soldier,2021,Adepero Oduye,Sarah Wilson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Black Widow,2021,Scarlett Johansson,Natasha Romanoff / Black Widow,7,7,2,3,4.428571428571429,5,11,2,7,3,7,0,1,1,0,0,0,0,MCU,1,0
+Black Widow,2021,Florence Pugh,Yelena Belova,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Black Widow,2021,Rachel Weisz,Melina,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Black Widow,2021,David Harbour,Alexei,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Black Widow,2021,Ray Winstone,Dreykov,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Black Widow,2021,Ever Anderson,Young Natasha,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Black Widow,2021,Violet McGraw,Young Yelena,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Black Widow,2021,O-T Fagbenle,Mason,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Black Widow,2021,William Hurt,Secretary Ross,1,1,0,4,4.0,4,13,13,0,16,0,0,0,0,0,0,0,0,MCU,9,2
+Black Widow,2021,Olga Kurylenko,Antonia / Taskmaster,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Black Widow,2021,Ryan Kiera Armstrong,Young Antonia,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Black Widow,2021,Liani Samuel,Lerato,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Black Widow,2021,Michelle Lee,Oksana,1,0,0,13,13.0,13,3,3,0,16,0,0,0,0,0,0,0,0,MCU,13,2
+Black Widow,2021,Lewis Young,Scientist Morocco 1,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Black Widow,2021,C.C. Smiff,Scientist Morocco 2,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Eternals,2021,Gemma Chan,Sersi,1,1,0,9,9.0,9,2,2,0,16,0,0,0,0,0,0,0,0,MCU,1,0
+Eternals,2021,Richard Madden,Ikaris,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Eternals,2021,Angelina Jolie,Thena,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Eternals,2021,Salma Hayek Pinault,Ajak,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Eternals,2021,Kumail Nanjiani,Kingo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Eternals,2021,Lia McHugh,Sprite,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Eternals,2021,Brian Tyree Henry,Phastos,1,0,0,5,5.0,5,3,3,0,16,0,0,0,0,0,0,0,0,MCU,7,1
+Eternals,2021,Lauren Ridloff,Makkari,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Eternals,2021,Barry Keoghan,Druig,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Eternals,2021,Don Lee,Gilgamesh,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Eternals,2021,Bill Skarsgård,Kro (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,11,2
+Eternals,2021,Kit Harington,Dane Whitman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Eternals,2021,Harish Patel,Karun,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Eternals,2021,Haaz Sleiman,Ben,0,0,0,16,16.0,16,0,0,1,13,0,1,1,0,0,0,0,0,MCU,14,2
+Eternals,2021,Esai Daniel Cross,Jack,0,0,0,16,16.0,16,0,0,2,13,0,1,1,0,0,0,0,0,MCU,15,2
+Shang-Chi and the Legend of the Ten Rings,2021,Simu Liu,Shaun / Shang-Chi,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,1,0
+Shang-Chi and the Legend of the Ten Rings,2021,Tony Leung Chiu-wai,Xu Wenwu,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Shang-Chi and the Legend of the Ten Rings,2021,Awkwafina,Katy,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Shang-Chi and the Legend of the Ten Rings,2021,Ben Kingsley,Trevor Slattery,1,1,0,7,7.0,7,8,8,1,7,1,0,1,1,0,0,0,0,MCU,4,1
+Shang-Chi and the Legend of the Ten Rings,2021,Zhang Meng'er,Xialing,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Shang-Chi and the Legend of the Ten Rings,2021,Fala Chen,Li,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Shang-Chi and the Legend of the Ten Rings,2021,Michelle Yeoh,Ying Nan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Shang-Chi and the Legend of the Ten Rings,2021,Yuen Wah,Master Guang Bo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Shang-Chi and the Legend of the Ten Rings,2021,Florian Munteanu,Razor Fist,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Shang-Chi and the Legend of the Ten Rings,2021,Andy Le,Death Dealer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Shang-Chi and the Legend of the Ten Rings,2021,Paul He,Chancellor Hui,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Shang-Chi and the Legend of the Ten Rings,2021,Jayden Tianyi Zhang,Young Shang-Chi,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Shang-Chi and the Legend of the Ten Rings,2021,Elodie Fong,Young Xialing,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Shang-Chi and the Legend of the Ten Rings,2021,Arnold Sun,Teen Shang-Chi,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Shang-Chi and the Legend of the Ten Rings,2021,Stephanie Hsu,Soo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Venom: Let There Be Carnage,2021,Tom Hardy,Eddie Brock / Venom,1,0,1,1,1.0,1,3,3,2,1,1,0,1,1,0,0,0,0,Sony / Spider-Man,1,0
+Venom: Let There Be Carnage,2021,Woody Harrelson,Cletus Kasady / Carnage,1,0,0,8,8.0,8,3,3,1,8,1,0,1,1,0,0,0,0,Sony / Spider-Man,2,0
+Venom: Let There Be Carnage,2021,Michelle Williams,Anne Weying,1,0,1,2,2.0,2,3,3,1,2,1,0,1,1,0,0,0,0,Sony / Spider-Man,3,0
+Venom: Let There Be Carnage,2021,Naomie Harris,Frances Louise Barrison / Shriek,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,4,1
+Venom: Let There Be Carnage,2021,Reid Scott,Dr. Dan Lewis,1,0,0,5,5.0,5,3,3,1,5,1,0,1,1,0,0,0,0,Sony / Spider-Man,5,1
+Venom: Let There Be Carnage,2021,Stephen Graham,Detective Mulligan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,6,1
+Venom: Let There Be Carnage,2021,Peggy Lu,Mrs. Chen,1,0,0,9,9.0,9,3,3,1,9,1,0,1,1,0,0,0,0,Sony / Spider-Man,7,1
+Venom: Let There Be Carnage,2021,Sian Webber,Dr. Pazzo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,8,1
+Venom: Let There Be Carnage,2021,Michelle Greenidge,Mugging Victim,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,9,2
+Venom: Let There Be Carnage,2021,Rob Bowen,Beaten Mugger,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,10,2
+Venom: Let There Be Carnage,2021,Laurence Spellman,Patient,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,11,2
+Venom: Let There Be Carnage,2021,Little Simz,Little Simz,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,12,2
+Venom: Let There Be Carnage,2021,Jack Bandeira,Young Cletus,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,13,2
+Venom: Let There Be Carnage,2021,Olumide Olorunfemi,Young Shirek,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,14,2
+Venom: Let There Be Carnage,2021,Scroobius Pip,Siegfried,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,15,2
+Spider-Man: No Way Home,2021,Tom Holland,Peter Parker / Spider-Man,5,5,2,1,7.4,1,5,2,13,1,5,0,1,1,0,0,0,0,MCU,1,0
+Spider-Man: No Way Home,2021,Zendaya,MJ,2,2,0,6,6.5,6,4,2,0,16,0,0,0,0,0,0,0,0,MCU,2,0
+Spider-Man: No Way Home,2021,Benedict Cumberbatch,Doctor Strange,4,4,1,1,7.25,10,5,2,3,8,3,0,1,1,0,0,0,0,MCU,3,0
+Spider-Man: No Way Home,2021,Jacob Batalon,Ned Leeds,2,2,0,7,8.0,7,4,2,1,7,1,0,1,1,0,0,0,0,MCU,4,1
+Spider-Man: No Way Home,2021,Jon Favreau,Happy Hogan,6,5,0,5,7.833333333333333,5,18,2,4,5,4,0,1,1,0,0,0,0,MCU,5,1
+Spider-Man: No Way Home,2021,Jamie Foxx,Max Dillon / Electro,1,0,1,3,3.0,3,7,7,1,3,1,0,1,1,0,0,0,0,MCU,6,1
+Spider-Man: No Way Home,2021,Willem Dafoe,Norman Osborn / Green Goblin,2,0,1,2,7.5,13,19,17,3,2,2,0,1,1,0,0,0,0,MCU,7,1
+Spider-Man: No Way Home,2021,Alfred Molina,Dr. Otto Octavius / Doc Ock,1,0,0,4,4.0,4,17,17,2,4,1,0,1,1,0,0,0,0,MCU,8,1
+Spider-Man: No Way Home,2021,Benedict Wong,Wong,1,1,0,4,4.0,4,5,5,2,2,1,0,1,1,0,0,0,0,MCU,9,2
+Spider-Man: No Way Home,2021,Tony Revolori,Flash Thompson,2,2,0,8,9.5,8,4,2,3,8,1,0,1,1,0,0,0,0,MCU,10,2
+Spider-Man: No Way Home,2021,Marisa Tomei,May Parker,2,2,0,4,4.0,4,4,2,5,4,2,0,1,1,0,0,0,0,MCU,11,2
+Spider-Man: No Way Home,2021,Andrew Garfield,Peter Parker / Spider-Man,2,0,2,1,1.0,1,9,7,13,1,2,0,1,1,0,0,0,0,MCU,12,2
+Spider-Man: No Way Home,2021,Tobey Maguire,Peter Parker / Spider-Man,3,0,3,1,1.0,1,19,14,13,1,3,0,1,1,0,0,0,0,MCU,13,2
+Spider-Man: No Way Home,2021,Angourie Rice,Betty Brant,1,1,0,9,9.0,9,2,2,1,9,1,0,1,1,0,0,0,0,MCU,14,2
+Spider-Man: No Way Home,2021,Arian Moayed,Agent Cleary,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Doctor Strange in the Multiverse of Madness,2022,Benedict Cumberbatch,Doctor Stephen Strange,5,5,2,1,6.4,3,6,1,2,1,1,0,1,1,0,0,0,0,MCU,1,0
+Doctor Strange in the Multiverse of Madness,2022,Xochitl Gomez,America Chavez,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Doctor Strange in the Multiverse of Madness,2022,Elizabeth Olsen,Wanda Maximoff / The Scarlet Witch,4,4,1,1,9.25,1,7,1,4,1,4,0,1,1,0,0,0,0,MCU,3,0
+Doctor Strange in the Multiverse of Madness,2022,Chiwetel Ejiofor,Baron Mordo,1,1,1,2,2.0,2,6,6,0,16,0,0,0,0,0,0,0,0,MCU,4,1
+Doctor Strange in the Multiverse of Madness,2022,Benedict Wong,Wong,2,2,0,4,6.5,9,6,1,3,2,2,0,1,1,0,0,0,0,MCU,5,1
+Doctor Strange in the Multiverse of Madness,2022,Rachel McAdams,Dr. Christine Palmer,1,1,1,3,3.0,3,6,6,1,3,1,0,1,1,0,0,0,0,MCU,6,1
+Doctor Strange in the Multiverse of Madness,2022,Jett Klyne,Tommy Maximoff,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Doctor Strange in the Multiverse of Madness,2022,Julian Hilliard,Billy Maximoff,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Doctor Strange in the Multiverse of Madness,2022,Michael Stuhlbarg,Dr. Nic West,1,1,0,7,7.0,7,6,6,0,16,0,0,0,0,0,0,0,0,MCU,9,2
+Doctor Strange in the Multiverse of Madness,2022,Hayley Atwell,Captain Carter,4,4,1,2,10.25,13,11,7,0,16,0,0,0,0,0,0,0,0,MCU,10,2
+Doctor Strange in the Multiverse of Madness,2022,Anson Mount,Black Bolt,1,1,1,1,1.0,1,5,5,1,1,1,0,1,1,0,0,0,0,MCU,11,2
+Doctor Strange in the Multiverse of Madness,2022,Lashana Lynch,Captain Marvel,1,1,0,8,8.0,8,3,3,2,1,0,0,1,0,0,0,0,0,MCU,12,2
+Doctor Strange in the Multiverse of Madness,2022,John Krasinski,Reed Richards,0,0,0,16,16.0,16,0,0,4,1,0,1,1,0,0,0,0,0,MCU,13,2
+Doctor Strange in the Multiverse of Madness,2022,Patrick Stewart,Professor Charles Xavier,3,0,1,3,3.6666666666666665,3,16,5,5,1,1,0,1,1,0,0,0,0,MCU,14,2
+Doctor Strange in the Multiverse of Madness,2022,Charlize Theron,Clea,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Black Panther: Wakanda Forever,2022,Letitia Wright,Shuri,1,1,0,7,7.0,7,4,4,1,7,1,0,1,1,0,0,0,0,MCU,1,0
+Black Panther: Wakanda Forever,2022,Tenoch Huerta Mejía,Namor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Black Panther: Wakanda Forever,2022,Lupita Nyong'o,Nakia,1,1,1,3,3.0,3,4,4,1,3,1,0,1,1,0,0,0,0,MCU,3,0
+Black Panther: Wakanda Forever,2022,Danai Gurira,Okoye,1,1,0,4,4.0,4,4,4,1,4,1,0,1,1,0,0,0,0,MCU,4,1
+Black Panther: Wakanda Forever,2022,Winston Duke,M'Baku,1,1,0,8,8.0,8,4,4,1,8,1,0,1,1,0,0,0,0,MCU,5,1
+Black Panther: Wakanda Forever,2022,Angela Bassett,Ramonda,1,1,0,10,10.0,10,4,4,1,10,1,0,1,1,0,0,0,0,MCU,6,1
+Black Panther: Wakanda Forever,2022,Martin Freeman,Everett Ross,1,1,0,5,5.0,5,4,4,0,16,0,0,0,0,0,0,0,0,MCU,7,1
+Black Panther: Wakanda Forever,2022,Julia Louis-Dreyfus,Valentina Allegra de Fontaine,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Black Panther: Wakanda Forever,2022,Dominique Thorne,Riri,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Black Panther: Wakanda Forever,2022,Florence Kasumba,Ayo,1,1,0,13,13.0,13,4,4,1,13,1,0,1,1,0,0,0,0,MCU,10,2
+Black Panther: Wakanda Forever,2022,Michaela Coel,Aneka,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Black Panther: Wakanda Forever,2022,Alex Livinalli,Attuma,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Black Panther: Wakanda Forever,2022,Mabel Cadena,Namora,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Black Panther: Wakanda Forever,2022,Michael B. Jordan,Killmonger,2,2,2,2,2.0,2,7,4,0,16,0,0,0,0,0,0,0,0,MCU,14,2
+Black Panther: Wakanda Forever,2022,Isaach de Bankolé,River Tribe Elder,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Morbius,2022,Jared Leto,Dr. Michael Morbius,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,1,0
+Morbius,2022,Matt Smith,Milo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,2,0
+Morbius,2022,Adria Arjona,Martine Bancroft,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,3,0
+Morbius,2022,Jared Harris,Dr. Emil Nicholas,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,4,1
+Morbius,2022,Tyrese Gibson,Agent Simon Stroud,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,5,1
+Morbius,2022,Al Madrigal,Agent Rodriguez,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,6,1
+Morbius,2022,Michael Keaton,Adrian Toomes,1,1,1,2,2.0,2,5,5,1,2,1,0,1,1,0,0,0,0,Sony / Spider-Man,7,1
+Morbius,2022,Zaris-Angel Hator,Anna,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,8,1
+Morbius,2022,Joe Ferrara,Bush Pilot,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,9,2
+Morbius,2022,Charlie Shotwell,Young Michael,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,10,2
+Morbius,2022,Joseph Esson,Young Milo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,11,2
+Morbius,2022,Jason Rennie,Ringleader Bully,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,12,2
+Morbius,2022,Aryan Moaven,Gang Member,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,13,2
+Morbius,2022,Christopher Louridas,Gang Member,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,14,2
+Morbius,2022,Oliver Bodur,Gang Member,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,15,2
+Thor: Love and Thunder,2022,Chris Hemsworth,Thor,7,7,5,1,2.2857142857142856,4,11,3,8,1,7,0,1,1,0,0,0,0,MCU,1,0
+Thor: Love and Thunder,2022,Natalie Portman,Jane Foster / The Mighty Thor,2,2,2,2,2.0,2,11,9,2,2,2,0,1,1,0,0,0,0,MCU,2,0
+Thor: Love and Thunder,2022,Christian Bale,Gorr,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Thor: Love and Thunder,2022,Tessa Thompson,King Valkyrie,1,1,0,7,7.0,7,5,5,0,16,0,0,0,0,0,0,0,0,MCU,4,1
+Thor: Love and Thunder,2022,Taika Waititi,Korg / Old Kronan God (voice),1,1,0,11,11.0,11,5,5,1,11,1,0,1,1,1,0,0,0,MCU,5,1
+Thor: Love and Thunder,2022,Russell Crowe,Zeus,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Thor: Love and Thunder,2022,Jaimie Alexander,Sif,2,2,0,6,9.5,6,11,9,2,6,2,0,1,1,0,0,0,0,MCU,7,1
+Thor: Love and Thunder,2022,Idris Elba,Heimdall,4,4,0,5,7.5,5,11,5,3,5,3,0,1,1,0,0,0,0,MCU,8,1
+Thor: Love and Thunder,2022,Chris Pratt,Peter Quill / Star-Lord,2,2,2,1,1.0,1,8,5,2,1,2,0,1,1,0,0,0,0,MCU,9,2
+Thor: Love and Thunder,2022,Dave Bautista,Drax,2,2,2,3,3.0,3,8,5,2,3,2,0,1,1,0,0,0,0,MCU,10,2
+Thor: Love and Thunder,2022,Karen Gillan,Nebula,4,4,0,8,10.5,14,8,3,4,8,4,0,1,1,0,0,0,0,MCU,11,2
+Thor: Love and Thunder,2022,Pom Klementieff,Mantis,1,1,0,9,9.0,9,5,5,1,9,1,0,1,1,0,0,0,0,MCU,12,2
+Thor: Love and Thunder,2022,Sean Gunn,Kraglin / On-Set Rocket,2,2,0,13,13.5,13,8,5,2,13,2,0,1,1,0,0,0,0,MCU,13,2
+Thor: Love and Thunder,2022,Vin Diesel,Groot (voice),2,2,0,4,4.0,4,8,5,1,4,1,0,1,1,1,0,0,0,MCU,14,2
+Thor: Love and Thunder,2022,Bradley Cooper,Rocket (voice),2,2,0,5,5.0,5,8,5,2,5,2,0,1,1,1,0,0,0,MCU,15,2
+The Guardians of the Galaxy Holiday Special,2022,Chris Pratt,Peter Quill / Star-Lord,2,2,2,1,1.0,1,8,5,2,1,2,0,1,1,0,0,0,0,MCU,1,0
+The Guardians of the Galaxy Holiday Special,2022,Dave Bautista,Drax,2,2,2,3,3.0,3,8,5,2,3,2,0,1,1,0,0,0,0,MCU,2,0
+The Guardians of the Galaxy Holiday Special,2022,Karen Gillan,Nebula,4,4,0,8,10.5,14,8,3,4,8,4,0,1,1,0,0,0,0,MCU,3,0
+The Guardians of the Galaxy Holiday Special,2022,Pom Klementieff,Mantis,1,1,0,9,9.0,9,5,5,1,9,1,0,1,1,0,0,0,0,MCU,4,1
+The Guardians of the Galaxy Holiday Special,2022,Vin Diesel,Groot (voice),2,2,0,4,4.0,4,8,5,1,4,1,0,1,1,1,0,0,0,MCU,5,1
+The Guardians of the Galaxy Holiday Special,2022,Bradley Cooper,Rocket (voice),2,2,0,5,5.0,5,8,5,2,5,2,0,1,1,1,0,0,0,MCU,6,1
+The Guardians of the Galaxy Holiday Special,2022,Sean Gunn,Kraglin,2,2,0,13,13.5,13,8,5,2,13,2,0,1,1,0,0,0,0,MCU,7,1
+The Guardians of the Galaxy Holiday Special,2022,Rhett Miller,Bzermikitokolok,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+The Guardians of the Galaxy Holiday Special,2022,Murry Hammond,Alien Band (Kortolbookalia),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+The Guardians of the Galaxy Holiday Special,2022,Ken Bethea,Alien Band (Sliyavastojoo),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+The Guardians of the Galaxy Holiday Special,2022,Philip Peeples,Alien Band (Phloko),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+The Guardians of the Galaxy Holiday Special,2022,Michael Rooker,Yondu,2,2,0,7,7.0,7,8,5,1,7,1,0,1,1,0,0,0,0,MCU,12,2
+The Guardians of the Galaxy Holiday Special,2022,Kevin Bacon,Kevin Bacon,1,0,0,5,5.0,5,11,11,0,16,0,0,0,0,0,0,0,0,MCU,13,2
+The Guardians of the Galaxy Holiday Special,2022,Luke Klein,Young Peter Quill,0,0,0,16,16.0,16,0,0,2,1,0,1,1,0,0,0,0,0,MCU,14,2
+The Guardians of the Galaxy Holiday Special,2022,Maria Bakalova,Cosmo the Dog (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,15,2
+Werewolf by Night,2022,Gael García Bernal,Jack Russell,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,1,0
+Werewolf by Night,2022,Laura Donnelly,Elsa Bloodstone,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Werewolf by Night,2022,Harriet Sansom Harris,Verussa Bloodstone,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Werewolf by Night,2022,Kirk R. Thatcher,Jovan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Werewolf by Night,2022,Eugenie Bondurant,Azarel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Werewolf by Night,2022,Leonardo Nam,Liorn,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Werewolf by Night,2022,Daniel J. Watts,Barasso,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Werewolf by Night,2022,Al Hamacher,Billy Swan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Werewolf by Night,2022,Carey Jones,Ted (Man-Thing),0,0,0,16,16.0,16,0,0,1,12,0,1,1,0,0,0,0,0,MCU,9,2
+Werewolf by Night,2022,David Silverman,The Flaming Tuba,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Werewolf by Night,2022,Rick D. Wasserman,Narrator (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,11,2
+Werewolf by Night,2022,Richard Dixon,Ulysses Bloodstone (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,12,2
+Werewolf by Night,2022,Jeffrey Ford,Additional Man-Thing Vocalizations (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,13,2
+Werewolf by Night,2022,Erik Beck,Puppeteer,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Moon Girl and Devil Dinosaur,2023,Diamond White,Moon Girl / Lunella (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,1,1,MCU,1,0
+Moon Girl and Devil Dinosaur,2023,Fred Tatasciore,Devil Dinosaur (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,1,1,MCU,2,0
+Moon Girl and Devil Dinosaur,2023,Alfre Woodard,Mimi (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,1,1,MCU,3,0
+Moon Girl and Devil Dinosaur,2023,Gary Anthony Williams,Pops (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,1,1,MCU,4,1
+Moon Girl and Devil Dinosaur,2023,Sasheer Zamata,Adria (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,1,1,MCU,5,1
+Moon Girl and Devil Dinosaur,2023,Jermaine Fowler,James Jr. (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,1,1,MCU,6,1
+Moon Girl and Devil Dinosaur,2023,Libe Barer,Casey (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,1,1,MCU,7,1
+Guardians of the Galaxy Vol. 3,2023,Chris Pratt,Peter Quill / Star-Lord,4,4,3,1,3.0,1,9,1,4,1,4,0,1,1,0,0,0,0,MCU,1,0
+Guardians of the Galaxy Vol. 3,2023,Zoe Saldaña,Gamora,4,4,2,2,7.5,15,9,4,4,2,4,0,1,1,0,0,0,0,MCU,2,0
+Guardians of the Galaxy Vol. 3,2023,Dave Bautista,Drax,4,4,3,2,4.5,2,9,1,4,2,4,0,1,1,0,0,0,0,MCU,3,0
+Guardians of the Galaxy Vol. 3,2023,Karen Gillan,Nebula,6,6,1,3,9.333333333333334,3,9,1,6,3,6,0,1,1,0,0,0,0,MCU,4,1
+Guardians of the Galaxy Vol. 3,2023,Pom Klementieff,Mantis,3,3,0,4,8.333333333333334,4,6,1,3,4,3,0,1,1,0,0,0,0,MCU,5,1
+Guardians of the Galaxy Vol. 3,2023,Vin Diesel,Groot (voice),4,4,0,4,6.75,5,9,1,3,4,3,0,1,1,1,0,0,0,MCU,6,1
+Guardians of the Galaxy Vol. 3,2023,Bradley Cooper,Rocket (voice),4,4,0,5,7.75,6,9,1,4,5,4,0,1,1,1,0,0,0,MCU,7,1
+Guardians of the Galaxy Vol. 3,2023,Sean Gunn,Kraglin / Young Rocket (voice),4,4,0,7,11.75,7,9,1,4,5,4,0,1,1,1,0,0,0,MCU,8,1
+Guardians of the Galaxy Vol. 3,2023,Chukwudi Iwuji,The High Evolutionary,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Guardians of the Galaxy Vol. 3,2023,Will Poulter,Adam Warlock,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Guardians of the Galaxy Vol. 3,2023,Maria Bakalova,Cosmo (voice),1,1,0,15,15.0,15,1,1,0,16,0,0,0,0,1,0,0,0,MCU,11,2
+Guardians of the Galaxy Vol. 3,2023,Elizabeth Debicki,Ayesha,1,1,0,11,11.0,11,6,6,1,11,1,0,1,1,0,0,0,0,MCU,12,2
+Guardians of the Galaxy Vol. 3,2023,Sylvester Stallone,Stakar Ogord,1,1,0,10,10.0,10,6,6,1,10,1,0,1,1,0,0,0,0,MCU,13,2
+Guardians of the Galaxy Vol. 3,2023,Austin Freeman,On-Set Groot / Phlektik Guard,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Guardians of the Galaxy Vol. 3,2023,Stephen Blackehart,Steemie Blueliver,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Spider-Man: Across the Spider-Verse,2023,Shameik Moore,Miles Morales (voice),1,0,1,1,1.0,1,5,5,1,1,1,0,1,1,1,0,0,0,Sony / Spider-Man,1,0
+Spider-Man: Across the Spider-Verse,2023,Hailee Steinfeld,Gwen Stacy (voice),2,1,2,2,2.5,2,5,2,4,2,1,0,1,1,1,0,0,0,Sony / Spider-Man,2,0
+Spider-Man: Across the Spider-Verse,2023,Brian Tyree Henry,Jeff Morales (voice),2,1,0,5,6.0,7,5,2,0,16,0,0,0,0,1,0,0,0,Sony / Spider-Man,3,0
+Spider-Man: Across the Spider-Verse,2023,Luna Lauren Vélez,Rio Morales (voice),1,0,0,7,7.0,7,5,5,1,7,1,0,1,1,1,0,0,0,Sony / Spider-Man,4,1
+Spider-Man: Across the Spider-Verse,2023,Jake Johnson,Peter B. Parker (voice),1,0,1,2,2.0,2,5,5,1,2,1,0,1,1,1,0,0,0,Sony / Spider-Man,5,1
+Spider-Man: Across the Spider-Verse,2023,Oscar Isaac,Miguel O'Hara (voice),1,0,0,5,5.0,5,7,7,0,16,0,0,0,0,1,0,0,0,Sony / Spider-Man,6,1
+Spider-Man: Across the Spider-Verse,2023,Jason Schwartzman,Spot (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,7,1
+Spider-Man: Across the Spider-Verse,2023,Issa Rae,Jessica Drew (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,8,1
+Spider-Man: Across the Spider-Verse,2023,Daniel Kaluuya,Hobie Brown (voice),1,1,0,6,6.0,6,5,5,0,16,0,0,0,0,1,0,0,0,Sony / Spider-Man,9,2
+Spider-Man: Across the Spider-Verse,2023,Karan Soni,Pavitr Prabhakar (voice),2,0,0,8,8.5,8,7,5,0,16,0,0,0,0,1,0,0,0,Sony / Spider-Man,10,2
+Spider-Man: Across the Spider-Verse,2023,Shea Whigham,George Stacy (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,11,2
+Spider-Man: Across the Spider-Verse,2023,Greta Lee,LYLA (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,12,2
+Spider-Man: Across the Spider-Verse,2023,Mahershala Ali,Uncle Aaron (voice),1,0,0,4,4.0,4,5,5,1,4,1,0,1,1,1,0,0,0,Sony / Spider-Man,13,2
+Spider-Man: Across the Spider-Verse,2023,Amandla Stenberg,Margo Kess: Spider-Byte (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,14,2
+Spider-Man: Across the Spider-Verse,2023,Jharrel Jerome,Miles G. Morales (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,Sony / Spider-Man,15,2
+The Marvels,2023,Brie Larson,Carol Danvers / Captain Marvel,2,2,1,1,6.5,1,4,4,3,1,2,0,1,1,0,0,0,0,MCU,1,0
+The Marvels,2023,Teyonah Parris,Monica Rambeau,1,1,0,4,4.0,4,2,2,2,4,1,0,1,1,0,0,0,0,MCU,2,0
+The Marvels,2023,Iman Vellani,Kamala Khan / Ms. Marvel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+The Marvels,2023,Samuel L. Jackson,Nick Fury,7,7,3,2,6.0,3,13,4,8,1,7,0,1,1,0,0,0,0,MCU,4,1
+The Marvels,2023,Zawe Ashton,Dar-Benn,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+The Marvels,2023,Gary Lewis,Emperor Dro'ge,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+The Marvels,2023,Park Seo-jun,Prince Yan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+The Marvels,2023,Zenobia Shroff,Muneeba Khan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+The Marvels,2023,Mohan Kapur,Yusuf Khan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+The Marvels,2023,Saagar Shaikh,Aamir Khan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+The Marvels,2023,Leila Farzad,Talia,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+The Marvels,2023,Abraham Popoola,Dag,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+The Marvels,2023,Lashana Lynch,Maria Rambeau,2,2,0,8,10.0,12,4,1,1,8,1,0,1,1,0,0,0,0,MCU,13,2
+The Marvels,2023,Tessa Thompson,Valkyrie,2,2,0,4,5.5,4,6,1,1,7,1,0,1,1,0,0,0,0,MCU,14,2
+The Marvels,2023,Daniel Ings,Ty-Rone,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Ant-Man and the Wasp: Quantumania,2023,Paul Rudd,Scott Lang / Ant-Man,4,4,2,1,5.5,9,8,4,4,1,4,0,1,1,0,0,0,0,MCU,1,0
+Ant-Man and the Wasp: Quantumania,2023,Evangeline Lilly,Hope Van Dyne / The Wasp,2,2,2,2,2.5,2,8,5,2,2,2,0,1,1,0,0,0,0,MCU,2,0
+Ant-Man and the Wasp: Quantumania,2023,Michael Douglas,Dr. Hank Pym,2,2,2,2,2.5,3,8,5,2,2,2,0,1,1,0,0,0,0,MCU,3,0
+Ant-Man and the Wasp: Quantumania,2023,Michelle Pfeiffer,Janet Van Dyne,1,1,0,6,6.0,6,5,5,1,6,1,0,1,1,0,0,0,0,MCU,4,1
+Ant-Man and the Wasp: Quantumania,2023,Jonathan Majors,Kang the Conqueror,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+Ant-Man and the Wasp: Quantumania,2023,Kathryn Newton,Cassie Lang,0,0,0,16,16.0,16,0,0,1,8,0,1,1,0,0,0,0,0,MCU,6,1
+Ant-Man and the Wasp: Quantumania,2023,Corey Stoll,M.O.D.O.K.,1,1,0,4,4.0,4,8,8,0,16,0,0,0,0,0,0,0,0,MCU,7,1
+Ant-Man and the Wasp: Quantumania,2023,Bill Murray,Lord Krylar,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+Ant-Man and the Wasp: Quantumania,2023,Katy O'Brian,Jentorra,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Ant-Man and the Wasp: Quantumania,2023,William Jackson Harper,Quaz,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Ant-Man and the Wasp: Quantumania,2023,Jamie Andrew Cutler,Xolum,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Ant-Man and the Wasp: Quantumania,2023,David Dastmalchian,Veb (voice),2,2,0,10,11.5,13,8,5,0,16,0,0,0,0,1,0,0,0,MCU,12,2
+Ant-Man and the Wasp: Quantumania,2023,Randall Park,Jimmy Woo,2,2,0,5,5.0,5,5,2,2,5,2,0,1,1,0,0,0,0,MCU,13,2
+Ant-Man and the Wasp: Quantumania,2023,Mark Weinman,Patrol Police Officer / On-Set M.O.D.O.K.,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Ant-Man and the Wasp: Quantumania,2023,Ross Mullan,Axia Restaurant Maitre D',0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Deadpool & Wolverine,2024,Ryan Reynolds,Wade Wilson / Deadpool / Nicepool,3,0,2,1,3.6666666666666665,1,15,6,3,1,3,0,1,1,0,0,0,0,MCU,1,0
+Deadpool & Wolverine,2024,Hugh Jackman,Logan / Wolverine,5,0,5,1,1.0,1,18,7,5,1,5,0,1,1,0,0,0,0,MCU,2,0
+Deadpool & Wolverine,2024,Emma Corrin,Cassandra Nova,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Deadpool & Wolverine,2024,Matthew Macfadyen,Mr. Paradox,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Deadpool & Wolverine,2024,Dafne Keen,Laura / X-23,1,0,1,2,2.0,2,7,7,1,2,1,0,1,1,0,0,0,0,MCU,5,1
+Deadpool & Wolverine,2024,Jon Favreau,Happy Hogan,7,6,0,5,7.428571428571429,5,21,3,5,5,5,0,1,1,0,0,0,0,MCU,6,1
+Deadpool & Wolverine,2024,Morena Baccarin,Vanessa,2,0,2,2,2.5,3,8,6,3,2,2,0,1,1,0,0,0,0,MCU,7,1
+Deadpool & Wolverine,2024,Rob Delaney,Peter,0,0,0,16,16.0,16,0,0,1,14,0,1,1,0,0,0,0,0,MCU,8,1
+Deadpool & Wolverine,2024,Leslie Uggams,Blind Al,2,0,0,6,6.5,7,8,6,2,6,2,0,1,1,0,0,0,0,MCU,9,2
+Deadpool & Wolverine,2024,Jennifer Garner,Elektra,2,0,2,1,1.5,1,21,19,1,1,1,0,1,1,0,0,0,0,MCU,10,2
+Deadpool & Wolverine,2024,Wesley Snipes,Blade,2,0,2,1,1.0,1,26,22,2,1,2,0,1,1,0,0,0,0,MCU,11,2
+Deadpool & Wolverine,2024,Channing Tatum,Gambit,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Deadpool & Wolverine,2024,Chris Evans,Johnny Storm,9,7,8,1,2.111111111111111,2,19,5,4,2,2,0,1,1,0,0,0,0,MCU,13,2
+Deadpool & Wolverine,2024,Henry Cavill,The Cavillrine,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Deadpool & Wolverine,2024,Wunmi Mosaku,B-15,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Kraven the Hunter,2024,Aaron Taylor-Johnson,Sergei Kravinoff / Kraven the Hunter,1,1,0,10,10.0,10,9,9,0,16,0,0,0,0,0,0,0,0,Sony / Spider-Man,1,0
+Kraven the Hunter,2024,Ariana DeBose,Calypso Ezili,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,2,0
+Kraven the Hunter,2024,Fred Hechinger,Dmitri Kravinoff,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,3,0
+Kraven the Hunter,2024,Alessandro Nivola,Aleksei Sytsevich,0,0,0,16,16.0,16,0,0,1,7,0,1,1,0,0,0,0,0,Sony / Spider-Man,4,1
+Kraven the Hunter,2024,Christopher Abbott,The Foreigner,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,5,1
+Kraven the Hunter,2024,Russell Crowe,Nikolai Kravinoff,1,1,0,6,6.0,6,2,2,0,16,0,0,0,0,0,0,0,0,Sony / Spider-Man,6,1
+Kraven the Hunter,2024,Yuri Kolokolnikov,Semyon Chorney,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,7,1
+Kraven the Hunter,2024,Levi Miller,Young Sergei,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,8,1
+Kraven the Hunter,2024,Tom Reed,Bert,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,9,2
+Kraven the Hunter,2024,Billy Barratt,Young Dmitri,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,10,2
+Kraven the Hunter,2024,Diaana Babnicova,Young Calypso,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,11,2
+Kraven the Hunter,2024,Murat Seven,Ömer Ozdemir,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,12,2
+Kraven the Hunter,2024,Greg Kolpakchi,Transport Guard,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,13,2
+Kraven the Hunter,2024,Mark Arden,Oligarch,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,14,2
+Kraven the Hunter,2024,Jack Brady,Oligarch,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,15,2
+Venom: The Last Dance,2024,Tom Hardy,Eddie Brock / Venom,2,0,2,1,1.0,1,6,3,3,1,2,0,1,1,0,0,0,0,Sony / Spider-Man,1,0
+Venom: The Last Dance,2024,Chiwetel Ejiofor,Strickland,2,2,1,2,3.0,4,8,2,0,16,0,0,0,0,0,0,0,0,Sony / Spider-Man,2,0
+Venom: The Last Dance,2024,Juno Temple,Dr. Teddy Paine,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,3,0
+Venom: The Last Dance,2024,Rhys Ifans,Martin,1,0,1,3,3.0,3,12,12,0,16,0,0,0,0,0,0,0,0,Sony / Spider-Man,4,1
+Venom: The Last Dance,2024,Stephen Graham,Detective Mulligan,1,0,0,6,6.0,6,3,3,1,6,1,0,1,1,0,0,0,0,Sony / Spider-Man,5,1
+Venom: The Last Dance,2024,Peggy Lu,Mrs. Chen,2,0,0,7,8.0,7,6,3,2,7,2,0,1,1,0,0,0,0,Sony / Spider-Man,6,1
+Venom: The Last Dance,2024,Clark Backo,Sadie,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,7,1
+Venom: The Last Dance,2024,Alanna Ubach,Nova,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,8,1
+Venom: The Last Dance,2024,Cristo Fernández,Barman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,9,2
+Venom: The Last Dance,2024,Jared Abrahamson,Captain Forrest,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,10,2
+Venom: The Last Dance,2024,Hala Finley,Echo,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,11,2
+Venom: The Last Dance,2024,Dash McCloud,Leaf,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,12,2
+Venom: The Last Dance,2024,Andy Serkis,Knull (voice),1,1,0,12,12.0,12,6,6,0,16,0,0,0,0,1,0,0,0,Sony / Spider-Man,13,2
+Venom: The Last Dance,2024,Reid Scott,Dr. Dan Lewis,2,0,0,5,5.0,5,6,3,2,5,2,0,1,1,0,0,0,0,Sony / Spider-Man,14,2
+Venom: The Last Dance,2024,Jack Brady,Jim - Security,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,Sony / Spider-Man,15,2
+Ironheart,2025,Dominique Thorne,Riri Williams,1,1,0,9,9.0,9,3,3,0,16,0,0,0,0,0,0,1,0,MCU,1,0
+Ironheart,2025,Lyric Ross,N.A.T.A.L.I.E.,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,2,0
+Ironheart,2025,Manny Montana,Cousin John,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,3,0
+Ironheart,2025,Matthew Elam,Xavier,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,4,1
+Ironheart,2025,Anji White,Ronnie Williams,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,5,1
+Ironheart,2025,Eric André,Rampage,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,6,1
+Ironheart,2025,Sonia Denis,Clown,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,7,1
+Ironheart,2025,Shea Couleé,Slug,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,8,1
+Ironheart,2025,Zoe Terakes,Jeri,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,9,2
+Ironheart,2025,Shakira Barrera,Roz,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,10,2
+Ironheart,2025,Anthony Ramos,Parker Robbins,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,11,2
+Ironheart,2025,Alden Ehrenreich,Joe McGillicuddy / Ezekiel Stane,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,12,2
+Your Friendly Neighborhood Spider-Man,2025,Hudson Thames,Peter Parker / Spider-Man (voice),0,0,0,16,16.0,16,0,0,14,1,0,1,1,0,1,0,1,0,MCU,1,0
+Marvel Zombies,2025,Iman Vellani,Kamala Khan (voice),1,1,1,3,3.0,3,2,2,1,3,1,0,1,1,1,0,1,0,MCU,1,0
+Marvel Zombies,2025,Todd Williams,Blade Knight (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,1,0,MCU,2,0
+Marvel Zombies,2025,David Harbour,Alexei Shostakov / Red Guardian (voice),1,1,0,4,4.0,4,4,4,0,16,0,0,0,0,1,0,1,0,MCU,3,0
+Marvel Zombies,2025,Simu Liu,Shang-Chi (voice),1,1,1,1,1.0,1,4,4,1,1,1,0,1,1,1,0,1,0,MCU,4,1
+Marvel Zombies,2025,Awkwafina,Katy Chen (voice),1,1,1,3,3.0,3,4,4,0,16,0,0,0,0,1,0,1,0,MCU,5,1
+Marvel Zombies,2025,Elizabeth Olsen,Wanda Maximoff / The Red Queen (voice),5,5,2,1,8.0,3,10,3,5,1,5,0,1,1,1,0,1,0,MCU,6,1
+Daredevil: Born Again,2025,Charlie Cox,Matt Murdock / Daredevil,0,0,0,16,16.0,16,0,0,2,1,0,1,1,0,0,0,1,0,MCU,1,0
+Daredevil: Born Again,2025,Vincent D'Onofrio,Wilson Fisk,0,0,0,16,16.0,16,0,0,3,4,0,1,1,0,0,0,1,0,MCU,2,0
+Daredevil: Born Again,2025,Wilson Bethel,Benjamin Poindexter / Bullseye,0,0,0,16,16.0,16,0,0,1,3,0,1,1,0,0,0,1,0,MCU,3,0
+Daredevil: Born Again,2025,Deborah Ann Woll,Karen Page,0,0,0,16,16.0,16,0,0,1,7,0,1,1,0,0,0,1,0,MCU,4,1
+Daredevil: Born Again,2025,Margarita Levieva,Heather Glenn,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,5,1
+Daredevil: Born Again,2025,Matthew Lillard,Mr. Charles,0,0,0,16,16.0,16,0,0,1,3,0,1,1,0,0,0,1,0,MCU,6,1
+Daredevil: Born Again,2025,Lili Taylor,Gov Marge McCaffrey,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,7,1
+Daredevil: Born Again,2025,Michael Gandolfini,Daniel Blake,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,9,2
+Daredevil: Born Again,2025,Nikki M. James,Kirsten Mcduffie,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,10,2
+Daredevil: Born Again,2025,Arty Froushan,Buck Cashman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,11,2
+Daredevil: Born Again,2025,Genneya Walton,BB Urich,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,12,2
+Daredevil: Born Again,2025,Zabryna Guevara,Sheila Rivera,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,13,2
+Daredevil: Born Again,2025,Ayelet Zurer,Vanessa Fisk,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,15,2
+The Fantastic Four: First Steps,2025,Pedro Pascal,Reed Richards / Mister Fantastic,0,0,0,16,16.0,16,0,0,5,1,0,1,1,0,0,0,0,0,MCU,1,0
+The Fantastic Four: First Steps,2025,Vanessa Kirby,Sue Storm / Invisible Woman,0,0,0,16,16.0,16,0,0,2,2,0,1,1,0,0,0,0,0,MCU,2,0
+The Fantastic Four: First Steps,2025,Ebon Moss-Bachrach,Ben Grimm / The Thing,0,0,0,16,16.0,16,0,0,4,4,0,1,1,0,0,0,0,0,MCU,3,0
+The Fantastic Four: First Steps,2025,Joseph Quinn,Johnny Storm / Human Torch,0,0,0,16,16.0,16,0,0,5,2,0,1,1,0,0,0,0,0,MCU,4,1
+The Fantastic Four: First Steps,2025,Ralph Ineson,Galactus,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,5,1
+The Fantastic Four: First Steps,2025,Julia Garner,Shalla-Bal / Silver Surfer,0,0,0,16,16.0,16,0,0,1,6,0,1,1,0,0,0,0,0,MCU,6,1
+The Fantastic Four: First Steps,2025,Paul Walter Hauser,Harvey Elder / Mole Man,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+The Fantastic Four: First Steps,2025,Natasha Lyonne,Rachel Rozman,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,8,1
+The Fantastic Four: First Steps,2025,Sarah Niles,Lynne Nichols / F4 Chief of Staff,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+The Fantastic Four: First Steps,2025,Mark Gatiss,Ted Gilbert,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+The Fantastic Four: First Steps,2025,Ada Scott,Franklin Richards,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+The Fantastic Four: First Steps,2025,Matthew Wood,H.E.R.B.I.E. (voice),0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,1,0,0,0,MCU,12,2
+The Fantastic Four: First Steps,2025,Angela Jones,Mole Man Attack Witness,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+The Fantastic Four: First Steps,2025,Maisie Shakman,Donna / Saved Girl,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+The Fantastic Four: First Steps,2025,Jay Underwood,Power Plant Worker #1,1,0,1,2,2.0,2,31,31,0,16,0,0,0,0,0,0,0,0,MCU,15,2
+Captain America: Brave New World,2025,Anthony Mackie,Sam Wilson / Captain America,5,5,1,1,6.4,1,11,4,13,1,5,0,1,1,0,0,0,0,MCU,1,0
+Captain America: Brave New World,2025,Harrison Ford,President Thaddeus Ross,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,2,0
+Captain America: Brave New World,2025,Danny Ramirez,Joaquin Torres,1,1,0,7,7.0,7,4,4,1,7,1,0,1,1,0,0,0,0,MCU,3,0
+Captain America: Brave New World,2025,Shira Haas,Ruth Bat-Seraph,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Captain America: Brave New World,2025,Tim Blake Nelson,Samuel Sterns,2,2,0,5,6.0,7,17,10,1,5,1,0,1,1,0,0,0,0,MCU,5,1
+Captain America: Brave New World,2025,Carl Lumbly,Isaiah Bradley,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Captain America: Brave New World,2025,Giancarlo Esposito,Sidewinder,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Captain America: Brave New World,2025,Liv Tyler,Betty Ross,1,1,1,2,2.0,2,17,17,2,2,1,0,1,1,0,0,0,0,MCU,8,1
+Captain America: Brave New World,2025,Xosha Roquemore,Leila Taylor,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Captain America: Brave New World,2025,Jóhannes Haukur Jóhannesson,Copperhead,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Captain America: Brave New World,2025,William Mark McCullough,Commander Dennis Dunphy,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Captain America: Brave New World,2025,Takehiro Hira,Prime Minister Ozaki,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Captain America: Brave New World,2025,Harsh Nayyar,Prime Minister Kapur,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Captain America: Brave New World,2025,Rick Espaillat,French President,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Captain America: Brave New World,2025,Todd Allen Durkin,Senior Advisor #1,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Thunderbolts*,2025,Florence Pugh,Yelena Belova,1,1,1,2,2.0,2,4,4,1,2,1,0,1,1,0,0,0,0,MCU,1,0
+Thunderbolts*,2025,Sebastian Stan,Bucky Barnes,4,4,2,2,3.5,2,14,4,3,2,3,0,1,1,0,0,0,0,MCU,2,0
+Thunderbolts*,2025,Julia Louis-Dreyfus,Valentina Allegra de Fontaine,1,1,0,8,8.0,8,3,3,1,8,1,0,1,1,0,0,0,0,MCU,3,0
+Thunderbolts*,2025,Lewis Pullman,Robert Reynolds,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,4,1
+Thunderbolts*,2025,David Harbour,Alexei Shostakov,1,1,0,4,4.0,4,4,4,0,16,0,0,0,0,0,0,0,0,MCU,5,1
+Thunderbolts*,2025,Wyatt Russell,John Walker,1,1,1,3,3.0,3,4,4,1,3,1,0,1,1,0,0,0,0,MCU,6,1
+Thunderbolts*,2025,Hannah John-Kamen,Ava Starr,1,1,0,4,4.0,4,7,7,0,16,0,0,0,0,0,0,0,0,MCU,7,1
+Thunderbolts*,2025,Olga Kurylenko,Antonia Dreykov,1,1,0,10,10.0,10,4,4,0,16,0,0,0,0,0,0,0,0,MCU,8,1
+Thunderbolts*,2025,Geraldine Viswanathan,Mel,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Thunderbolts*,2025,Wendell Pierce,Congressman Gary,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Thunderbolts*,2025,Chris Bauer,Holt,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Thunderbolts*,2025,Violet McGraw,Young Yelena,1,1,0,7,7.0,7,4,4,1,7,1,0,1,1,0,0,0,0,MCU,12,2
+Thunderbolts*,2025,Alexa Swinton,Anya,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,13,2
+Thunderbolts*,2025,Eric Lange,Houston,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Thunderbolts*,2025,Chiara Stella,Young Valentina,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,15,2
+Wonder Man,2026,Yahya Abdul-Mateen II,Simon Williams,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,1,0
+Wonder Man,2026,Arian Moayed,Agent Cleary,1,1,0,15,15.0,15,5,5,0,16,0,0,0,0,0,0,1,0,MCU,2,0
+Wonder Man,2026,X Mayo,Janelle Jackson,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,1,0,MCU,3,0
+Wonder Man,2026,Ben Kingsley,Trevor Slattery,2,2,0,4,5.5,4,13,5,2,4,2,0,1,1,0,0,1,0,MCU,4,1
+Spider-Man: Brand New Day,2026,Tom Holland,Peter Parker / Spider-Man,6,6,3,1,6.333333333333333,1,10,5,15,1,6,0,1,1,0,0,0,0,MCU,1,0
+Spider-Man: Brand New Day,2026,Zendaya,MJ,3,3,1,2,5.0,2,9,5,0,16,0,0,0,0,0,0,0,0,MCU,2,0
+Spider-Man: Brand New Day,2026,Sadie Sink,,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,3,0
+Spider-Man: Brand New Day,2026,Jacob Batalon,Ned Leeds,3,3,0,4,6.666666666666667,4,9,5,2,4,2,0,1,1,0,0,0,0,MCU,4,1
+Spider-Man: Brand New Day,2026,Jon Bernthal,Frank Castle / Punisher,0,0,0,16,16.0,16,0,0,3,1,0,1,1,0,0,0,0,0,MCU,5,1
+Spider-Man: Brand New Day,2026,Tramell Tillman,Bill,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,6,1
+Spider-Man: Brand New Day,2026,Michael Mando,Mac Gargan,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,7,1
+Spider-Man: Brand New Day,2026,Mark Ruffalo,Bruce Banner / Hulk,5,5,4,2,3.2,3,14,7,11,1,5,0,1,1,0,0,0,0,MCU,8,1
+Spider-Man: Brand New Day,2026,Liza Colón-Zayas,,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,9,2
+Spider-Man: Brand New Day,2026,Marvin Jones III,Lonnie Lincoln / Tombstone,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,10,2
+Spider-Man: Brand New Day,2026,Eman Esfandi,,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,11,2
+Spider-Man: Brand New Day,2026,Keith David,,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,12,2
+Spider-Man: Brand New Day,2026,Zabryna Guevara,Sheila Rivera,1,1,0,13,13.0,13,1,1,1,13,1,0,1,1,0,0,0,0,MCU,13,2
+Spider-Man: Brand New Day,2026,Rosario Dawson,Claire Temple,0,0,0,16,16.0,16,0,0,0,16,0,1,0,0,0,0,0,0,MCU,14,2
+Spider-Man: Brand New Day,2026,Marisa Tomei,May Parker,3,3,0,4,6.333333333333333,11,9,5,6,4,3,0,1,1,0,0,0,0,MCU,15,2

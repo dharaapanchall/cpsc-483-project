@@ -1,0 +1,14 @@
+[load] marvel_cast: 1628 rows x 9 cols, 115 productions, 1149 unique actors
+[load] marvel_master: 161 rows x 50 cols
+[dedupe] removed duplicate productions ['Spider-Man 1977', 'Spider-Man 1978']: 30 rows
+[mismatch] removed 12 mis-matched productions (['Agatha All Along', 'Echo', 'Loki', 'Moon Knight', 'Ms. Marvel', 'Secret Invasion', 'She-Hulk: Attorney at Law', 'The Defenders', 'What If...?', 'X-Men', "X-Men '97", 'X2']): 158 rows
+[year] Venom: The Last Dance: year corrected to 2024 (15 rows)
+[year] Kraven the Hunter: year corrected to 2024 (15 rows)
+[join] universe/type attached; universes: {'MCU': 724, 'Pre-MCU': 356, 'Sony / Spider-Man': 195, 'Fox / X-Men': 165}
+[check] duplicate (production, actor) rows after cleaning: 0
+[character] missing character names: 4 (kept, treated as no history)
+[features] clean dataset: 1440 rows, 101 productions, 1028 unique actors
+[split] train: years <= 2021, 1143 rows (79.4%); test: years >= 2022, 297 rows (20.6%)
+[split] train billing_tier distribution (0=lead,1=supporting,2=minor): {0: 0.205, 1: 0.339, 2: 0.456}
+[split] test billing_tier distribution (0=lead,1=supporting,2=minor): {0: 0.226, 1: 0.343, 2: 0.431}
+[scale] standardized 12 numeric features; binary/one-hot left as 0/1

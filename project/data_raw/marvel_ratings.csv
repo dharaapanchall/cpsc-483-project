@@ -1,0 +1,555 @@
+title,year,source,score
+Captain America,1944,IMDb,5.3
+Captain America,1944,TMDB,5.4
+The Amazing Spider-Man,1977,IMDb,6.2
+The Amazing Spider-Man,1977,TMDB,6.3
+Spider-Man,1977,IMDb,6.2
+Spider-Man,1977,TMDB,6.3
+Dr. Strange,1978,IMDb,5.1
+Dr. Strange,1978,TMDB,6.038
+The Incredible Hulk,1978,IMDb,
+The Incredible Hulk,1978,Rotten Tomatoes,
+The Incredible Hulk,1978,Metacritic,
+The Incredible Hulk,1978,TMDB,6.727
+Spider-Man Strikes Back,1978,IMDb,5.0
+Spider-Man Strikes Back,1978,TMDB,5.8
+Spider-Man,1978,IMDb,6.4
+Spider-Man,1978,TMDB,5.8
+Spider-Man: The Dragon's Challenge,1979,IMDb,4.7
+Spider-Man: The Dragon's Challenge,1979,TMDB,
+Captain America,1979,IMDb,3.5
+Captain America,1979,TMDB,3.983
+Captain America II: Death Too Soon,1979,IMDb,3.7
+Captain America II: Death Too Soon,1979,TMDB,3.8
+The Incredible Hulk Returns,1988,IMDb,5.7
+The Incredible Hulk Returns,1988,Rotten Tomatoes,50%
+The Incredible Hulk Returns,1988,TMDB,6.287
+The Trial of the Incredible Hulk,1989,IMDb,5.8
+The Trial of the Incredible Hulk,1989,TMDB,6.4
+The Punisher,1989,IMDb,5.6
+The Punisher,1989,Rotten Tomatoes,24%
+The Punisher,1989,Metacritic,63/100
+The Punisher,1989,TMDB,5.8
+Captain America,1990,IMDb,3.2
+Captain America,1990,Rotten Tomatoes,16%
+Captain America,1990,TMDB,4.5
+The Death of the Incredible Hulk,1990,IMDb,5.7
+The Death of the Incredible Hulk,1990,Rotten Tomatoes,20%
+The Death of the Incredible Hulk,1990,TMDB,5.7
+Fantastic Four,1994,IMDb,3.8
+Fantastic Four,1994,Rotten Tomatoes,31%
+Fantastic Four,1994,TMDB,4.41
+Generation X,1996,IMDb,4.4
+Generation X,1996,TMDB,4.319
+Nick Fury: Agent of S.H.I.E.L.D.,1998,IMDb,
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Rotten Tomatoes,
+Nick Fury: Agent of S.H.I.E.L.D.,1998,Metacritic,
+Nick Fury: Agent of S.H.I.E.L.D.,1998,TMDB,4.6
+Blade,1998,IMDb,7.1
+Blade,1998,Rotten Tomatoes,59%
+Blade,1998,Metacritic,47/100
+Blade,1998,TMDB,6.84
+X-Men,2000,IMDb,7.3
+X-Men,2000,Rotten Tomatoes,82%
+X-Men,2000,Metacritic,64/100
+X-Men,2000,TMDB,7.037
+Blade II,2002,IMDb,6.7
+Blade II,2002,Rotten Tomatoes,57%
+Blade II,2002,Metacritic,52/100
+Blade II,2002,TMDB,6.565
+Spider-Man,2002,IMDb,7.4
+Spider-Man,2002,Rotten Tomatoes,90%
+Spider-Man,2002,Metacritic,73/100
+Spider-Man,2002,TMDB,7.332
+Daredevil,2003,IMDb,5.3
+Daredevil,2003,Rotten Tomatoes,42%
+Daredevil,2003,Metacritic,42/100
+Daredevil,2003,TMDB,5.299
+X2,2003,IMDb,7.4
+X2,2003,Rotten Tomatoes,85%
+X2,2003,Metacritic,68/100
+X2,2003,TMDB,5.667
+Hulk,2003,IMDb,5.7
+Hulk,2003,Rotten Tomatoes,63%
+Hulk,2003,Metacritic,54/100
+Hulk,2003,TMDB,5.583
+The Punisher,2004,IMDb,6.4
+The Punisher,2004,Rotten Tomatoes,30%
+The Punisher,2004,Metacritic,33/100
+The Punisher,2004,TMDB,6.375
+Spider-Man 2,2004,IMDb,7.5
+Spider-Man 2,2004,Rotten Tomatoes,93%
+Spider-Man 2,2004,Metacritic,83/100
+Spider-Man 2,2004,TMDB,7.311
+Mutant X,2004,IMDb,
+Mutant X,2004,Rotten Tomatoes,
+Mutant X,2004,Metacritic,
+Mutant X,2004,TMDB,
+Elektra,2005,IMDb,4.7
+Elektra,2005,Rotten Tomatoes,11%
+Elektra,2005,Metacritic,34/100
+Elektra,2005,TMDB,5.053
+Man-Thing,2005,IMDb,4.1
+Man-Thing,2005,Rotten Tomatoes,14%
+Man-Thing,2005,TMDB,4.315
+Fantastic Four,2005,IMDb,5.7
+Fantastic Four,2005,Rotten Tomatoes,28%
+Fantastic Four,2005,Metacritic,40/100
+Fantastic Four,2005,TMDB,5.8
+"Blade: Trinity (released late 2004 in some regions, wide rollout through 2005)",2006,IMDb,
+"Blade: Trinity (released late 2004 in some regions, wide rollout through 2005)",2006,Rotten Tomatoes,
+"Blade: Trinity (released late 2004 in some regions, wide rollout through 2005)",2006,Metacritic,
+"Blade: Trinity (released late 2004 in some regions, wide rollout through 2005)",2006,TMDB,
+X-Men: The Last Stand,2006,IMDb,6.6
+X-Men: The Last Stand,2006,Rotten Tomatoes,56%
+X-Men: The Last Stand,2006,Metacritic,58/100
+X-Men: The Last Stand,2006,TMDB,6.423
+Ghost Rider,2007,IMDb,5.3
+Ghost Rider,2007,Rotten Tomatoes,28%
+Ghost Rider,2007,Metacritic,35/100
+Ghost Rider,2007,TMDB,5.6
+Spider-Man 3,2007,IMDb,6.3
+Spider-Man 3,2007,Rotten Tomatoes,62%
+Spider-Man 3,2007,Metacritic,59/100
+Spider-Man 3,2007,TMDB,6.463
+Fantastic Four: Rise of the Silver Surfer,2007,IMDb,5.6
+Fantastic Four: Rise of the Silver Surfer,2007,Rotten Tomatoes,38%
+Fantastic Four: Rise of the Silver Surfer,2007,Metacritic,45/100
+Fantastic Four: Rise of the Silver Surfer,2007,TMDB,5.633
+Iron Man,2008,IMDb,7.9
+Iron Man,2008,Rotten Tomatoes,94%
+Iron Man,2008,Metacritic,79/100
+Iron Man,2008,TMDB,7.662
+The Incredible Hulk,2008,IMDb,6.6
+The Incredible Hulk,2008,Rotten Tomatoes,68%
+The Incredible Hulk,2008,Metacritic,61/100
+The Incredible Hulk,2008,TMDB,6.244
+Punisher: War Zone,2008,IMDb,5.9
+Punisher: War Zone,2008,Rotten Tomatoes,29%
+Punisher: War Zone,2008,Metacritic,30/100
+Punisher: War Zone,2008,TMDB,5.877
+Wolverine and the X-Men (TV Series),2008,IMDb,
+Wolverine and the X-Men (TV Series),2008,Rotten Tomatoes,
+Wolverine and the X-Men (TV Series),2008,Metacritic,
+Wolverine and the X-Men (TV Series),2008,TMDB,
+X-Men Origins: Wolverine,2009,IMDb,6.5
+X-Men Origins: Wolverine,2009,Rotten Tomatoes,37%
+X-Men Origins: Wolverine,2009,Metacritic,40/100
+X-Men Origins: Wolverine,2009,TMDB,6.292
+Iron Man 2,2010,IMDb,6.9
+Iron Man 2,2010,Rotten Tomatoes,72%
+Iron Man 2,2010,Metacritic,57/100
+Iron Man 2,2010,TMDB,6.855
+Marvel Anime: Iron Man (TV Series),2010,IMDb,
+Marvel Anime: Iron Man (TV Series),2010,Rotten Tomatoes,
+Marvel Anime: Iron Man (TV Series),2010,Metacritic,
+Marvel Anime: Iron Man (TV Series),2010,TMDB,
+Thor,2011,IMDb,7.0
+Thor,2011,Rotten Tomatoes,77%
+Thor,2011,Metacritic,57/100
+Thor,2011,TMDB,6.771
+X-Men: First Class,2011,IMDb,7.7
+X-Men: First Class,2011,Rotten Tomatoes,86%
+X-Men: First Class,2011,Metacritic,65/100
+X-Men: First Class,2011,TMDB,7.3
+Captain America: The First Avenger,2011,IMDb,6.9
+Captain America: The First Avenger,2011,Rotten Tomatoes,80%
+Captain America: The First Avenger,2011,Metacritic,66/100
+Captain America: The First Avenger,2011,TMDB,7.008
+Marvel Anime: Wolverine (TV Series),2011,IMDb,
+Marvel Anime: Wolverine (TV Series),2011,Rotten Tomatoes,
+Marvel Anime: Wolverine (TV Series),2011,Metacritic,
+Marvel Anime: Wolverine (TV Series),2011,TMDB,
+Marvel Anime: X-Men (TV Series),2011,IMDb,
+Marvel Anime: X-Men (TV Series),2011,Rotten Tomatoes,
+Marvel Anime: X-Men (TV Series),2011,Metacritic,
+Marvel Anime: X-Men (TV Series),2011,TMDB,
+Marvel Anime: Blade (TV Series),2011,IMDb,
+Marvel Anime: Blade (TV Series),2011,Rotten Tomatoes,
+Marvel Anime: Blade (TV Series),2011,Metacritic,
+Marvel Anime: Blade (TV Series),2011,TMDB,
+Ghost Rider: Spirit of Vengeance,2012,TMDB,5.0
+The Avengers,2012,IMDb,8.0
+The Avengers,2012,Rotten Tomatoes,91%
+The Avengers,2012,Metacritic,69/100
+The Avengers,2012,TMDB,8.044
+The Amazing Spider-Man,2012,IMDb,6.9
+The Amazing Spider-Man,2012,Rotten Tomatoes,71%
+The Amazing Spider-Man,2012,Metacritic,66/100
+The Amazing Spider-Man,2012,TMDB,6.739
+Iron Man 3,2013,IMDb,7.1
+Iron Man 3,2013,Rotten Tomatoes,79%
+Iron Man 3,2013,Metacritic,62/100
+Iron Man 3,2013,TMDB,6.933
+The Wolverine,2013,IMDb,6.7
+The Wolverine,2013,Rotten Tomatoes,71%
+The Wolverine,2013,Metacritic,61/100
+The Wolverine,2013,TMDB,6.435
+Agents of S.H.I.E.L.D. (Season 1),2013,IMDb,
+Agents of S.H.I.E.L.D. (Season 1),2013,Rotten Tomatoes,
+Agents of S.H.I.E.L.D. (Season 1),2013,Metacritic,
+Agents of S.H.I.E.L.D. (Season 1),2013,TMDB,
+Thor: The Dark World,2013,IMDb,6.7
+Thor: The Dark World,2013,Rotten Tomatoes,67%
+Thor: The Dark World,2013,Metacritic,54/100
+Thor: The Dark World,2013,TMDB,6.511
+Captain America: The Winter Soldier,2014,IMDb,7.7
+Captain America: The Winter Soldier,2014,Rotten Tomatoes,90%
+Captain America: The Winter Soldier,2014,Metacritic,70/100
+Captain America: The Winter Soldier,2014,TMDB,7.656
+The Amazing Spider-Man 2,2014,IMDb,6.6
+The Amazing Spider-Man 2,2014,Rotten Tomatoes,51%
+The Amazing Spider-Man 2,2014,Metacritic,53/100
+The Amazing Spider-Man 2,2014,TMDB,6.542
+X-Men: Days of Future Past,2014,IMDb,7.9
+X-Men: Days of Future Past,2014,Rotten Tomatoes,90%
+X-Men: Days of Future Past,2014,Metacritic,75/100
+X-Men: Days of Future Past,2014,TMDB,7.531
+Guardians of the Galaxy,2014,IMDb,8.0
+Guardians of the Galaxy,2014,Rotten Tomatoes,91%
+Guardians of the Galaxy,2014,Metacritic,76/100
+Guardians of the Galaxy,2014,TMDB,7.906
+Agent Carter (Short Film release period / lead-in to series),2014,IMDb,
+Agent Carter (Short Film release period / lead-in to series),2014,Rotten Tomatoes,
+Agent Carter (Short Film release period / lead-in to series),2014,Metacritic,
+Agent Carter (Short Film release period / lead-in to series),2014,TMDB,
+Marvel Disk Wars: The Avengers (TV Series),2014,IMDb,
+Marvel Disk Wars: The Avengers (TV Series),2014,Rotten Tomatoes,
+Marvel Disk Wars: The Avengers (TV Series),2014,Metacritic,
+Marvel Disk Wars: The Avengers (TV Series),2014,TMDB,
+Agent Carter (Season 1),2015,IMDb,
+Agent Carter (Season 1),2015,Rotten Tomatoes,
+Agent Carter (Season 1),2015,Metacritic,
+Agent Carter (Season 1),2015,TMDB,
+Daredevil (Season 1),2015,IMDb,
+Daredevil (Season 1),2015,Rotten Tomatoes,
+Daredevil (Season 1),2015,Metacritic,
+Daredevil (Season 1),2015,TMDB,
+Avengers: Age of Ultron,2015,IMDb,7.3
+Avengers: Age of Ultron,2015,Rotten Tomatoes,75%
+Avengers: Age of Ultron,2015,Metacritic,66/100
+Avengers: Age of Ultron,2015,TMDB,7.274
+Hulk and the Agents of S.M.A.S.H. (TV Series),2015,IMDb,
+Hulk and the Agents of S.M.A.S.H. (TV Series),2015,Rotten Tomatoes,
+Hulk and the Agents of S.M.A.S.H. (TV Series),2015,Metacritic,
+Hulk and the Agents of S.M.A.S.H. (TV Series),2015,TMDB,
+Ant-Man,2015,IMDb,7.2
+Ant-Man,2015,Rotten Tomatoes,83%
+Ant-Man,2015,Metacritic,64/100
+Ant-Man,2015,TMDB,7.066
+Fantastic Four,2015,IMDb,4.3
+Fantastic Four,2015,Rotten Tomatoes,9%
+Fantastic Four,2015,Metacritic,27/100
+Fantastic Four,2015,TMDB,4.437
+Jessica Jones (Season 1),2015,IMDb,
+Jessica Jones (Season 1),2015,Rotten Tomatoes,
+Jessica Jones (Season 1),2015,Metacritic,
+Jessica Jones (Season 1),2015,TMDB,
+Agents of S.H.I.E.L.D. (Season 2),2015,IMDb,
+Agents of S.H.I.E.L.D. (Season 2),2015,Rotten Tomatoes,
+Agents of S.H.I.E.L.D. (Season 2),2015,Metacritic,
+Agents of S.H.I.E.L.D. (Season 2),2015,TMDB,
+Agent Carter (Season 2),2016,IMDb,
+Agent Carter (Season 2),2016,Rotten Tomatoes,
+Agent Carter (Season 2),2016,Metacritic,
+Agent Carter (Season 2),2016,TMDB,
+Deadpool,2016,IMDb,8.0
+Deadpool,2016,Rotten Tomatoes,85%
+Deadpool,2016,Metacritic,65/100
+Deadpool,2016,TMDB,7.624
+Daredevil (Season 2),2016,IMDb,
+Daredevil (Season 2),2016,Rotten Tomatoes,
+Daredevil (Season 2),2016,Metacritic,
+Daredevil (Season 2),2016,TMDB,
+Captain America: Civil War,2016,IMDb,7.8
+Captain America: Civil War,2016,Rotten Tomatoes,90%
+Captain America: Civil War,2016,Metacritic,75/100
+Captain America: Civil War,2016,TMDB,7.448
+X-Men: Apocalypse,2016,IMDb,6.8
+X-Men: Apocalypse,2016,Rotten Tomatoes,47%
+X-Men: Apocalypse,2016,Metacritic,52/100
+X-Men: Apocalypse,2016,TMDB,6.525
+Agents of S.H.I.E.L.D. (Season 3),2016,IMDb,
+Agents of S.H.I.E.L.D. (Season 3),2016,Rotten Tomatoes,
+Agents of S.H.I.E.L.D. (Season 3),2016,Metacritic,
+Agents of S.H.I.E.L.D. (Season 3),2016,TMDB,
+Luke Cage (Season 1),2016,IMDb,
+Luke Cage (Season 1),2016,Rotten Tomatoes,
+Luke Cage (Season 1),2016,Metacritic,
+Luke Cage (Season 1),2016,TMDB,
+Doctor Strange,2016,IMDb,7.5
+Doctor Strange,2016,Rotten Tomatoes,89%
+Doctor Strange,2016,Metacritic,72/100
+Doctor Strange,2016,TMDB,7.421
+Legion (Season 1),2017,IMDb,
+Legion (Season 1),2017,Rotten Tomatoes,
+Legion (Season 1),2017,Metacritic,
+Legion (Season 1),2017,TMDB,
+Iron Fist (Season 1),2017,IMDb,
+Iron Fist (Season 1),2017,Rotten Tomatoes,
+Iron Fist (Season 1),2017,Metacritic,
+Iron Fist (Season 1),2017,TMDB,
+Logan,2017,IMDb,8.1
+Logan,2017,Rotten Tomatoes,93%
+Logan,2017,Metacritic,77/100
+Logan,2017,TMDB,7.82
+Guardians of the Galaxy Vol. 2,2017,IMDb,7.6
+Guardians of the Galaxy Vol. 2,2017,Rotten Tomatoes,85%
+Guardians of the Galaxy Vol. 2,2017,Metacritic,67/100
+Guardians of the Galaxy Vol. 2,2017,TMDB,7.6
+Spider-Man: Homecoming,2017,IMDb,7.4
+Spider-Man: Homecoming,2017,Rotten Tomatoes,92%
+Spider-Man: Homecoming,2017,Metacritic,73/100
+Spider-Man: Homecoming,2017,TMDB,7.331
+The Defenders,2017,TMDB,5.026
+Inhumans,2017,TMDB,5.313
+The Gifted (Season 1),2017,IMDb,
+The Gifted (Season 1),2017,Rotten Tomatoes,
+The Gifted (Season 1),2017,Metacritic,
+The Gifted (Season 1),2017,TMDB,
+Thor: Ragnarok,2017,IMDb,7.9
+Thor: Ragnarok,2017,Rotten Tomatoes,93%
+Thor: Ragnarok,2017,Metacritic,74/100
+Thor: Ragnarok,2017,TMDB,7.581
+The Punisher (Season 1),2017,IMDb,
+The Punisher (Season 1),2017,Rotten Tomatoes,
+The Punisher (Season 1),2017,Metacritic,
+The Punisher (Season 1),2017,TMDB,
+Runaways (Season 1),2017,IMDb,
+Runaways (Season 1),2017,Rotten Tomatoes,
+Runaways (Season 1),2017,Metacritic,
+Runaways (Season 1),2017,TMDB,
+Agents of S.H.I.E.L.D. (Season 4),2017,IMDb,
+Agents of S.H.I.E.L.D. (Season 4),2017,Rotten Tomatoes,
+Agents of S.H.I.E.L.D. (Season 4),2017,Metacritic,
+Agents of S.H.I.E.L.D. (Season 4),2017,TMDB,
+Black Panther,2018,IMDb,7.3
+Black Panther,2018,Rotten Tomatoes,96%
+Black Panther,2018,Metacritic,88/100
+Black Panther,2018,TMDB,7.364
+Jessica Jones (Season 2),2018,IMDb,
+Jessica Jones (Season 2),2018,Rotten Tomatoes,
+Jessica Jones (Season 2),2018,Metacritic,
+Jessica Jones (Season 2),2018,TMDB,
+Legion (Season 2),2018,IMDb,
+Legion (Season 2),2018,Rotten Tomatoes,
+Legion (Season 2),2018,Metacritic,
+Legion (Season 2),2018,TMDB,
+Avengers: Infinity War,2018,IMDb,8.4
+Avengers: Infinity War,2018,Rotten Tomatoes,85%
+Avengers: Infinity War,2018,Metacritic,68/100
+Avengers: Infinity War,2018,TMDB,8.237
+Deadpool 2,2018,IMDb,7.6
+Deadpool 2,2018,Rotten Tomatoes,83%
+Deadpool 2,2018,Metacritic,66/100
+Deadpool 2,2018,TMDB,7.491
+Cloak & Dagger (Season 1),2018,IMDb,
+Cloak & Dagger (Season 1),2018,Rotten Tomatoes,
+Cloak & Dagger (Season 1),2018,Metacritic,
+Cloak & Dagger (Season 1),2018,TMDB,
+Luke Cage (Season 2),2018,IMDb,
+Luke Cage (Season 2),2018,Rotten Tomatoes,
+Luke Cage (Season 2),2018,Metacritic,
+Luke Cage (Season 2),2018,TMDB,
+Ant-Man and the Wasp,2018,IMDb,7.0
+Ant-Man and the Wasp,2018,Rotten Tomatoes,87%
+Ant-Man and the Wasp,2018,Metacritic,70/100
+Ant-Man and the Wasp,2018,TMDB,6.902
+Iron Fist (Season 2),2018,IMDb,
+Iron Fist (Season 2),2018,Rotten Tomatoes,
+Iron Fist (Season 2),2018,Metacritic,
+Iron Fist (Season 2),2018,TMDB,
+Venom,2018,IMDb,6.6
+Venom,2018,Rotten Tomatoes,31%
+Venom,2018,Metacritic,35/100
+Venom,2018,TMDB,6.826
+Daredevil (Season 3),2018,IMDb,
+Daredevil (Season 3),2018,Rotten Tomatoes,
+Daredevil (Season 3),2018,Metacritic,
+Daredevil (Season 3),2018,TMDB,
+Runaways (Season 2),2018,IMDb,
+Runaways (Season 2),2018,Rotten Tomatoes,
+Runaways (Season 2),2018,Metacritic,
+Runaways (Season 2),2018,TMDB,
+Spider-Man: Into the Spider-Verse,2018,IMDb,8.4
+Spider-Man: Into the Spider-Verse,2018,Rotten Tomatoes,97%
+Spider-Man: Into the Spider-Verse,2018,Metacritic,87/100
+Spider-Man: Into the Spider-Verse,2018,TMDB,8.393
+The Punisher (Season 2),2019,IMDb,
+The Punisher (Season 2),2019,Rotten Tomatoes,
+The Punisher (Season 2),2019,Metacritic,
+The Punisher (Season 2),2019,TMDB,
+Captain Marvel,2019,IMDb,6.7
+Captain Marvel,2019,Rotten Tomatoes,79%
+Captain Marvel,2019,Metacritic,64/100
+Captain Marvel,2019,TMDB,6.781
+Cloak & Dagger (Season 2),2019,IMDb,
+Cloak & Dagger (Season 2),2019,Rotten Tomatoes,
+Cloak & Dagger (Season 2),2019,Metacritic,
+Cloak & Dagger (Season 2),2019,TMDB,
+Avengers: Endgame,2019,IMDb,8.4
+Avengers: Endgame,2019,Rotten Tomatoes,94%
+Avengers: Endgame,2019,Metacritic,78/100
+Avengers: Endgame,2019,TMDB,8.238
+Jessica Jones (Season 3),2019,IMDb,
+Jessica Jones (Season 3),2019,Rotten Tomatoes,
+Jessica Jones (Season 3),2019,Metacritic,
+Jessica Jones (Season 3),2019,TMDB,
+Dark Phoenix,2019,IMDb,5.7
+Dark Phoenix,2019,Rotten Tomatoes,22%
+Dark Phoenix,2019,Metacritic,43/100
+Dark Phoenix,2019,TMDB,5.967
+Legion (Season 3),2019,IMDb,
+Legion (Season 3),2019,Rotten Tomatoes,
+Legion (Season 3),2019,Metacritic,
+Legion (Season 3),2019,TMDB,
+Spider-Man: Far From Home,2019,IMDb,7.3
+Spider-Man: Far From Home,2019,Rotten Tomatoes,91%
+Spider-Man: Far From Home,2019,Metacritic,69/100
+Spider-Man: Far From Home,2019,TMDB,7.395
+Runaways (Season 3),2019,IMDb,
+Runaways (Season 3),2019,Rotten Tomatoes,
+Runaways (Season 3),2019,Metacritic,
+Runaways (Season 3),2019,TMDB,
+Helstrom (Season 1),2020,IMDb,
+Helstrom (Season 1),2020,Rotten Tomatoes,
+Helstrom (Season 1),2020,Metacritic,
+Helstrom (Season 1),2020,TMDB,
+The New Mutants,2020,IMDb,5.3
+The New Mutants,2020,Rotten Tomatoes,36%
+The New Mutants,2020,Metacritic,43/100
+The New Mutants,2020,TMDB,6.1
+Agents of S.H.I.E.L.D. (Season 7),2020,IMDb,
+Agents of S.H.I.E.L.D. (Season 7),2020,Rotten Tomatoes,
+Agents of S.H.I.E.L.D. (Season 7),2020,Metacritic,
+Agents of S.H.I.E.L.D. (Season 7),2020,TMDB,
+WandaVision,2021,TMDB,8.189
+The Falcon and the Winter Soldier,2021,TMDB,7.597
+Loki (Season 1),2021,IMDb,
+Loki (Season 1),2021,Rotten Tomatoes,
+Loki (Season 1),2021,Metacritic,
+Loki (Season 1),2021,TMDB,
+Black Widow,2021,IMDb,6.6
+Black Widow,2021,Rotten Tomatoes,79%
+Black Widow,2021,Metacritic,68/100
+Black Widow,2021,TMDB,7.168
+What If...? (Season 1) (animated),2021,IMDb,
+What If...? (Season 1) (animated),2021,Rotten Tomatoes,
+What If...? (Season 1) (animated),2021,Metacritic,
+What If...? (Season 1) (animated),2021,TMDB,
+Shang-Chi and the Legend of the Ten Rings,2021,IMDb,7.3
+Shang-Chi and the Legend of the Ten Rings,2021,Rotten Tomatoes,92%
+Shang-Chi and the Legend of the Ten Rings,2021,Metacritic,71/100
+Shang-Chi and the Legend of the Ten Rings,2021,TMDB,7.495
+Venom: Let There Be Carnage,2021,IMDb,5.9
+Venom: Let There Be Carnage,2021,Rotten Tomatoes,58%
+Venom: Let There Be Carnage,2021,Metacritic,49/100
+Venom: Let There Be Carnage,2021,TMDB,6.745
+Hawkeye,2021,TMDB,7.789
+Eternals,2021,IMDb,6.2
+Eternals,2021,Rotten Tomatoes,47%
+Eternals,2021,Metacritic,52/100
+Eternals,2021,TMDB,6.8
+Spider-Man: No Way Home,2021,IMDb,8.1
+Spider-Man: No Way Home,2021,Rotten Tomatoes,93%
+Spider-Man: No Way Home,2021,Metacritic,71/100
+Spider-Man: No Way Home,2021,TMDB,7.934
+Moon Knight,2022,TMDB,6.734
+Morbius,2022,IMDb,5.1
+Morbius,2022,Rotten Tomatoes,15%
+Morbius,2022,Metacritic,35/100
+Morbius,2022,TMDB,5.902
+Doctor Strange in the Multiverse of Madness,2022,IMDb,6.9
+Doctor Strange in the Multiverse of Madness,2022,Rotten Tomatoes,73%
+Doctor Strange in the Multiverse of Madness,2022,Metacritic,60/100
+Doctor Strange in the Multiverse of Madness,2022,TMDB,7.23
+Ms. Marvel,2022,TMDB,6.8
+Thor: Love and Thunder,2022,IMDb,6.1
+Thor: Love and Thunder,2022,Rotten Tomatoes,63%
+Thor: Love and Thunder,2022,Metacritic,57/100
+Thor: Love and Thunder,2022,TMDB,6.369
+I Am Groot (Season 1) (animated shorts),2022,IMDb,
+I Am Groot (Season 1) (animated shorts),2022,Rotten Tomatoes,
+I Am Groot (Season 1) (animated shorts),2022,Metacritic,
+I Am Groot (Season 1) (animated shorts),2022,TMDB,
+She-Hulk: Attorney at Law,2022,IMDb,5.2
+She-Hulk: Attorney at Law,2022,TMDB,6.579
+Werewolf by Night,2022,IMDb,7.1
+Werewolf by Night,2022,Rotten Tomatoes,90%
+Werewolf by Night,2022,TMDB,6.954
+Black Panther: Wakanda Forever,2022,IMDb,6.6
+Black Panther: Wakanda Forever,2022,Rotten Tomatoes,84%
+Black Panther: Wakanda Forever,2022,Metacritic,67/100
+Black Panther: Wakanda Forever,2022,TMDB,7.006
+The Guardians of the Galaxy Holiday Special,2022,IMDb,6.9
+The Guardians of the Galaxy Holiday Special,2022,Rotten Tomatoes,95%
+The Guardians of the Galaxy Holiday Special,2022,TMDB,7.097
+Ant-Man and the Wasp: Quantumania,2023,IMDb,6.0
+Ant-Man and the Wasp: Quantumania,2023,Rotten Tomatoes,46%
+Ant-Man and the Wasp: Quantumania,2023,Metacritic,48/100
+Ant-Man and the Wasp: Quantumania,2023,TMDB,6.226
+Moon Girl and Devil Dinosaur,2023,IMDb,7.5
+Moon Girl and Devil Dinosaur,2023,TMDB,7.5
+Secret Invasion,2023,IMDb,5.8
+Secret Invasion,2023,TMDB,5.2
+Guardians of the Galaxy Vol. 3,2023,IMDb,7.9
+Guardians of the Galaxy Vol. 3,2023,Rotten Tomatoes,82%
+Guardians of the Galaxy Vol. 3,2023,Metacritic,64/100
+Guardians of the Galaxy Vol. 3,2023,TMDB,7.931
+Spider-Man: Across the Spider-Verse,2023,IMDb,8.5
+Spider-Man: Across the Spider-Verse,2023,Rotten Tomatoes,95%
+Spider-Man: Across the Spider-Verse,2023,Metacritic,86/100
+Spider-Man: Across the Spider-Verse,2023,TMDB,8.336
+I Am Groot Season 2,2023,IMDb,
+I Am Groot Season 2,2023,Rotten Tomatoes,
+I Am Groot Season 2,2023,Metacritic,
+I Am Groot Season 2,2023,TMDB,
+The Marvels,2023,IMDb,5.5
+The Marvels,2023,Rotten Tomatoes,63%
+The Marvels,2023,Metacritic,50/100
+The Marvels,2023,TMDB,5.939
+Loki,2023,TMDB,7.595
+What If...?,2023,TMDB,6.2
+Echo,2024,TMDB,7.0
+X-Men '97,2024,IMDb,8.7
+X-Men '97,2024,TMDB,5.8
+Deadpool & Wolverine,2024,IMDb,7.5
+Deadpool & Wolverine,2024,Rotten Tomatoes,77%
+Deadpool & Wolverine,2024,Metacritic,56/100
+Deadpool & Wolverine,2024,TMDB,7.574
+Agatha All Along,2024,IMDb,7.2
+Agatha All Along,2024,TMDB,8.111
+Your Friendly Neighborhood Spider-Man,2025,IMDb,7.5
+Your Friendly Neighborhood Spider-Man,2025,TMDB,7.8
+Captain America: Brave New World,2025,IMDb,5.6
+Captain America: Brave New World,2025,Rotten Tomatoes,46%
+Captain America: Brave New World,2025,Metacritic,42/100
+Captain America: Brave New World,2025,TMDB,5.971
+Daredevil: Born Again,2025,IMDb,8.1
+Daredevil: Born Again,2025,TMDB,8.183
+Thunderbolts*,2025,IMDb,7.1
+Thunderbolts*,2025,Rotten Tomatoes,88%
+Thunderbolts*,2025,Metacritic,68/100
+Thunderbolts*,2025,TMDB,7.3
+Ironheart,2025,IMDb,4.5
+Ironheart,2025,TMDB,5.311
+The Fantastic Four: First Steps,2025,IMDb,6.8
+The Fantastic Four: First Steps,2025,Metacritic,65/100
+The Fantastic Four: First Steps,2025,TMDB,7.0
+Eyes of Wakanda,2025,IMDb,6.2
+Eyes of Wakanda,2025,TMDB,6.183
+Marvel Zombies,2025,IMDb,7.0
+Marvel Zombies,2025,TMDB,7.267
+Venom: The Last Dance,2025,IMDb,
+Venom: The Last Dance,2025,Rotten Tomatoes,
+Venom: The Last Dance,2025,Metacritic,
+Venom: The Last Dance,2025,TMDB,6.672
+Kraven the Hunter,2025,IMDb,
+Kraven the Hunter,2025,Rotten Tomatoes,
+Kraven the Hunter,2025,Metacritic,
+Kraven the Hunter,2025,TMDB,6.436
+Wonder Man,2026,IMDb,7.4
+Wonder Man,2026,TMDB,7.019
+Daredevil: Born Again,2026,IMDb,7.8
+Daredevil: Born Again,2026,TMDB,7.0
+Spider-Man: Brand New Day,2026,TMDB,0.0
