@@ -25,11 +25,16 @@ Language: Python 3. Libraries: pandas, NumPy, scikit-learn.
 
 ## Outputs (`data_processed/`)
 
-| File | What it is | Use it for 
-| `marvel_billing_clean.csv` | Cleaned data with engineered features, plus title, actor and character names for readability | Exploring the data, making figures for the report |
-| `train.csv` / `test.csv` | Model-ready: one-hot encoded, **unscaled** | Decision tree, random forest, gradient boosting |
-| `train_scaled.csv` / `test_scaled.csv` | Same data, numeric features standardized (scaler fit on train only) | Logistic regression, KNN, SVM, neural networks |
-| `cleaning_log.txt` | Row counts removed or changed at each step | Numbers to quote in the report |
+Preprocessing generates the following files in `data_processed/`:
+
+| File | Description | Intended Use |
+|---|---|---|
+| `marvel_billing_clean.csv` | Cleaned dataset with engineered features, including title, actor, and character names | Data exploration and report visualizations |
+| `train.csv` | Unscaled, one-hot encoded training data | Decision tree, random forest, gradient boosting |
+| `test.csv` | Unscaled, one-hot encoded testing data | Decision tree, random forest, gradient boosting |
+| `train_scaled.csv` | Standardized training data (scaler fit on training data only) | Logistic regression, KNN, SVM, neural networks |
+| `test_scaled.csv` | Standardized testing data | Logistic regression, KNN, SVM, neural networks |
+| `cleaning_log.txt` | Row counts removed or modified during preprocessing | Reporting data-cleaning decisions |
 
 **Targets (pick one per model, drop the other from X):**
 - `billing_tier` (classification): 0 = Lead (billed 1–3), 1 = Supporting (4–8), 2 = Minor (9–15)
