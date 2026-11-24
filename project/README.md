@@ -47,28 +47,34 @@ test  = pd.read_csv("data_processed/test_scaled.csv")
 X_train, y_train = train.drop(columns=["billing_tier", "billing_position"]), train["billing_tier"]
 X_test,  y_test  = test.drop(columns=["billing_tier", "billing_position"]),  test["billing_tier"]
 ```
-
 ## Features
 
-All history features are computed **only from productions released in earlier years**, so nothing from the current or future productions leaks in.
+All historical features are computed **only from productions released in earlier years**, preventing data leakage from current or future productions.
 
 | Feature | Meaning |
-| `year` | Release year |
-| `actor_prior_appearances` | Number of earlier Marvel productions the actor was billed in |
-| `actor_prior_mcu_appearances` | Same, MCU only |
-| `actor_prior_lead_count` | Times the actor was billed in the top 3 before |
-| `actor_prior_best_billing` / `_mean_billing` / `actor_last_billing` | Best, average and most recent previous billing (16 = no history) |
-| `actor_years_since_first` / `_since_last` | Years since the actor's first and most recent Marvel appearance |
-| `actor_is_debut` | 1 if this is the actor's first Marvel appearance |
-| `char_seen_before` | 1 if this character appeared before (played by anyone) |
-| `char_prior_appearances` | Number of earlier productions featuring the character |
-| `char_prior_best_billing` | Best billing the character has ever had (16 = new character) |
-| `actor_reprising_role` | 1 if the same actor played this character before |
-| `actor_prior_same_char_count` | How many times the actor has played this character |
-| `is_voice_role`, `is_uncredited` | Parsed from the character credit |
-| `is_tv_series`, `is_animated` | Production type |
-| `universe_*` | One-hot: MCU, Pre-MCU, Fox / X-Men, Sony / Spider-Man |
+|---|---|
+| `year` | Release year of the production. |
+| `actor_prior_appearances` | Number of earlier Marvel productions the actor was billed in. |
+| `actor_prior_mcu_appearances` | Number of earlier MCU productions the actor was billed in. |
+| `actor_prior_lead_count` | Number of times the actor was billed in the top three in previous productions. |
+| `actor_prior_best_billing` | Actor's best (lowest numerical) previous billing position. |
+| `actor_prior_mean_billing` | Actor's average billing position across previous productions. |
+| `actor_last_billing` | Actor's most recent previous billing position. |
+| `actor_years_since_first` | Years since the actor's first Marvel appearance. |
+| `actor_years_since_last` | Years since the actor's most recent Marvel appearance. |
+| `actor_is_debut` | 1 if this is the actor's first Marvel appearance; otherwise 0. |
+| `char_seen_before` | 1 if the character appeared in an earlier production, regardless of actor; otherwise 0. |
+| `char_prior_appearances` | Number of earlier productions featuring the character. |
+| `char_prior_best_billing` | Character's best historical billing position. |
+| `actor_reprising_role` | 1 if the same actor previously portrayed this character; otherwise 0. |
+| `actor_prior_same_char_count` | Number of earlier productions in which the actor portrayed the same character. |
+| `is_voice_role` | Whether the character credit represents a voice role. |
+| `is_uncredited` | Whether the actor's appearance is uncredited. |
+| `is_tv_series` | Whether the production is a television series. |
+| `is_animated` | Whether the production is animated. |
+| `universe_*` | One-hot encoded Marvel universe: MCU, Pre-MCU, Fox / X-Men, or Sony / Spider-Man. |
 
+**Note:** A billing value of `16` indicates no previous billing history (new actor or character). 
 ## Preprocessing notes
 
 **Raw data.** We use `marvel_cast.csv` (1,628 rows — top-15 billed cast of 115 productions, 1,149 unique actors) and `marvel_master.csv` (161 productions × 50 columns, for universe/TV/animated flags). The ratings and RAG CSVs are production-level and identical for every actor in a production, so they don't help predict billing within a production — not used.
